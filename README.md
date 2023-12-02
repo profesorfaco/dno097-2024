@@ -46,13 +46,13 @@ Según [Calendario de Actividades Académicas y Estudiantiles 2024](https://regi
 
 ### Referencias bibliográficas
 
-[O'Reilly](http://shop.oreilly.com/) ofrece un par de colecciones que podrían servir de referencia: "The Good Parts" y "Pocket Reference". En el desarrollo del Optativo, podrían consultar: 
+**Mínima**
 
 - Bellamy-Royds, A., Cagle, K., & Storey D. (2017). *Using SVG with CSS3 and HTML5: Vector Graphics for Web Design*
 - Murray, S. (2017). *Interactive Data Visualization for the Web, 2nd Edition*
 - Meirelles, I. (2014). *La información en el diseño*
 
-[A Book Apart](https://abookapart.com/) también les puede ser útil. Su colección recomendada para el Optativo es "…for web designers":
+**Complementaria**
 
 - Cairo, A. (2008). *Infografía 2.0: Visualización Interactiva de Información en Prensa*
 - Lupton, E. (2019). *El Diseño Como Storytelling*
@@ -61,6 +61,7 @@ Según [Calendario de Actividades Académicas y Estudiantiles 2024](https://regi
 ### Referencias en línea
 
 - A Periodic Table of Visualization Methods - https://www.visual-literacy.org/periodic_table/periodic_table.html
+- Catálogo de Visualización de Datos - https://datavizcatalogue.com/ES/
 - WTF Visualizations - https://viz.wtf/
 
 Se agregarán más referencias en el `README.md` de cada clase.
