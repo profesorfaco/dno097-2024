@@ -6,7 +6,7 @@ Desarrollo web y diseño visual de información (DNO097) es un Optativo de Profu
 
 ### Descripción:
 
-Partiendo desde el dominio de HTML, CSS y JavaScript, en este curso el estudiantado vinculará gráficos vectoriales escalables (SVG) con formatos ligeros de intercambio de datos (JSON, CSV, XML), para desarrollar, de manera autónoma, tableros de información (dashboards) e infografías digitales, interactivas y dinámicas. 
+Partiendo desde el dominio de HTML, CSS y JavaScript, en este curso el estudiantado vinculará gráficos vectoriales escalables (SVG) con formatos ligeros de intercambio de datos (JSON, CSV, XML), para desarrollar, de manera autónoma, tableros de información (*dashboards*) e infografías digitales, interactivas y dinámicas. 
 
 Para ello, se realizarán clases invertidas, simulaciones y aprendizaje basado en problemas. 
 
