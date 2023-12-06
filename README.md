@@ -14,6 +14,15 @@ Los aprendizajes serán evaluados por medio de actividades de aplicación en cad
 
 - - - - - - - - - -
 
+**Este curso tiene requisitos. Cada estudiantes debe tener aprobado uno de los siguientes**:
+
+- Diseño y nuevos medios (DNO037)
+- Infografía digital (DNO075)
+- Pensamiento Computacional (DNO1063)
+- Programación Creativa para Diseño (DNO069) 
+
+- - - - - - - - - -
+
 ### Materiales de trabajo
 
 Cada estudiante en este OPR debe disponer de:
