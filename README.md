@@ -72,6 +72,7 @@ Según [Calendario de Actividades Académicas y Estudiantiles 2024](https://regi
 
 - A Periodic Table of Visualization Methods - https://www.visual-literacy.org/periodic_table/periodic_table.html
 - Catálogo de Visualización de Datos - https://datavizcatalogue.com/ES/
+- SVG - MDN Web Docs - https://developer.mozilla.org/es/docs/Web/SVG
 - WTF Visualizations - https://viz.wtf/
 
 Se agregarán más referencias en el `README.md` de cada clase.
