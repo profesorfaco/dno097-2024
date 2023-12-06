@@ -18,9 +18,9 @@ Los aprendizajes serán evaluados por medio de actividades de aplicación en cad
 
 - Diseño y nuevos medios (DNO037)
 - Infografía digital (DNO075)
-- Introducción al Desarrollo Web desde el Diseño (DNO096)
-- Pensamiento Computacional (DNO1063)
-- Programación Creativa para Diseño (DNO069) 
+- Introducción al desarrollo web desde el diseño (DNO096)
+- Pensamiento computacional (DNO1063)
+- Programación creativa para diseño (DNO069) 
 
 - - - - - - - - - -
 
