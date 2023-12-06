@@ -68,13 +68,13 @@ Clase 08 → 24/04/2023 → Gráficas y datos en diseño web responsive: SVG y H
 
 Clase 09 → 01/05/2023 → FERIADO / RECESO DOCENCIA BIMESTRAL (Se suspenden las clases, las evaluaciones quedarán suspendidas entre el lunes 29 de abril y el lunes 6 de mayo inclusive)
 
-Clase 10 → 08/05/2023 → Gráficas y datos en diseño web responsive: SVG, HTML y CSS
+Clase 10 → 08/05/2023 → Gráficas y datos en diseño web responsive: SVG, HTML y JavaScript (primera parte)
 
-Clase 11 → 15/05/2023 → Gráficas y datos en diseño web responsive: SVG, HTML, CSS y JavaScript (primera parte)
+Clase 11 → 15/05/2023 → Gráficas y datos en diseño web responsive: SVG, HTML y JavaScript (segunda parte)
 
-Clase 12 → 22/05/2023 → Gráficas y datos en diseño web responsive SVG, HTML, CSS y JavaScript (segunda parte)
+Clase 12 → 22/05/2023 → Gráficas y datos en diseño web responsive SVG, HTML, CSS y JavaScript (primera parte)
 
-Clase 13 → 29/05/2023 → Gráficas y datos en diseño web responsive SVG, HTML, CSS y JavaScript (tercera parte)
+Clase 13 → 29/05/2023 → Gráficas y datos en diseño web responsive SVG, HTML, CSS y JavaScript (segunda parte)
 
 Clase 14 → 05/06/2023 → Diseño y programación: Propuesta de tablero de información (*dashboard*) o infografía digital, interactiva y dinámica
 
