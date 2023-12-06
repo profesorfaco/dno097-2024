@@ -50,41 +50,41 @@ Cada estudiante en este OPR debe disponer de:
 
 Según [Calendario de Actividades Académicas y Estudiantiles 2024](https://registrosacademicos.uc.cl/wp-content/uploads/2023/11/Calendario-Academico-2024.pdf), las clases del primer semestre comienzan el día lunes 6 de marzo y finalizan el viernes 15 de julio.
 
-Clase 01 → 06/03/2023 → Datos e información
+[Clase 01](https://github.com/profesorfaco/dno097-2024/tree/main/clase-01) → 06/03/2023 → Datos e información
 
-Clase 02 → 13/03/2023 → Datos e información en gráficas (primera parte)
+[Clase 02](https://github.com/profesorfaco/dno097-2024/tree/main/clase-02) → 13/03/2023 → Datos e información en gráficas (primera parte)
 
-Clase 03 → 20/03/2023 → Datos e información en gráficas (segunda parte)
+[Clase 03](https://github.com/profesorfaco/dno097-2024/tree/main/clase-03) → 20/03/2023 → Datos e información en gráficas (segunda parte)
 
-Clase 04 → 27/03/2023 → Formatos ligeros de intercambios de datos en la creación de gráficas: CSV
+[Clase 04](https://github.com/profesorfaco/dno097-2024/tree/main/clase-04) → 27/03/2023 → Formatos ligeros de intercambios de datos en la creación de gráficas: CSV
 
-Clase 05 → 03/04/2023 → Formatos ligeros de intercambios de datos en la creación de gráficas: JSON (primera parte)
+[Clase 05](https://github.com/profesorfaco/dno097-2024/tree/main/clase-05) → 03/04/2023 → Formatos ligeros de intercambios de datos en la creación de gráficas: JSON (primera parte)
 
-Clase 06 → 10/04/2023 → Formatos ligeros de intercambios de datos en la creación de gráficas: JSON (segunda parte)
+[Clase 06](https://github.com/profesorfaco/dno097-2024/tree/main/clase-06) → 10/04/2023 → Formatos ligeros de intercambios de datos en la creación de gráficas: JSON (segunda parte)
 
-Clase 07 → 17/04/2023 → Gráficas y datos en diseño web responsive: SVG
+[Clase 07](https://github.com/profesorfaco/dno097-2024/tree/main/clase-07) → 17/04/2023 → Gráficas y datos en diseño web responsive: SVG
 
-Clase 08 → 24/04/2023 → Gráficas y datos en diseño web responsive: SVG y HTML
+[Clase 08](https://github.com/profesorfaco/dno097-2024/tree/main/clase-08)  → 24/04/2023 → Gráficas y datos en diseño web responsive: SVG y HTML
 
-Clase 09 → 01/05/2023 → FERIADO / RECESO DOCENCIA BIMESTRAL (Se suspenden las clases, las evaluaciones quedarán suspendidas entre el lunes 29 de abril y el lunes 6 de mayo inclusive)
+Clase 09  → 01/05/2023 → FERIADO / RECESO DOCENCIA BIMESTRAL (Se suspenden las clases, las evaluaciones quedarán suspendidas entre el lunes 29 de abril y el lunes 6 de mayo inclusive)
 
-Clase 10 → 08/05/2023 → Gráficas y datos en diseño web responsive: SVG, HTML y JavaScript (primera parte)
+[Clase 10](https://github.com/profesorfaco/dno097-2024/tree/main/clase-10)  → 08/05/2023 → Gráficas y datos en diseño web responsive: SVG, HTML y JavaScript (primera parte)
 
-Clase 11 → 15/05/2023 → Gráficas y datos en diseño web responsive: SVG, HTML y JavaScript (segunda parte)
+[Clase 11](https://github.com/profesorfaco/dno097-2024/tree/main/clase-11)  → 15/05/2023 → Gráficas y datos en diseño web responsive: SVG, HTML y JavaScript (segunda parte)
 
-Clase 12 → 22/05/2023 → Gráficas y datos en diseño web responsive SVG, HTML, CSS y JavaScript (primera parte)
+[Clase 12](https://github.com/profesorfaco/dno097-2024/tree/main/clase-12) → 22/05/2023 → Gráficas y datos en diseño web responsive SVG, HTML, CSS y JavaScript (primera parte)
 
-Clase 13 → 29/05/2023 → Gráficas y datos en diseño web responsive SVG, HTML, CSS y JavaScript (segunda parte)
+[Clase 13](https://github.com/profesorfaco/dno097-2024/tree/main/clase-13)  → 29/05/2023 → Gráficas y datos en diseño web responsive SVG, HTML, CSS y JavaScript (segunda parte)
 
-Clase 14 → 05/06/2023 → Diseño y programación: Propuesta de tablero de información (*dashboard*) o infografía digital, interactiva y dinámica
+[Clase 14](https://github.com/profesorfaco/dno097-2024/tree/main/clase-14)  → 05/06/2023 → Diseño y programación: Propuesta de tablero de información (*dashboard*) o infografía digital, interactiva y dinámica
 
-Clase 15 → 12/06/2023 → Diseño y programación: Datos para la propuesta
+[Clase 15](https://github.com/profesorfaco/dno097-2024/tree/main/clase-15)  → 12/06/2023 → Diseño y programación: Datos para la propuesta
 
-Clase 16 → 19/06/2023 → Diseño y programación: Desarollo de la propuesta
+[Clase 16](https://github.com/profesorfaco/dno097-2024/tree/main/clase-16)  → 19/06/2023 → Diseño y programación: Desarollo de la propuesta
 
-Clase 17 → 26/06/2023 → Diseño y programación: Evaluación de la propuesta
+[Clase 17](https://github.com/profesorfaco/dno097-2024/tree/main/clase-17)  → 26/06/2023 → Diseño y programación: Evaluación de la propuesta
 
-Clase 18 → 03/07/2023 → EXÁMENES DE CURSOS MÍNIMOS Y OPTATIVOS
+[Clase 18](https://github.com/profesorfaco/dno097-2024/tree/main/clase-18) → 03/07/2023 → EXÁMENES DE CURSOS MÍNIMOS Y OPTATIVOS
 
 **Cada clase se basará en modalidad de “aula invertida”**; esto transfiere a cada estudiante la responsabilidad de adelantar la revisión de la "teoría" en el README.md de cada clase. Para que quede más claro, en los primeros README.md el título de **Teoría** es seguido por un paréntesis **(para la casa)**. Si cada estudiante revisa esta "teoría para la casa", las clases de los miércoles podrán basarse en una práctica que organizará su comprensión, atendiendo a dudas puntuales.
 
