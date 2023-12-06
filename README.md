@@ -14,7 +14,7 @@ Los aprendizajes serán evaluados por medio de actividades de aplicación en cad
 
 - - - - - - - - - -
 
-**Este curso tiene requisitos. Cada estudiantes debe tener aprobado uno de los siguientes**:
+**Este curso tiene como requisito la aprobación previa de uno de los siguientes**:
 
 - Diseño y nuevos medios (DNO037)
 - Infografía digital (DNO075)
