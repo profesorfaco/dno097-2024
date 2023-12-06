@@ -48,7 +48,43 @@ Cada estudiante en este OPR debe disponer de:
 
 **Miércoles en módulos 3 y 4, esto es entre 11:00 y 13:30 hrs.** 
 
-Según [Calendario de Actividades Académicas y Estudiantiles 2024](https://registrosacademicos.uc.cl/wp-content/uploads/2023/11/Calendario-Academico-2024.pdf), las clases del primer semestre comienzan el día lunes 6 de marzo y finalizan el viernes 15 de julio. 
+Según [Calendario de Actividades Académicas y Estudiantiles 2024](https://registrosacademicos.uc.cl/wp-content/uploads/2023/11/Calendario-Academico-2024.pdf), las clases del primer semestre comienzan el día lunes 6 de marzo y finalizan el viernes 15 de julio.
+
+Clase 01 → 06/03/2023 → Datos e información en gráficas figurativas
+
+Clase 02 → 13/03/2023 → Datos e información en gráficas no figurativas
+
+Clase 03 → 20/03/2023 → Datos e información en gráficas mixtas
+
+Clase 04 → 27/03/2023 → Formatos ligeros de intercambios de datos en la creación de gráficas: CSV
+
+Clase 05 → 03/04/2023 → Formatos ligeros de intercambios de datos en la creación de gráficas: JSON (primera parte)
+
+Clase 06 → 10/04/2023 → Formatos ligeros de intercambios de datos en la creación de gráficas: JSON (segunda parte)
+
+Clase 07 → 17/04/2023 → Gráficas y datos en diseño web responsive: SVG
+
+Clase 08 → 24/04/2023 → Gráficas y datos en diseño web responsive: SVG y HTML
+
+Clase 09 → 01/05/2023 → FERIADO / RECESO DOCENCIA BIMESTRAL (Se suspenden las clases, las evaluaciones quedarán suspendidas entre el lunes 29 de abril y el lunes 6 de mayo inclusive)
+
+Clase 10 → 08/05/2023 → Gráficas y datos en diseño web responsive: SVG, HTML y CSS
+
+Clase 11 → 15/05/2023 → Gráficas y datos en diseño web responsive: SVG, HTML, CSS y JavaScript (primera parte)
+
+Clase 12 → 22/05/2023 → Gráficas y datos en diseño web responsive SVG, HTML, CSS y JavaScript (segunda parte)
+
+Clase 13 → 29/05/2023 → Gráficas y datos en diseño web responsive SVG, HTML, CSS y JavaScript (tercera parte)
+
+Clase 14 → 05/06/2023 → Diseño y programación: Propuesta de tablero de información (*dashboard*) o infografía digital, interactiva y dinámica
+
+Clase 15 → 12/06/2023 → Diseño y programación: Datos para la propuesta
+
+Clase 16 → 19/06/2023 → Diseño y programación: Desarollo de la propuesta
+
+Clase 17 → 26/06/2023 → Diseño y programación: Evaluación de la propuesta
+
+Clase 18 → 03/07/2023 → EXÁMENES DE CURSOS MÍNIMOS Y OPTATIVOS
 
 **Cada clase se basará en modalidad de “aula invertida”**; esto transfiere a cada estudiante la responsabilidad de adelantar la revisión de la "teoría" en el README.md de cada clase. Para que quede más claro, en los primeros README.md el título de **Teoría** es seguido por un paréntesis **(para la casa)**. Si cada estudiante revisa esta "teoría para la casa", las clases de los miércoles podrán basarse en una práctica que organizará su comprensión, atendiendo a dudas puntuales.
 
