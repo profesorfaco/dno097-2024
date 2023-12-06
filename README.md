@@ -50,11 +50,11 @@ Cada estudiante en este OPR debe disponer de:
 
 Según [Calendario de Actividades Académicas y Estudiantiles 2024](https://registrosacademicos.uc.cl/wp-content/uploads/2023/11/Calendario-Academico-2024.pdf), las clases del primer semestre comienzan el día lunes 6 de marzo y finalizan el viernes 15 de julio.
 
-Clase 01 → 06/03/2023 → Datos e información en gráficas no figurativas
+Clase 01 → 06/03/2023 → Datos e información
 
-Clase 02 → 13/03/2023 → Datos e información en gráficas figurativas
+Clase 02 → 13/03/2023 → Datos e información en gráficas (primera parte)
 
-Clase 03 → 20/03/2023 → Datos e información en gráficas mixtas
+Clase 03 → 20/03/2023 → Datos e información en gráficas (segunda parte)
 
 Clase 04 → 27/03/2023 → Formatos ligeros de intercambios de datos en la creación de gráficas: CSV
 
