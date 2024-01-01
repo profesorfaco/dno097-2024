@@ -10,7 +10,7 @@ Partiendo desde el dominio de HTML, CSS y JavaScript, en este curso el estudiant
 
 Para ello, se realizarán clases invertidas, simulaciones y aprendizaje basado en problemas. 
 
-Los aprendizajes serán evaluados por medio de actividades de aplicación en cada clase.
+Los aprendizajes serán evaluados por medio de actividades de aplicación en cada clase, y de manera presencial (este no es un curso remoto ni híbrido).
 
 - - - - - - - - - -
 
