@@ -8,7 +8,7 @@ Desarrollo web y diseño visual de información (DNO097) es un Optativo de Profu
 
 Partiendo desde el dominio de HTML, CSS y JavaScript, en este curso el estudiantado vinculará gráficos vectoriales escalables (SVG) con formatos ligeros de intercambio de datos (JSON, CSV, XML), para desarrollar, de manera autónoma, tableros de información (*dashboards*) e infografías digitales, interactivas y dinámicas. 
 
-Para ello, se realizarán clases invertidas, simulaciones y aprendizaje basado en problemas. 
+Para ello, se realizarán [clases invertidas](https://desarrollodocente.uc.cl/servicios/asesorias-personalizadas/metodologias-innovadoras/aprendizaje-invertido/), simulaciones y aprendizaje basado en problemas. 
 
 Los aprendizajes serán evaluados por medio de actividades de aplicación en cada clase, y de manera presencial (este no es un curso remoto ni híbrido).
 
