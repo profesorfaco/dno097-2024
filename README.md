@@ -10,7 +10,7 @@ Partiendo desde el dominio de HTML, CSS y JavaScript, en este curso el estudiant
 
 Para ello, se realizarán [clases invertidas](https://desarrollodocente.uc.cl/servicios/asesorias-personalizadas/metodologias-innovadoras/aprendizaje-invertido/), simulaciones y aprendizaje basado en problemas. 
 
-Los aprendizajes serán evaluados por medio de actividades de aplicación en cada clase, y de manera presencial (este no es un curso remoto ni híbrido).
+Los aprendizajes serán evaluados por medio de actividades de aplicación en cada clase, y de manera presencial (**este no es un curso remoto ni híbrido**).
 
 - - - - - - - - - -
 
