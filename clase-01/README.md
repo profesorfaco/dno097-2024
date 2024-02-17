@@ -40,7 +40,7 @@ En este optativo es necesario que, en su partida, cada estudiante pueda comprend
   </body>
 </html>
 ```
-Si se lo comprende, podremos dar el primer paso concentrándonos en la variable-constante `data`, a la que se le asigna un arreglo `[]` con dos números enteros: `50, 10` que, de momento, no son más que un par de cifras sin sentido (sin origen ni destino).
+Si se lo comprende, podremos dar el primer paso concentrándonos en la variable-constante `data`, a la que se le asigna un arreglo con dos números enteros que, de momento, no son más que un par de cifras sin sentido (sin origen ni destino).
 
 - - - - - - - - - - - - - - 
 
