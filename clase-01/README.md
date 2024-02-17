@@ -8,7 +8,7 @@ El título dice, entre paréntesis, “para la casa”. La razón de lo dicho es
 
 --------
 
-En este optativo es necesario que, en su partida, cada estudiante pueda comprender lo que sigue: 
+En este optativo es necesario que, en su partida, cada estudiante pueda leer-comprender lo que sigue: 
 
 ```
 <!doctype html>
