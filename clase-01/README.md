@@ -44,9 +44,9 @@ Si se lo comprende, podremos dar el primer paso concentrándonos en la variable-
 
 Examinemos lo del párrafo anterior, partiendo por las primeras acepciones de Data, en inglés:
 
-- *[plural in form but singular or plural in construction] factual information (such as measurements or statistics) used as a basis for reasoning, discussion, or calculation* —Merrian-Webster Dictionary.
+- [plural in form but singular or plural in construction] *factual information (such as measurements or statistics) used as a basis for reasoning, discussion, or calculation* —Merrian-Webster Dictionary.
 
-- *[uncountable, plural] facts or information, especially when examined and used to find out things or to make decisions* —Oxford dictionary.
+- [uncountable, plural] *facts or information, especially when examined and used to find out things or to make decisions* —Oxford dictionary.
 
 50 y 10 no nos permiten razonamiento, discusión, cálculo o toma de decisión más allá de la convencional multiplicación. Convencional porque hemos que adoptar convenios o pactos sobre algunos símbolos como números y distintas operaciones matemáticas. No es un hecho (*fact*) que 50 sea 5 veces 10, si es un convenio o pacto adoptado (ver convenional en [RAE](https://dle.rae.es/convencional)).
 
