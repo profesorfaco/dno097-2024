@@ -4,7 +4,7 @@
 
 ### Teoría (para la casa)
 
-El título dice, entre paréntesis, “para la casa”. La razón de aquello está en la apuesta de este optativo por el aprendizaje invertido. La explicación de la apuesta la encuentran en esta página del [Centro de Desarrollo Docente UC](https://desarrollodocente.uc.cl/servicios/asesorias-personalizadas/metodologias-innovadoras/aprendizaje-invertido/). Pero, en su apuesta, este optativo hace un ajuste: No se basa en videos, sino en hipertexto que, en algunas clases, podría vincular a videos.
+El título dice, entre paréntesis, “para la casa”. La razón de aquello está en la apuesta de este optativo por el aprendizaje invertido. La explicación de la apuesta la encuentran en esta página del [Centro de Desarrollo Docente UC](https://desarrollodocente.uc.cl/servicios/asesorias-personalizadas/metodologias-innovadoras/aprendizaje-invertido/). Pero, en su apuesta, este optativo hace un ajuste: No se basa en videos de contenido, sino en hipertexto que, en algunas clases, podría vincular a videos.
 
 --------
 
