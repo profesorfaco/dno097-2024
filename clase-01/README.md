@@ -54,7 +54,7 @@ Examinemos lo del párrafo anterior, partiendo por las primeras acepciones de Da
 
 50 y 10 no nos permiten razonamiento, discusión, cálculo o toma de decisión más allá de la convencional multiplicación. Convencional porque nos exige adoptar convenios o pactos sobre símbolos como números y operaciones matemáticas. No es un hecho (*fact*) que 50 sea 5 veces 10. Si es un convenio o pacto adoptado (ver convenional en [RAE](https://dle.rae.es/convencional)).
 
-Falta conectar a 50 y 10 con un *fact* para tener *data*. Esa conexión exige un camino, y el camino debe tener un sentido (tal como en el tránsito).
+Falta conectar a 50 y 10 con un *fact* para tener *data*. Esa conexión exige un camino, y el camino debería tener un sentido tal como en el tránsito.
 
 - - - - - - - - - - - - - - 
 
