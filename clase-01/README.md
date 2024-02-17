@@ -42,6 +42,16 @@ En este optativo es necesario que, en su partida, cada estudiante pueda comprend
 ```
 Si se lo comprende, podremos dar el primer paso concentrándonos en la variable-constante `data`, a la que se le asigna un arreglo con **dos números enteros que, de momento, no tienen sentido**: No tenemos su origen ni su destino, pero los tenemos a la vista siendo el primero, convencionalmente, cinco veces el segundo.
 
+Examinemos lo del párrafo anterior, partiendo por las primeras acepciones de Data, en inglés:
+
+- *[plural in form but singular or plural in construction] factual information (such as measurements or statistics) used as a basis for reasoning, discussion, or calculation* —Merrian-Webster Dictionary.
+
+- *[uncountable, plural] facts or information, especially when examined and used to find out things or to make decisions* —Oxford dictionary.
+
+50 y 10 no nos permiten razonamiento, discusión, cálculo o toma de decisión más allá la convencional multiplicación; convencional porque hemos que adoptar convenios o pactos sobre algunos símbolos como números y distintas operaciones matemáticas (ver [RAE](https://dle.rae.es/convencional)).
+
+Falta conectar a 50 y 10 con un *fact* para tener *data*. Esa conexión exige un camino, y el camino debe tener un sentido (como el de tránsito).
+
 - - - - - - - - - - - - - - 
 
 ### Práctica (para la clase)
