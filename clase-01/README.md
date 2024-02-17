@@ -40,7 +40,7 @@ En este optativo es necesario que, en su partida, cada estudiante pueda comprend
   </body>
 </html>
 ```
-Si se lo comprende, podremos dar el primer paso concentrándonos en la variable-constante `data`, a la que se le asigna un arreglo con dos números enteros que, de momento, no tienen sentido (no tenemos su origen ni su destino, pero las tenemos a la vista siendo la primera cinco veces mayor que la segunda).
+Si se lo comprende, podremos dar el primer paso concentrándonos en la variable-constante `data`, a la que se le asigna un arreglo con dos números enteros que, de momento, no tienen sentido: No tenemos su origen ni su destino, pero los tenemos a la vista siendo el primero cinco veces el segundo.
 
 - - - - - - - - - - - - - - 
 
