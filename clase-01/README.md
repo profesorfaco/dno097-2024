@@ -70,7 +70,13 @@ Allí está la base para comenzar a trabajar un concepto propio de información,
 
 Conectemos los números de arriba con un *fact* para tener *data*. Los números pueden cambiar (no es necesario que sea 50 y 10).
 
-Luego aprovechemos el código fuente en la página de https://www.guemil.info/meaning/ para convertir los números en porcentajes (partes de un total de 100) que se muestre en un [Gráfico de Dónut](https://datavizcatalogue.com/ES/metodos/grafico_de_donut.html), reconociendo sus ventajas y desventajas.
+Luego aprovechemos: 
+
+- el código fuente de la página de https://www.guemil.info/meaning/ 
+
+- las instrucciones en https://heyoka.medium.com/scratch-made-svg-donut-pie-charts-in-html5-2c587e935d72
+
+para convertir los números en porcentajes (partes de un total de 100) que se muestre en un [Gráfico de Dónut](https://datavizcatalogue.com/ES/metodos/grafico_de_donut.html), reconociendo sus ventajas y desventajas.
 
 - - - - - - - 
 
