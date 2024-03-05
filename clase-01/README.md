@@ -60,7 +60,7 @@ Pero no es tan conveniente profundizar ahora en cuestiones "fenomenológicas", c
 
 - van Meter, H. J. (2020). Revising the DIKW pyramid and the real relationship between data, information, knowledge, and wisdom. Law, Technology and Humans, 2(2), 69–80. https://search.informit.org/doi/10.3316/agispt.20210112042035
 
-- McDowell, K. (2021). Storytelling wisdom: Story, information, and DIKW. Jasist, 72 (10), 1223-1233. https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/asi.24466
+- McDowell, K. (2021). Storytelling wisdom: Story, information, and DIKW. Jasist, Journal of the ASsociation for Information Science and Technology, 72 (10), 1223-1233. https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/asi.24466
 
 Allí está la base para comenzar a trabajar un concepto propio de información, que es lo que cada estudiante diseñará visualmente con herramientas como las que ya se muestran en el código de más arriba.
 
