@@ -78,6 +78,10 @@ Luego aprovechemos:
 
 para convertir los números en porcentajes (partes de un total de 100) que se muestre en un [Gráfico de Dónut](https://datavizcatalogue.com/ES/metodos/grafico_de_donut.html), reconociendo sus ventajas y desventajas.
 
+Los resultados deben publicarse en un repositorio de GitHub, para el que se debe activar la GitHub Pages.
+
+Luego ingrese datos a https://cursos.canvas.uc.cl/courses/73175/discussion_topics/742764
+
 - - - - - - - 
 
 ###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno097-2024/tree/main/clase-02)
