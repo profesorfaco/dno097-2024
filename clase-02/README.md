@@ -6,21 +6,21 @@
 
 Retomemos las ideas compartidas la clase recién pasada, mediante tres citas.
 
-La primera la tomamos de Ética para Celia, de Ana de Miguel (2021, p.117): 
+La primera la tomamos de *Ética para Celia*, de Ana de Miguel (2021, p.117): 
 
 > Una vez más, diremos, sin resentimiento pero cargadas de razones y con Adrienne Rich, que «objetividad» es el nombre que se da a la «subjetividad masculina». 
 
-La segunda cita la tomamos de «Después del método : Desorden en la investigación en ciencias sociales» (2020,p.?)
+La segunda cita la tomamos de *Después del método : Desorden en la investigación en ciencias sociales*, de John Law (2020,p.?):
 
 > pendiente
 
-La tercera cita la tomamos de «Nunca fuimos modernos: Ensayos de antropología simétrica» de Bruno Latour (2022,p.?)
+La tercera cita la tomamos de *Nunca fuimos modernos: Ensayos de antropología simétrica*, de Bruno Latour (2022,p.?):
 
 > pendiente
 
 Tales citas invitan a sospechar mucho de lo que se presenta como dato objetivo, que captura la realidad.
 
-A propósito de realidad conviene sumar una cuarta cita, que tomamos de «La Objetividad, una argumentos para obligar», de Humberto Maturana (2007,p.40)
+A propósito de realidad conviene sumar una cuarta cita, que tomamos de *La Objetividad, una argumentos para obligar*, de Humberto Maturana (2007,p.40)
 
 > [L]a realidad surge como una proposición explicativa de nuestra experiencia de las coherencias operacionales en nuestra vida diaria y técnica, como las vivimos en nuestra vida técnica y diaria.
 
