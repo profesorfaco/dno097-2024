@@ -82,6 +82,24 @@ Los resultados deben publicarse en un repositorio de GitHub, para el que se debe
 
 Luego ingrese datos a https://cursos.canvas.uc.cl/courses/73175/discussion_topics/742764
 
+Con lo ingresado, se rellena la siguiente tabla:
+
+| N° | Nombre | Github | Primer ejercicio |
+|:----:|:------|:------|:------|
+| 1 | ISIDORA ARRIAGADA | https://github.com/isidjan/ | https://isidjan.github.io/dnoweb097/ |
+| 2 | TRINIDAD FORSTER | https://github.com/Trinidad-Forster/ | https://trinidad-forster.github.io/C1_06-03/ |
+| 3 | TAHIS FUENTES | https://github.com/tafucita/ | https://tafucita.github.io/clase-1/ |
+| 4 | SARA GOLDZVEIG | https://github.com/saragoldzveig/ | https://saragoldzveig.github.io/clase-01/ |
+| 5 | JOSEFINA IMSCHENETZKY | https://github.com/jimschenetzky/ | https://github.com/jimschenetzky/DNOWEB_01 |
+| 6 | JAVIERA MOLIN | https://github.com/javimolin-uc/ | https://javimolin-uc.github.io/C1/ |
+| 7 | ISIDORA MUÑOZ | https://github.com/Isidoramunoz/ | https://isidoramunoz.github.io/dnoweb/ |
+| 8 | VALENTINA NAVARRETE | https://github.com/valenavarrete/ | https://valenavarrete.github.io/Clase-1/ |
+| 9 | TRINIDAD RODRÍGUEZ | https://github.com/trinirodriguez/ | https://trinirodriguez.github.io/dno-01/ |
+| 10 | CATALINA SEGUEL | https://github.com/cataseguel/ | https://cataseguel.github.io/Clase-01-DNO097/ |
+| 11 | FRANCISCA SOTO | — | - |
+| 12 | MARÍA ANGÉLICA VALDÉS | — | - |
+| 13 | CAMILA VALLEJO | https://github.com/Camivallejo | https://camivallejo.github.io/clase_01_web/ |
+
 - - - - - - - 
 
 ###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno097-2024/tree/main/clase-02)
