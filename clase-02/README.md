@@ -18,7 +18,7 @@ La tercera cita la tomamos de «Nunca fuimos modernos: Ensayos de antropología 
 
 > pendiente
 
-Tales citas invitan a sospechar mucho de lo que se presenta como dato objetivo que captura la realidad.
+Tales citas invitan a sospechar mucho de lo que se presenta como dato objetivo, que captura la realidad.
 
 A propósito de realidad conviene sumar una cuarta cita, que tomamos de «La Objetividad, una argumentos para obligar», de Humberto Maturana (2007,p.40)
 
