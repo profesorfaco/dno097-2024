@@ -40,7 +40,7 @@ La palabra que en el español es *gráficas*, en su original alemán es *Diagram
 
 > Jahrhunderts die erfolgreichste und bis heute omnipräsente kognitive Bildform, nämlich **das Diagramm**.
 
-Tanto en la traducción con en el original se acompaña al texto con una gráfica/Diagramm de William Playfair de la década de 1780, muy similar al que se encuentra en [Wikicommons](https://commons.wikimedia.org/wiki/File:Playfair_TimeSeries-2.png), donde es asociada con la palabra *chart*, misma palabra que Playfair utiliza en algunos títulos de *The Commercial and Politica Atlas* (1786) y *Statical Breviary* (1801), publicaciones que, según Alberto Cairo (2021), contienen los primeros ejemplos de los tipos más comunes de gráficas estadísticas: de barras, fiebre y tarta. 
+Tanto en la traducción con en el original se acompaña al texto con una gráfica/Diagramm de William Playfair de la década de 1780, muy similar al que se encuentra en [Wikicommons](https://commons.wikimedia.org/wiki/File:Playfair_TimeSeries-2.png), donde es asociada con la palabra *chart*, misma palabra que Playfair utiliza en algunos títulos de *The Commercial and Politica Atlas* (1786) y *Statical Breviary* (1801), publicaciones que, según Alberto Cairo (2008), contienen los primeros ejemplos de los tipos más comunes de gráficas estadísticas: de barras, fiebre y tarta. 
 
 - - - - - - - - - - - - - - 
 
