@@ -4,7 +4,7 @@
 
 ### Teoría (para la casa)
 
-Retomemos las ideas compartidas la clase recién pasada, mediante tres citas.
+Retomemos las ideas compartidas la clase recién pasada, mediante dos citas.
 
 La primera la tomamos de *Ética para Celia*, de Ana de Miguel (2021, p.117): 
 
@@ -14,11 +14,7 @@ La segunda cita la tomamos de *Después del método : Desorden en la investigaci
 
 > pendiente
 
-La tercera cita la tomamos de *Nunca fuimos modernos: Ensayos de antropología simétrica*, de Bruno Latour (2022,p.?):
-
-> pendiente
-
-Tales citas invitan a sospechar mucho de lo que se presenta como dato objetivo, que captura la realidad.
+Tales citas invitan a sospechar de lo que se presenta como dato objetivo, o dato duro, que captura la realidad.
 
 A propósito de realidad conviene sumar una cuarta cita, que tomamos de *La Objetividad, una argumentos para obligar*, de Humberto Maturana (2007,p.40):
 
