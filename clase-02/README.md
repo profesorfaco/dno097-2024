@@ -10,9 +10,9 @@ La primera la tomamos de *Ética para Celia*, de Ana de Miguel (2021, p.117):
 
 > Una vez más, diremos, sin resentimiento pero cargadas de razones y con Adrienne Rich, que «objetividad» es el nombre que se da a la «subjetividad masculina». 
 
-La segunda cita la tomamos de *Después del método : Desorden en la investigación en ciencias sociales*, de John Law (2020,p.?):
+La segunda cita la tomamos de *Después del método : Desorden en la investigación en ciencias sociales*, de John Law (2020,pp.21-22):
 
-> pendiente
+> Sin duda, las estructuras locales se pueden identificar, pero, o eso quiero argumentar, el mundo en general desafía cualquier intento de contabilización completa y ordenada. El mundo no debe ser entendido mediante la adopción de una versión metodológica de la auditoría. Las regularidades y las estandarizaciones son herramientas increíblemente poderosas, pero establecen límites. Esa es una parte de su poder (de doble filo).
 
 Tales citas invitan a sospechar de lo que se presenta como dato objetivo, o dato duro, que captura la realidad.
 
