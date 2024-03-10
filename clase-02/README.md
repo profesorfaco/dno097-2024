@@ -40,9 +40,7 @@ La palabra que en el español es *gráficas*, en su original alemán es *Diagram
 
 > Jahrhunderts die erfolgreichste und bis heute omnipräsente kognitive Bildform, nämlich **das Diagramm**.
 
-Tanto en la traducción con en el original se acompaña al texto con una gráfica/Diagramm de William Playfair de la década de 1780, muy similar al que se encuentra en [Wikicommons](https://commons.wikimedia.org/wiki/File:Playfair_TimeSeries-2.png)
-
-
+Tanto en la traducción con en el original se acompaña al texto con una gráfica/Diagramm de William Playfair de la década de 1780, muy similar al que se encuentra en [Wikicommons](https://commons.wikimedia.org/wiki/File:Playfair_TimeSeries-2.png), que es asociado con el inglés *chart*.
 
 - - - - - - - - - - - - - - 
 
