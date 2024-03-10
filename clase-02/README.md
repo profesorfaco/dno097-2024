@@ -16,7 +16,7 @@ La segunda cita la tomamos de *Después del método : Desorden en la investigaci
 
 Tales citas invitan a sospechar de lo que se presenta como dato objetivo, o dato duro, que captura la realidad.
 
-A propósito de realidad conviene sumar una cuarta cita, que tomamos de *La Objetividad, una argumentos para obligar*, de Humberto Maturana (2007,p.40):
+A propósito de realidad conviene sumar una tercera cita, que tomamos de *La Objetividad, una argumentos para obligar*, de Humberto Maturana (2007,p.40):
 
 > [L]a realidad surge como una proposición explicativa de nuestra experiencia de las coherencias operacionales en nuestra vida diaria y técnica, como las vivimos en nuestra vida técnica y diaria.
 
