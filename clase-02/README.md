@@ -32,6 +32,17 @@ La sospecha debe ser incluida en la base de la pirámide DIKW (Data → Informat
 
 **Hecha la vinculación con la clase previa, sobre [Datos e información](https://github.com/profesorfaco/dno097-2024/tree/main/clase-01#readme), conviene avanzar a las gráficas**.
 
+Y nos referiremos, primero, a las gráficas que se describen en las palabras de Gottfried Boehm, que tomamos de su *¿Más allá del lenguaje? Apuntes sobre la lógica de las imágenes*, según son traducidas por Antonio de la Cruz Valles y Ana Garcia Varas, para el libro Filosofía de la Imagen (García Varas, 2011):
+
+> Surgió, bien entrada la segunda mitad del siglo XVIII, la forma de imagen cognitiva de mayor éxito y que hoy todavía es omnipresente: **la gráfica**. La gráfica es a menudo, y pese a su fuerte connotación cognitiva, una verdadera imagen, porque permite visualizar grandes magnitudes abstractas de un modo casi inimaginable. Traslada lo abstracto (por ejemplo, los datos sobre el volumen de intercambio, de tonelaje, de bienes, de frecuencias en relación con un intervalo temporal, etc.) a una configuración visual que *muestra* lo que nunca podría verse sin más en columnas de números. Con la gráfica la representación estadística se transformó radicalmente, al convertir la cantidad estadística en una cualidad visible. La condición de esto es que el campo de la imagen no se ha de considerar solo como una superficie estructurada, sino como una función de coordenadas *x* e *y*, la abscisa y la ordenada, cuya relación matemática se muestra mediante la «solución» sobre el plano.
+
+La palabra que en el español es *gráficas*, en su original alemán es *Diagramme*: 
+
+> Jahrhunderts die erfolgreichste und bis heute omnipräsente kognitive Bildform, nämlich **das Diagramm**.
+
+Tanto en la traducción con en el original se acompaña al texto con una gráfica/Diagramm de William Playfair de la década de 1780, muy similar al que se encuentra en [Wikicommons](https://commons.wikimedia.org/wiki/File:Playfair_TimeSeries-2.png)
+
+
 
 - - - - - - - - - - - - - - 
 
