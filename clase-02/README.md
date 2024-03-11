@@ -4,7 +4,7 @@
 
 ### Teoría (para la casa)
 
-Retomemos las ideas compartidas la clase recién pasada, mediante dos citas.
+Retomemos las ideas compartidas la clase recién pasada, mediante tres citas.
 
 La primera la tomamos de *Ética para Celia*, de Ana de Miguel (2021, p.117): 
 
@@ -13,6 +13,10 @@ La primera la tomamos de *Ética para Celia*, de Ana de Miguel (2021, p.117):
 La segunda cita la tomamos de *Después del método : Desorden en la investigación en ciencias sociales*, de John Law (2020,pp.21-22):
 
 > Sin duda, las estructuras locales se pueden identificar, pero, o eso quiero argumentar, el mundo en general desafía cualquier intento de contabilización completa y ordenada. El mundo no debe ser entendido mediante la adopción de una versión metodológica de la auditoría. Las regularidades y las estandarizaciones son herramientas increíblemente poderosas, pero establecen límites. Esa es una parte de su poder (de doble filo).
+
+La tercera y última la tomamos de [*Feminismo de Datos*](https://data-feminism.mitpress.mit.edu/pub/tzq8d54o/release/1?readingCollection=b371d820), de Catherine D’Ignazio y Lauren F. Klein (2020):
+
+> “Lo que se cuenta, cuenta", ha afirmado la geógrafa feminista Joni Seager […] Lo que se cuenta –como ser varón o mujer– suele ser la base de la elaboración de políticas y la asignación de recursos. Por el contrario, lo que no se cuenta –como ser no binario– se vuelve invisible.
 
 Tales citas invitan a sospechar de lo que se presenta como dato objetivo, o dato duro, que captura la realidad.
 
