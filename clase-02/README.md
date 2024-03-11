@@ -4,7 +4,7 @@
 
 ### Teoría (para la casa)
 
-Retomemos las ideas compartidas la clase recién pasada, mediante tres citas.
+**Retomemos las ideas compartidas la clase recién pasada, mediante tres citas**.
 
 La primera la tomamos de *Ética para Celia*, de Ana de Miguel (2021, p.117): 
 
@@ -18,7 +18,7 @@ La tercera y última la tomamos de [*Feminismo de Datos*](https://data-feminism.
 
 > «Lo que se cuenta, cuenta», ha afirmado la geógrafa feminista Joni Seager […] Lo que se cuenta –como ser varón o mujer– suele ser la base de la elaboración de políticas y la asignación de recursos. Por el contrario, lo que no se cuenta –como ser no binario– se vuelve invisible.
 
-Tales citas invitan a sospechar de lo que se presenta como dato objetivo, o dato duro, que captura la realidad.
+**Tales citas invitan a sospechar de lo que se presenta como dato objetivo, o dato duro, que captura la realidad**.
 
 A propósito de realidad conviene sumar una tercera cita, que tomamos de *La Objetividad, una argumentos para obligar*, de Humberto Maturana (2007,p.40):
 
