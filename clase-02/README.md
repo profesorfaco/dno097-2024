@@ -74,7 +74,7 @@ Intentemos generar los tres tipos de gráficos referidos arriba, partiendo con e
                 </div>
                 <div class="col-12 p-5 text-center">Título</div>
                 <div class="col-12 p-5 text-center">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 40" id="barras"></svg>
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" id="barras"></svg>
                 </div> 
             </div>
         </div>
@@ -127,8 +127,6 @@ Intentemos generar los tres tipos de gráficos referidos arriba, partiendo con e
 
             document.querySelector("#years").innerHTML += momentos;
 
-
-
             // TERCER GRÁFICO 
 
             // datos en barras los ponen ustedes
@@ -139,16 +137,18 @@ Intentemos generar los tres tipos de gráficos referidos arriba, partiendo con e
                     {region:"Biobío", numero:1681225},
                     {region:"otras", numero:7848086}
                 ]
-            
-            const graficaBarras = document.querySelector("#ultimo");
 
-            // AHORA ARMAREMOS LAS VISUALIZACIONES
+            const graficaBarras = document.querySelector("#barras");
 
-            //con un forEach
+            // AHORA ARMAREMOS LAS BARRAS
 
-
-
-
+            barras.forEach((d, i) => {
+            graficaBarras.innerHTML += `<g transform="translate(0,${i*50})">
+                <rect x="10" y="10" width="${d.numero/500000}" height="10" />
+                <text x="10" y="10" fill="white">${d.region}</text>
+                <text x="10" y="${d.numero/500000}">${d.numero}</text>
+            </g>`
+            });
         </script>
     </body>
 </html>
