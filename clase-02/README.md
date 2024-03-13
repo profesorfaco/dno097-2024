@@ -154,6 +154,14 @@ Intentemos generar los tres tipos de gráficos referidos arriba, partiendo con e
 </html>
 ```
 
+Después de las 13.30 hrs. seguí trabajando sobre el código que ustedes también pudieron trabajar. 
+
+Hice varios ajustes que no alcancé a hacer por lo interrumpida de la práctica de hoy. 
+
+Lo ajustado lo pueden consultar en: https://profesorfaco.github.io/dno097-2024/clase-02
+
+No es necesario que su trabajo a publicar en GitHub Pages para después ingresar al foro de discusión en Canvas, para dejar constancia del trabajo: https://cursos.canvas.uc.cl/courses/73175/discussion_topics/749338
+
 - - - - - - - 
 
 ###### [← CLASE PREVIA](https://github.com/profesorfaco/dno097-2024/tree/main/clase-01) • [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno097-2024/tree/main/clase-03)
