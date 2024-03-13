@@ -67,7 +67,10 @@ Intentemos generar los tres tipos de gráficos referidos arriba, partiendo con e
             <div class="row">
                 <div class="col-12 p-5 text-center">Título</div>
                 <div class="col-12 p-5 text-center">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 40" id="lineas"></svg>
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+                        <g transform="translate(0,500) scale(1,-1)" id="lineas"></g>
+                        <g id="years"></g>
+                    </svg>
                 </div>
                 <div class="col-12 p-5 text-center">Título</div>
                 <div class="col-12 p-5 text-center">
@@ -76,6 +79,8 @@ Intentemos generar los tres tipos de gráficos referidos arriba, partiendo con e
             </div>
         </div>
         <script>
+            // PRIMER GRÁFICO
+
             // Datos en tarta fueron tomados de la síntesis de resultados censo 2017
 
             const tarta = [
@@ -84,6 +89,14 @@ Intentemos generar los tres tipos de gráficos referidos arriba, partiendo con e
                 { region: "Biobío", mujer: 48.3, hombre: 51.7 },
             ];
 
+            const graficaTarta = document.querySelector("#tartas");
+
+            tarta.forEach((d) => {
+                graficaTarta.innerHTML += `<div class="col h-100 d-flex align-items-center justify-content-center"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40"><circle class="donut-hole" cx="20" cy="20" r="15.91549430918954" fill="#fff"></circle><circle class="donut-ring" cx="20" cy="20" r="15.91549430918954" fill="transparent" stroke="blue" stroke-width="3"></circle><circle class="donut-segment" cx="20" cy="20" r="15.91549430918954" fill="transparent" stroke="red" stroke-width="3" stroke-dasharray="${d.mujer} ${100 - d.mujer}" stroke-dashoffset="25"></circle><text x="20" y="20" font-size="3" text-anchor="middle">${d.region}</text></svg></div>`;
+            });
+
+            //SEGUNDO GRÁFICO
+
             // datos en lineal fueron tomados de https://es.wikipedia.org/wiki/Anexo:Crecimiento_poblacional_de_Santiago_de_Chile
 
             const lineal = {
@@ -91,39 +104,50 @@ Intentemos generar los tres tipos de gráficos referidos arriba, partiendo con e
                 censados: [46000, 69018, 115337, 256000, 507296, 952075, 1350409, 1907378, 3899619, 4729118, 5428590, 7057491],
             };
 
-            // datos en barras los ponen ustedes
-
-            const barras = {};
-
-            // AHORA TOMEMOS EN EL DOCUMENTO LOS ESPACIOS PARA ESTABLECER SINTAXIS HTML//
-
-            const graficaTarta = document.querySelector("#tartas");
-
+            
             const graficaLineas = document.querySelector("#lineas");
 
+            // con algo de complicaciones que se pueden resolver googleando https://stackoverflow.com/questions/39560206/change-0-0-from-svg
+
+            let coordenadas = "";
+
+            let momentos = ""
+
+            lineal.censados.forEach((d, i) => {
+                coordenadas += i*50 + "," + Math.round(d*0.0001) + " ";
+                momentos += `<text x="${i*50}" y="480" font-size="5">${lineal.censos[i]}</text> `;
+    
+            })
+
+            console.log(coordenadas);
+
+            console.log(momentos);
+
+            graficaLineas.innerHTML += `<polyline points="${coordenadas}" fill="none" stroke="black"/>`;
+
+            document.querySelector("#years").innerHTML += momentos;
+
+
+
+            // TERCER GRÁFICO 
+
+            // datos en barras los ponen ustedes
+
+            const barras = [
+                    {region:"Metropolitana", numero:8420729},
+                    {region:"Valparaíso", numero:2010849},
+                    {region:"Biobío", numero:1681225},
+                    {region:"otras", numero:7848086}
+                ]
+            
             const graficaBarras = document.querySelector("#ultimo");
 
             // AHORA ARMAREMOS LAS VISUALIZACIONES
 
             //con un forEach
 
-            tarta.forEach((d) => {
-                graficaTarta.innerHTML += `<div class="col h-100 d-flex align-items-center justify-content-center"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40"><circle class="donut-hole" cx="20" cy="20" r="15.91549430918954" fill="#fff"></circle><circle class="donut-ring" cx="20" cy="20" r="15.91549430918954" fill="transparent" stroke="blue" stroke-width="3"></circle><circle class="donut-segment" cx="20" cy="20" r="15.91549430918954" fill="transparent" stroke="red" stroke-width="3" stroke-dasharray="${d.mujer} ${100 - d.mujer}" stroke-dashoffset="25"></circle><text x="20" y="20" font-size="3" text-anchor="middle">${d.region}</text></svg></div>`;
-            });
 
-            // con algo de complicaciones que se pueden resolver googleando https://stackoverflow.com/questions/39560206/change-0-0-from-svg
 
-            let coordenadas = "";
-
-            lineal.censados.forEach((d, i) => {
-                coordenadas += i*10 + "," + Math.round(d*0.0001) + " "; 
-            })
-
-            console.log(coordenadas);
-
-            graficaLineas.innerHTML += `<polyline points="${coordenadas}" fill="none" stroke="black"/>`;
-
-            // lo de barras es suyo
 
         </script>
     </body>
