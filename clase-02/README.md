@@ -160,7 +160,9 @@ Hice varios ajustes que no alcancé a hacer por lo interrumpida de la práctica 
 
 Lo ajustado lo pueden consultar en: https://profesorfaco.github.io/dno097-2024/clase-02
 
-No es necesario que su trabajo a publicar en GitHub Pages para después ingresar al foro de discusión en Canvas, para dejar constancia del trabajo: https://cursos.canvas.uc.cl/courses/73175/discussion_topics/749338
+No es necesario que su trabajo a publicar en GitHub Pages se base en lo ajustado, puede basarse en el mismo código que se ve unas líneas más arriba, sin modificaciones. 
+
+Recuerden que deben dejar constancia de su publicación en GitHub con una respuesta en este foro de discusión: https://cursos.canvas.uc.cl/courses/73175/discussion_topics/749338
 
 - - - - - - - 
 
