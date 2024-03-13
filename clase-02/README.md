@@ -46,7 +46,89 @@ Tanto en la traducción como en el original, se acompaña a las palabras con una
 
 ### Práctica (para la clase)
 
-Pendiente.
+Intentemos generar los tres tipos de gráficos referidos arriba, partiendo con el siguiente código en un `index.html`:
+
+```
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>Podríamos usar Bootstrap</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous" />
+    </head>
+    <body>
+        <div class="container-fluid m-0 p-0">
+            <div class="row">
+                <div class="col-12 p-5 text-center">Título</div>
+            </div>
+            <div class="row g-0" style="height: 75vh;" id="tartas"></div>
+
+            <div class="row">
+                <div class="col-12 p-5 text-center">Título</div>
+                <div class="col-12 p-5 text-center">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 40" id="lineas"></svg>
+                </div>
+                <div class="col-12 p-5 text-center">Título</div>
+                <div class="col-12 p-5 text-center">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 40" id="barras"></svg>
+                </div> 
+            </div>
+        </div>
+        <script>
+            // Datos en tarta fueron tomados de la síntesis de resultados censo 2017
+
+            const tarta = [
+                {region: "País", mujer: 51.1, hombre: 48.9},
+                { region: "Aysén", mujer: 52, hombre: 48 },
+                { region: "Biobío", mujer: 48.3, hombre: 51.7 },
+            ];
+
+            // datos en lineal fueron tomados de https://es.wikipedia.org/wiki/Anexo:Crecimiento_poblacional_de_Santiago_de_Chile
+
+            const lineal = {
+                censos: [1820, 1854, 1865, 1888, 1920, 1940, 1952, 1960, 1982, 1992, 2002, 2012],
+                censados: [46000, 69018, 115337, 256000, 507296, 952075, 1350409, 1907378, 3899619, 4729118, 5428590, 7057491],
+            };
+
+            // datos en barras los ponen ustedes
+
+            const barras = {};
+
+            // AHORA TOMEMOS EN EL DOCUMENTO LOS ESPACIOS PARA ESTABLECER SINTAXIS HTML//
+
+            const graficaTarta = document.querySelector("#tartas");
+
+            const graficaLineas = document.querySelector("#lineas");
+
+            const graficaBarras = document.querySelector("#ultimo");
+
+            // AHORA ARMAREMOS LAS VISUALIZACIONES
+
+            //con un forEach
+
+            tarta.forEach((d) => {
+                graficaTarta.innerHTML += `<div class="col h-100 d-flex align-items-center justify-content-center"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40"><circle class="donut-hole" cx="20" cy="20" r="15.91549430918954" fill="#fff"></circle><circle class="donut-ring" cx="20" cy="20" r="15.91549430918954" fill="transparent" stroke="blue" stroke-width="3"></circle><circle class="donut-segment" cx="20" cy="20" r="15.91549430918954" fill="transparent" stroke="red" stroke-width="3" stroke-dasharray="${d.mujer} ${100 - d.mujer}" stroke-dashoffset="25"></circle><text x="20" y="20" font-size="3" text-anchor="middle">${d.region}</text></svg></div>`;
+            });
+
+            // con algo de complicaciones que se pueden resolver googleando https://stackoverflow.com/questions/39560206/change-0-0-from-svg
+
+            let coordenadas = "";
+
+            lineal.censados.forEach((d, i) => {
+                coordenadas += i*10 + "," + Math.round(d*0.0001) + " "; 
+            })
+
+            console.log(coordenadas);
+
+            graficaLineas.innerHTML += `<polyline points="${coordenadas}" fill="none" stroke="black"/>`;
+
+            // lo de barras es suyo
+
+        </script>
+    </body>
+</html>
+```
 
 - - - - - - - 
 
