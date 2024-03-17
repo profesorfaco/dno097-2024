@@ -38,7 +38,7 @@ Cuando aparecer el término de *infographics*, corresponde recordar que:
 
 > In a nutshell, infographics stand for visual displays in which graphics (illustrations, symbols, maps, diagrams, etc) together with verbal language communicate information that would not be possible otherwise  —Isabel Meirelles.
 
-Para cerrar, las *infographics* pueden visualizar y/o visibilizar. Y sólo cuando necesitamos diferenciar la acción, conviene hablar de gráficas que informan mediante la visualización (en. *charts* y al. *diagramm*) y las que informan mediante la visibilización.
+Para cerrar, las *infographics* pueden visualizar y/o visibilizar. Y sólo cuando necesitamos diferenciar la acción, nos conviene hablar de gráficas que informan mediante la visualización (en. *charts* y al. *diagramm*) y las que informan mediante la visibilización.
 
 
 - - - - - - - - - - - - - - 
