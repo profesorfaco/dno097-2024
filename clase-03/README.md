@@ -32,17 +32,23 @@ Mientras la gráfica que visualiza nos exige trabajar con convenciones bien cono
 
 Considérese, por ejemplo:
 
-![drop cover hold](https://github.com/profesorfaco/dno097-2024/assets/7999767/2ed308f3-1c63-4b4e-b87b-c3216b24aba7)
+![drop, cover, hold](https://github.com/profesorfaco/dno097-2024/assets/7999767/26a8d045-7d9f-45f6-bc63-7329a0c22c1b)
 
-Desde Japón se le comentó a Rodrigo Ramirez, el creador de esta representación, que era necesario agregar al *drop and cover* un *hold*, porque en Japón se enseña a sujertar con una mano una pata de la mesa, para evitar que el mismo movimiento telúrico desplace nuestro *cover*. 
+Desde Japón se le comentó a Rodrigo Ramirez, el creador de esta representación, que era necesario agregar al *drop and cover* un *hold*, porque allá se enseña a sujetar con una mano una pata de la mesa, para evitar que el mismo movimiento telúrico desplace la mesa.
 
 Luego, cuanto ya era *drop, hold and cover*, tal como ahora está a la vista de ustedes, desde EE.UU. se la pensó referida, por su semejanza, a un *school shooting*.
 
-Sobre esta base, de visualización y visibilización, presentación y representación, opera el diseño de información que es un término que, según Isabel Meirelles (2013):
+Pero esa semejanza a lo visto AHÍ ADELANTE (en la propia experiencia) no puede prescindir de lo convencional, tal como en el siguiente caso presentado por Jorge Frascara en El diseño de comunicación visual (2006, p.75):
+
+![mineros](https://github.com/profesorfaco/dno097-2024/assets/7999767/f4f705a5-79ce-4cdd-8e7a-733c8539f748)
+
+> Dado que muchos mineros sudafricanos no sabían leer, esta historieta fue concebida para persuadirlos de dejar los rieles libres de material caído. Sin embargo, no funcionó: un creciente número de rocas se encontró en los rieles. La causa descubierta, fue que los mineros tendían a leer el mensaje de derecha a izquierda, y obedientemente sacaban rocas de las vagonetas. 
+
+Sobre visualización y visibilización, convención y semejanza, presentación y representación, opera el diseño de información que es un término que, según escribe Isabel Meirelles en Design for Information (2013, p.11):
 
 > is broadly used to describe communication design practices in which the main purpose is to inform, in contrast to persuasive approaches more commonly used in practices such as advertising. Infographics is one of the possible outputs within the large information design discipline.
 
-Y cuando aparecer el término de *infographics*, corresponde recordar, también con Isabel Meirelles (2013), que: 
+Y cuando aparecer el término de *infographics*, corresponde recordar, también con Isabel Meirelles, que: 
 
 > In a nutshell, infographics stand for visual displays in which graphics (illustrations, symbols, maps, diagrams, etc) together with verbal language communicate information that would not be possible otherwise
 
