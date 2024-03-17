@@ -17,7 +17,7 @@ Ese *uso* en la anécdota implica aprender la convención para poder escribir y 
 - https://datavizcatalogue.com/ES/buscar.html
 - https://datavizproject.com/
 
-El segundo vínculo en la lista nos ofrece una búsqueda por *FAMILY*, donde no solo está la opción de *Chart*, también está la de *Diagram* (en inglés y con una *m*. no son dos como en alemán); nótese que dentro de la familia *Diagram* es posible encontrar, por ejemplo, este *Exploded View Drawing*:
+El segundo vínculo en la lista nos ofrece una búsqueda por *FAMILY*, donde no solo está la opción de *Chart*, también está la de *Diagram* (en inglés y con una *m*; no son dos como en alemán). Nótese que dentro de la familia *Diagram* es posible encontrar, por ejemplo, este *Exploded View Drawing*:
 
 ![zapato](https://github.com/profesorfaco/dno097-2024/assets/7999767/68197b54-95fc-4f0f-b8fe-35cd81f6693d)
 
