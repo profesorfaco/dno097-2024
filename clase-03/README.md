@@ -34,9 +34,9 @@ Considérese, por ejemplo:
 
 ![drop cover hold](https://github.com/profesorfaco/dno097-2024/assets/7999767/2ed308f3-1c63-4b4e-b87b-c3216b24aba7)
 
-Desde Japón se le comentó a Rodrigo Ramirez, el creador de esta representación, que era necesario agregar al *drop and cover* un *hold*, porque en Japón se enseña a tomar con una mano la pata para evitar que el mismo terremoto la desplace. 
+Desde Japón se le comentó a Rodrigo Ramirez, el creador de esta representación, que era necesario agregar al *drop and cover* un *hold*, porque en Japón se enseña a sujertar con una mano una pata de la mesa, para evitar que el mismo movimiento telúrico desplace nuestro *cover*. 
 
-Luego, cuanto ya era *drop, hold and cover*, tal como ahora está a la vista de ustedes, desde EE.UU. se la pensó referida, por su semejanza por allá aprendida, a un *school shooting*.
+Luego, cuanto ya era *drop, hold and cover*, tal como ahora está a la vista de ustedes, desde EE.UU. se la pensó referida, por su semejanza, a un *school shooting*.
 
 Sobre esta base, de visualización y visibilización, presentación y representación, opera el diseño de información que es un término que, según Isabel Meirelles (2013):
 
