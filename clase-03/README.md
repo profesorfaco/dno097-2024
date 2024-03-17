@@ -30,16 +30,15 @@ Visibilizar no es visualizar. Visibilizar es ofrecer a la vista aquello que, ya 
 
 Mientras la gráfica que visualiza nos exige trabajar con convenciones bien conocidas, la gráfica que visibiliza nos exige trabajar con experiencias a la vista (de quien tendrá la visibilización a la vista).
 
-Y sobre esa base, de visualización y visibilización opera el diseño de información:
+Sobre esa base, de visualización y visibilización opera el diseño de información. Y diseño de información es un término que, según Isabel Meirelles (2013)
 
-> Information design […] is broadly used to describe communication design practices in which the main purpose is to inform, in contrast to persuasive approaches more commonly used in practices such as advertising. Infographics is one of the possible outputs within the large information design discipline —Isabel Meirelles.
+> is broadly used to describe communication design practices in which the main purpose is to inform, in contrast to persuasive approaches more commonly used in practices such as advertising. Infographics is one of the possible outputs within the large information design discipline.
 
-Cuando aparecer el término de *infographics*, corresponde recordar que: 
+Y cuando aparecer el término de *infographics*, corresponde recordar, también con Isabel Meirelles (2013), que: 
 
-> In a nutshell, infographics stand for visual displays in which graphics (illustrations, symbols, maps, diagrams, etc) together with verbal language communicate information that would not be possible otherwise  —Isabel Meirelles.
+> In a nutshell, infographics stand for visual displays in which graphics (illustrations, symbols, maps, diagrams, etc) together with verbal language communicate information that would not be possible otherwise
 
-Para cerrar, las *infographics* pueden visualizar y/o visibilizar. Y sólo cuando necesitamos diferenciar la acción, nos conviene hablar de gráficas que informan mediante la visualización (en. *charts* y al. *diagramm*) y las que informan mediante la visibilización.
-
+Corresponde notar que la definición de infografía citada está apuntado a gráficas que visibilizan, tales como ilustraciones y mapas, pero no necesariamente se restringe ellas.
 
 - - - - - - - - - - - - - - 
 
