@@ -12,7 +12,7 @@ Lo convencional de la gráfica que visualiza (*chart* o *diagramm*) puede parece
 
 Conviene, entonces, aprender convenciones y conocer las aprendidas. Justo aquí está la anécdota ya compartida: *Yo nunca he usado [la gráfica de bala](https://datavizcatalogue.com/ES/metodos/grafico_de_bala.html), pero revisando sus artículos noto que ustedes y sus lectores lo usan siempre. Tendré que aprender a usarla.*
 
-Ese *uso* en la anécdota implica aprender la convención para poder escribir y leer tales gráficas que visualizan. Y para aprenderlas es muy recomendable la consulta de:
+Ese *uso* en la anécdota implica aprender la convención para poder escribir y leer tales gráficas que visualizan. Y para aprenderlas es muy recomendable consultar a:
 
 - https://datavizcatalogue.com/ES/buscar.html
 - https://datavizproject.com/
