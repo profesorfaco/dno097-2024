@@ -18,19 +18,17 @@ Ese *uso* de la anécdota implica aprender la convención para poder escribir y 
 - https://www.visual-literacy.org/periodic_table/periodic_table.html
 - https://datavizproject.com/
 
-El último en la lista nos ofrece una alternativa de sección de FAMILY, donde no solo está la opción de *Chart*, también la de *Diagram*, y ahí corresponde separar lo que refiere el inglés de lo que refiere el alemán (con una *m* más). 
-
-Esto porque en los diagramas comienzan a aparecer formas que pueden ser reconocidas perceptualmente, como podría reconocerse:
+El último vínculo la lista que conviene consultar, nos ofrece una búsqueda por *FAMILY*, donde no solo está la opción de *Chart*, también la de *Diagram*, y ahí corresponde separar lo que refiere el inglés de lo que refiere el alemán (con una *m* más). Dentro de la familia *diagram* es posible encontrar, por ejemplo, al *Exploded View Drawing*
 
 ![zapato](https://github.com/profesorfaco/dno097-2024/assets/7999767/68197b54-95fc-4f0f-b8fe-35cd81f6693d)
- 
-Veo una gráfica de una bota como las botas que ya podría haber visto y/o calzado. Quizá nunca la he visto así, o quizá si, pero intentar calzarla de tal manera resultaría en un desastre. Lo claro es que en tal gráfica hay una intención de visibilizar sus partes.
+
+Lo que está a la vista se reconocide perceptualmente, como podría reconocerse. Veo, por semejanza, una bota como las botas que ya podría haber visto y/o calzado. Quizá nunca la he visto así, o quizá si, pero intentar calzarla de tal manera resultaría en un desastre. Lo claro es que en tal gráfica hay una intención de visibilizar sus partes.
 
 Visibilizar no es visualizar. Visibilizar es ofrecer a la vista aquello que, ya teniendo forma visible, podría estar escondido. Visibilizar nos ofrece un *¡Oh, nunca lo había visto así! De aquí en más lo veré distinto*.
 
-Mientras la gráfica que visualiza nos exige trabajar con convenciones bien conocidas, la gráfica que visibiliza nos exige trabajar con experiencias a la vista (de quien tendrá la visibilización a la vista).
+Mientras la gráfica que visualiza nos exige trabajar con convenciones bien conocidas, la gráfica que visibiliza nos exige trabajar con las experiencias de quien tendrá a la vista la semejanza a "algo" en su propio aparecer.
 
-Sobre esa base, de visualización y visibilización opera el diseño de información. Y diseño de información es un término que, según Isabel Meirelles (2013)
+Sobre esa base, de visualización y visibilización, opera el diseño de información que es un término que, según Isabel Meirelles (2013):
 
 > is broadly used to describe communication design practices in which the main purpose is to inform, in contrast to persuasive approaches more commonly used in practices such as advertising. Infographics is one of the possible outputs within the large information design discipline.
 
@@ -38,7 +36,7 @@ Y cuando aparecer el término de *infographics*, corresponde recordar, también 
 
 > In a nutshell, infographics stand for visual displays in which graphics (illustrations, symbols, maps, diagrams, etc) together with verbal language communicate information that would not be possible otherwise
 
-Corresponde notar que la definición de infografía citada está apuntado a gráficas que visibilizan, tales como ilustraciones y mapas, pero no necesariamente se restringe ellas.
+Corresponde notar que la definición de infografía citada está apuntado a gráficas que visibilizan, tales como ilustraciones y mapas, pero no necesariamente se restringe a ellas.
 
 - - - - - - - - - - - - - - 
 
