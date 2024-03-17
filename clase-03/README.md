@@ -15,30 +15,27 @@ Conviene, entonces, aprender convenciones y conocer las aprendidas. Justo aquí 
 Ese *uso* en la anécdota implica aprender la convención para poder escribir y leer tales gráficas que visualizan. Y para aprenderlas es muy recomendable la consulta de:
 
 - https://datavizcatalogue.com/ES/buscar.html
-- https://www.visual-literacy.org/periodic_table/periodic_table.html
 - https://datavizproject.com/
 
-El último vínculo en la lista nos ofrece una búsqueda por *FAMILY*, donde no solo está la opción de *Chart*, también está la de *Diagram*, y ahí corresponde separar lo que refiere el inglés de lo que refiere el alemán (con una *m* más). 
-
-Nótese que dentro de la familia *Diagram* en Data Viz Project es posible encontrar, por ejemplo, este *Exploded View Drawing*:
+El segundo vínculo en la lista nos ofrece una búsqueda por *FAMILY*, donde no solo está la opción de *Chart*, también está la de *Diagram* (en inglés y con una *m*. no son dos como en alemán); nótese que dentro de la familia *Diagram* es posible encontrar, por ejemplo, este *Exploded View Drawing*:
 
 ![zapato](https://github.com/profesorfaco/dno097-2024/assets/7999767/68197b54-95fc-4f0f-b8fe-35cd81f6693d)
 
-Aunque lo que tenemos a la vista no es, en rigor, un *drawing* sino una *picture*, consiste en la representación del escorzo de algo que podría estar AHÍ ADELANTE. En este caso, lo que está a la vista refiere a lo que le es semejante (en su aparecer conocido). Veo, por semejanza, una bota como las botas que ya pude haber visto AHÍ ADELANTE.
+Aunque lo que tenemos a la vista no es, en rigor, un *drawing* y más generalmente podríamos llamarle *picture*, convengamos que consiste en la representación algo que antes pudo estar AHÍ ADELANTE. En este caso, lo que está a la vista refiere a lo que le es semejante (en su aparecer conocido). Veo, por semejanza, una bota como las botas que ya pude haber visto AHÍ ADELANTE.
 
-El *Exploded View Drawing* no ofrece un visualizar. La palabra que utilizaremos para diferenciar lo que ofrece es la de visibilizar, en tanto ofrece a la vista aquello que ya tiene forma visible; visibilizar implica representar (volver a presentar).
+En el *Exploded View Drawing* no hay un visualizar, sino un visibilizar. Lo que ofrece a la vista ya tenía forma visible; visibilizar implica representar (volver a presentar algo visible).
 
 Mientras la gráfica que visualiza nos exige trabajar con convenciones bien conocidas para presentar en gráfica algo por primera vez, la gráfica que visibiliza nos exige trabajar representaciones atendiendo a las experiencias de quien tendrá a la vista lo que refiera a "algo" por su semejanza.
 
-Considérese, por ejemplo:
+Considérese, esta gráfica de [Guemil](https://www.guemil.info/):
 
 ![drop, cover, hold](https://github.com/profesorfaco/dno097-2024/assets/7999767/26a8d045-7d9f-45f6-bc63-7329a0c22c1b)
 
-Desde Japón se le comentó a Rodrigo Ramirez, el creador de esta representación, que era necesario agregar al *drop and cover* un *hold*, porque allá se enseña a sujetar con una mano una pata de la mesa, para evitar que el mismo movimiento telúrico desplace la mesa.
+Desde Japón se le comentó a Rodrigo Ramirez, el creador de Guemil, que era necesario agregar al *drop and cover* un *hold*, porque allá se enseña a sujetar con una mano una pata de la mesa, para evitar que el mismo movimiento telúrico la desplace.
 
 Luego, cuanto ya era *drop, hold and cover*, tal como ahora está a la vista de ustedes, desde EE.UU. se la pensó referida, por su semejanza, a un *school shooting*.
 
-Pero esa semejanza a lo visto AHÍ ADELANTE (en la propia experiencia) no puede prescindir de lo convencional, tal como en el siguiente caso presentado por Jorge Frascara en El diseño de comunicación visual (2006, p.75):
+Pero esa semejanza a lo visto AHÍ ADELANTE (en la propia experiencia) no puede aislarse de lo convencional, tal como en el siguiente caso presentado por Jorge Frascara en El diseño de comunicación visual (2006, p.75):
 
 ![mineros](https://github.com/profesorfaco/dno097-2024/assets/7999767/f4f705a5-79ce-4cdd-8e7a-733c8539f748)
 
