@@ -21,9 +21,9 @@ El segundo vínculo en la lista nos ofrece una búsqueda por *FAMILY*, donde no 
 
 ![zapato](https://github.com/profesorfaco/dno097-2024/assets/7999767/68197b54-95fc-4f0f-b8fe-35cd81f6693d)
 
-Aunque lo que tenemos a la vista no es, en rigor, un *drawing* y más generalmente podríamos llamarle *picture*, convengamos que consiste en la representación algo que antes pudo estar AHÍ ADELANTE. En este caso, lo que está a la vista refiere a lo que le es semejante (en su aparecer conocido). Veo, por semejanza, una bota como las botas que ya pude haber visto AHÍ ADELANTE.
+Aunque lo que tenemos a la vista no es, en rigor, un *drawing* y más generalmente podríamos llamarle *picture*, convengamos que consiste en la representación algo que antes pudo estar AHÍ ADELANTE. En este caso, lo que está a la vista refiere a lo que le es semejante (en su aparecer conocido). Veo, por semejanza, una bota como las botas que ya pude haber visto AHÍ ADELANTE (este AHÍ ADELANTE, en mayúscula, se toma de Edmund Husserl escribiendo, en *Ideas I*, sobre un mundo extendido que cada uno encuentra ante sí inmediata e intuitivamente, mediante el ver, el tocar, el oir, etc., en los diversos modos de percepción sensible). 
 
-En el *Exploded View Drawing* no hay un visualizar, sino un visibilizar. Lo que ofrece a la vista ya tenía forma visible; visibilizar implica representar (volver a presentar algo visible).
+En el *Exploded View Drawing* no hay un visualizar, sino un visibilizar. Lo que ofrece a la vista ya tenía forma visible; visibilizar implica representar (volver a presentar algo que ya pudo presentarse a la vista).
 
 Mientras la gráfica que visualiza nos exige trabajar con convenciones bien conocidas para presentar en gráfica algo por primera vez, la gráfica que visibiliza nos exige trabajar representaciones atendiendo a las experiencias de quien tendrá a la vista lo que refiera a "algo" por su semejanza.
 
@@ -33,9 +33,9 @@ Considérese, esta gráfica de [Guemil](https://www.guemil.info/):
 
 Desde Japón se le comentó a Rodrigo Ramirez, el creador de Guemil, que era necesario agregar al *drop and cover* un *hold*, porque allá se enseña a sujetar con una mano una pata de la mesa, para evitar que el mismo movimiento telúrico la desplace.
 
-Luego, cuanto ya era *drop, hold and cover*, tal como ahora está a la vista de ustedes, desde EE.UU. se la pensó referida, por su semejanza, a un *school shooting*.
+Luego, cuanto ya respresentaba el *drop, hold and cover*, tal como ahora está a la vista de ustedes, desde EE.UU. se pensó que la gráfica refería, por su semejanza, a un *school shooting*.
 
-Pero esa semejanza a lo visto AHÍ ADELANTE (en la propia experiencia) no puede aislarse de lo convencional, tal como en el siguiente caso presentado por Jorge Frascara en El diseño de comunicación visual (2006, p.75):
+Pero incluso la semejanza a lo visto AHÍ ADELANTE, en la propia experiencia, puede ser afectada por el dominio de una convención. Tal es el caso que presenta Jorge Frascara en *El diseño de comunicación visual* (2006, p.75), citando a [Uger Mijksenaar](https://www.theicod.org/storage/app/media/resources/Publications/Icographic/ICO_Publications_Icographic_07_full.pdf)
 
 ![mineros](https://github.com/profesorfaco/dno097-2024/assets/7999767/f4f705a5-79ce-4cdd-8e7a-733c8539f748)
 
