@@ -26,7 +26,7 @@ Lo que está a la vista se reconocide perceptualmente, como podría reconocerse.
 
 Visibilizar no es visualizar. Visibilizar es ofrecer a la vista aquello que, ya teniendo forma visible, podría estar escondido. Visibilizar nos ofrece un *¡Oh, nunca lo había visto así! De aquí en más lo veré distinto*.
 
-Mientras la gráfica que visualiza nos exige trabajar con convenciones bien conocidas, la gráfica que visibiliza nos exige trabajar con las experiencias de quien tendrá a la vista la semejanza a "algo" en su propio aparecer.
+Mientras la gráfica que visualiza nos exige trabajar con convenciones bien conocidas, la gráfica que visibiliza nos exige trabajar con las experiencias de quien tendrá a su vista la semejanza a "algo" en su propio aparecer.
 
 Sobre esa base, de visualización y visibilización, opera el diseño de información que es un término que, según Isabel Meirelles (2013):
 
