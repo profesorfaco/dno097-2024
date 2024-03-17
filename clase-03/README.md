@@ -10,9 +10,9 @@ Así, por ejemplo, cuando conocemos las convenciones de una [gráfica de línea]
 
 Lo convencional de la gráfica que visualiza (*chart* o *diagramm*) puede parecerse a lo convencional de juntar **Á → R → B → O → L** para referir a una *planta de tallo leñoso y elevado, que se ramifica a cierta altura del suelo*; cuando ignoramos la convención, podemos incluso omitir la intención de referir por medio de **Á → R → B → O → L** a tal o cualquiera *planta de tallo leñoso…*. 
 
-Conviene, entonces, aprender convenciones y conocer las aprendidas. Justo aquí está la anécdota ya compartida: *Yo nunca he usado [la gráfica de bala](https://datavizcatalogue.com/ES/metodos/grafico_de_bala.html), pero revisando sus artículos noto que ustedes y sus lectores lo usan siempre. Tendré que aprender a usarlos.*
+Conviene, entonces, aprender convenciones y conocer las aprendidas. Justo aquí está la anécdota ya compartida: *Yo nunca he usado [la gráfica de bala](https://datavizcatalogue.com/ES/metodos/grafico_de_bala.html), pero revisando sus artículos noto que ustedes y sus lectores lo usan siempre. Tendré que aprender a usarla.*
 
-Ese *uso* de la anécdota implica aprender la convención para poder escribir y leer tales gráficas que visualizan. Y para aprenderlas es muy recomendable la consulta de:
+Ese *uso* en la anécdota implica aprender la convención para poder escribir y leer tales gráficas que visualizan. Y para aprenderlas es muy recomendable la consulta de:
 
 - https://datavizcatalogue.com/ES/buscar.html
 - https://www.visual-literacy.org/periodic_table/periodic_table.html
