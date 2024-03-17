@@ -46,7 +46,7 @@ Y cuando aparecer el término de *infographics*, corresponde recordar, también 
 
 > In a nutshell, infographics stand for visual displays in which graphics (illustrations, symbols, maps, diagrams, etc) together with verbal language communicate information that would not be possible otherwise
 
-Corresponde notar que la definición de infografía citada está apuntado a gráficas que visibilizan, tales como ilustraciones y mapas, pero no necesariamente se restringe a ellas.
+Corresponde notar que la definición de infografía citada está apuntado a gráficas que visibilizan o representan, tales como ilustraciones y mapas, pero no necesariamente se restringe a ellas.
 
 - - - - - - - - - - - - - - 
 
