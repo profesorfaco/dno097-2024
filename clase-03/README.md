@@ -4,7 +4,7 @@
 
 ### Teoría (para la casa)
 
-La clase recién pasada hablamos de *gráficas* como traducción del inglés *chart* o el alemán *diagramm*, palabras que tienen un sentido más acotado y relacionado con las convenciones que permiten ver algo que, en principio, no pueda darse a la (misma) vista.
+La [clase recién pasada](https://github.com/profesorfaco/dno097-2024/tree/main/clase-02) hablamos de *gráficas* como traducción del inglés *chart* o el alemán *diagramm*, palabras que tienen un sentido más acotado y relacionado con las convenciones que permiten ver algo que, en principio, no pueda darse a la (misma) vista.
 
 Así, por ejemplo, cuando conocemos las convenciones de una [gráfica de línea](https://datavizcatalogue.com/ES/metodos/grafica_de_linea.html) podemos ver cómo cambian los números de “algo” en un intervalo de tiempo determinado. 
 
