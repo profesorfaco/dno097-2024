@@ -29,7 +29,7 @@ Mientras la gráfica que visualiza nos exige trabajar con convenciones bien cono
 
 Considérese, esta gráfica de [Guemil](https://www.guemil.info/):
 
-![drop, cover, hold](https://github.com/profesorfaco/dno097-2024/assets/7999767/26a8d045-7d9f-45f6-bc63-7329a0c22c1b)
+![guemil](https://github.com/profesorfaco/dno097-2024/assets/7999767/a5e905c1-0057-4743-9b31-bc36b2e539ab)
 
 Desde Japón se le comentó a Rodrigo Ramirez, el creador de Guemil, que era necesario agregar al *drop and cover* un *hold*, porque allá se enseña a sujetar con una mano una pata de la mesa, para evitar que el mismo movimiento telúrico la desplace.
 
