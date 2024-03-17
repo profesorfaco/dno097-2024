@@ -28,7 +28,18 @@ Veo una gráfica de una bota como las botas que ya podría haber visto y/o calza
 
 Visibilizar no es visualizar. Visibilizar es ofrecer a la vista aquello que, ya teniendo forma visible, podría estar escondido. Visibilizar nos ofrece un *¡Oh, nunca lo había visto así! De aquí en más lo veré distinto*.
 
-Si la gráfica que visualiza nos exige trabajar con convenciones, la gráfica que visibiliza nos exige trabajar con experiencias a la vista (de quien tendrá la visibilización a la vista).
+Mientras la gráfica que visualiza nos exige trabajar con convenciones bien conocidas, la gráfica que visibiliza nos exige trabajar con experiencias a la vista (de quien tendrá la visibilización a la vista).
+
+Y sobre esa base, de visualización y visibilización opera el diseño de información:
+
+> Information design […] is broadly used to describe communication design practices in which the main purpose is to inform, in contrast to persuasive approaches more commonly used in practices such as advertising. Infographics is one of the possible outputs within the large information design discipline —Isabel Meirelles.
+
+Cuando aparecer el término de *infographics*, corresponde recordar que: 
+
+> In a nutshell, infographics stand for visual displays in which graphics (illustrations, symbols, maps, diagrams, etc) together with verbal language communicate information that would not be possible otherwise  —Isabel Meirelles.
+
+Para cerrar, las *infographics* pueden visualizar y/o visibilizar. Y sólo cuando necesitamos diferenciar la acción, conviene hablar de gráficas que informan mediante la visualización (en. *charts* y al. *diagramm*) y las que informan mediante la visibilización.
+
 
 - - - - - - - - - - - - - - 
 
