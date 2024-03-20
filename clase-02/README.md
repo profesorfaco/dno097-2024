@@ -166,6 +166,24 @@ Bien puede basarse en el mismo código de partida de unas líneas más arriba.
 
 Lo importante es no olvidar dejar constancia, durante el día, de su publicación en GitHub mediante una entrada en este foro de discusión: https://cursos.canvas.uc.cl/courses/73175/discussion_topics/749338
 
+Con lo ingresado, se rellena la siguiente tabla:
+
+| N° | Nombre | Segundo ejercicio |
+|:----:|:------|:------|
+| 1 | ISIDORA ARRIAGADA | https://isidjan.github.io/dnoweb097_02/ |
+| 2 | TRINIDAD FORSTER | https://trinidad-forster.github.io/C2_13-03/ |
+| 3 | TAHIS FUENTES | — |
+| 4 | SARA GOLDZVEIG | https://saragoldzveig.github.io/clase-02/ |
+| 5 | JOSEFINA IMSCHENETZKY | https://jimschenetzky.github.io/DNOWEB_02/ |
+| 6 | JAVIERA MOLIN | https://javimolin-uc.github.io/C2/ |
+| 7 | ISIDORA MUÑOZ | https://isidoramunoz.github.io/dnoweb-02/ |
+| 8 | VALENTINA NAVARRETE | https://valenavarrete.github.io/Clase-2/ |
+| 9 | TRINIDAD RODRÍGUEZ | https://trinirodriguez.github.io/dno-02/ |
+| 10 | CATALINA SEGUEL | https://cataseguel.github.io/Clase-02---DNO097/ |
+| 11 | FRANCISCA SOTO | https://fsoti.github.io/Clase-2/ |
+| 12 | MARÍA ANGÉLICA VALDÉS | — |
+| 13 | CAMILA VALLEJO | https://camivallejo.github.io/clase_02_web/ |
+
 - - - - - - - 
 
 ###### [← CLASE PREVIA](https://github.com/profesorfaco/dno097-2024/tree/main/clase-01) • [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno097-2024/tree/main/clase-03)
