@@ -110,6 +110,10 @@ Partamos con el siguiente código en un `index.html`:
 </html>
 ```
 
+Una vez hagan las modificaciones al index.html, no olviden dejar constancia, durante el día, de su publicación en GitHub mediante una entrada en este foro de discusión: https://cursos.canvas.uc.cl/courses/73175/discussion_topics/754473
+
+
+
 - - - - - - - 
 
 ###### [← CLASE PREVIA](https://github.com/profesorfaco/dno097-2024/tree/main/clase-02) • [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno097-2024/tree/main/clase-04)
