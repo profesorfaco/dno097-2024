@@ -43,6 +43,25 @@ La pregunta que le podemos hacer al CSV es: ¿Cuántos sietes hay registrados en
 
 ¡Pero no los contemos a mano! Contémoslos con JavaScript, y mostremos el resultado con SVG.
 
+Primero necesitamos hacer un *fetch* y un *parser* de los datos en [sietes.csv](https://raw.githubusercontent.com/profesorfaco/dno097-2024/main/clase-04/sietes.csv). Para hacer lo que necesitamos muy rápido y [sin dolores de cabeza](https://youtu.be/RfMkdvN-23o?feature=shared), podríamos usar un atajo: [Papa Parse –The powerful, in-browser CSV parser for big boys and girls](https://www.papaparse.com/).
+
+Para usar el atajo, podríamos partir con algo como lo que sigue:
+
+```
+<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js" integrity="sha512-dfX5uYVXzyU8+KHqj8bjo7UkOdg18PaOtpa48djpNbZHwExddghZ+ZmzWT06R5v6NSk3ZUfsH6FNEDepLx9hPQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script>
+Papa.parse("https://raw.githubusercontent.com/profesorfaco/dno097-2024/main/clase-04/sietes.csv", {
+	download: true,
+	header: true,
+	complete: function(results) {
+		console.log(results);
+	}
+});
+</script>
+```
+
+Noten cómo vamos por un recurso en línea, y luego, en nuestro código, usamos una estructura bastante particular: Eso nos revela que este atajo es una librería de JavaScript.
+
 - - - - - - - - - - - - - - 
 
 ### Práctica (para la clase)
