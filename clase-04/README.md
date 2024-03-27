@@ -63,6 +63,14 @@ Papa.parse("https://raw.githubusercontent.com/profesorfaco/dno097-2024/main/clas
 
 Noten cómo vamos por un recurso en línea, y luego el *script* muestra una estructura bastante particular: Eso nos revela que este atajo es una bibliteca de JavaScript.
 
+Y si leemos tal estructura contenida por `Papa.parse("…", {})`, notaremos que antes del `complete` que le da paso a una `function`, se le pide a la biblioteca que:
+
+`download: true` → traiga los datos al computador
+`header: true` → mantenga los encabezados del CSV
+`dynamicTyping: true` → trate a los números como tales, sin transformarlos a "caracteres" ni "cadenas de caracteres". 
+
+Con ello ya tenemos datos con los que comenzar a trabajar, desde el examen de la Consola de JavaScript (donde se podrían ver los `results` del *script*).
+
 - - - - - - - - - - - - - - 
 
 ### Práctica (para la clase)
