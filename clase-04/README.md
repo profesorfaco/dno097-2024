@@ -94,6 +94,8 @@ Estamos partiendo con esto:
                 <div div="col">
                     <h1 class="mt-5 mb-4">Sietes por años:</h1>
 
+                    <h2>Total por año</h2>
+
                     <table class="table table-striped">
                         <tr>
                             <td>2010</td>
@@ -173,6 +175,11 @@ Estamos partiendo con esto:
                             <td></td>
                         </tr>
                     </table>
+
+                    <h2>Total por Profes.</h2>
+
+                    <address></address>
+
                 </div>
             </div>
         </div>
@@ -194,8 +201,18 @@ Estamos partiendo con esto:
             const veintiuno = document.querySelector("#veintiuno");
             const veintidos = document.querySelector("#veintidos");
 
+            // buena idea!!
+
+            const picto = "◾";
+
             // los raw data
             var datos;
+
+            //esto es nuevo, no se asusten:
+
+            var profes = [];
+            var profesOK = [];
+            const olimpo = document.querySelector("address");
 
             Papa.parse("https://raw.githubusercontent.com/profesorfaco/dno097-2024/main/clase-04/sietes.csv", {
                 download: true,
@@ -207,39 +224,61 @@ Estamos partiendo con esto:
                     console.log(datos);
                     datos.forEach((x) => {
                         if (x.year == 2010) {
-                            diez.innerHTML += "◾ ";
+                            diez.innerHTML += picto;
                         } else if (x.year == 2011) {
-                            once.innerHTML += "◾ ";
+                            once.innerHTML += picto;
                         } else if (x.year == 2012) {
-                            doce.innerHTML += "◾ ";
+                            doce.innerHTML += picto;
                         } else if (x.year == 2013) {
-                            trece.innerHTML += "◾ ";
+                            trece.innerHTML += picto;
                         } else if (x.year == 2014) {
-                            catorce.innerHTML += "◾ ";
+                            catorce.innerHTML += picto;
                         } else if (x.year == 2015) {
-                            quince.innerHTML += "◾ ";
+                            quince.innerHTML += picto;
                         } else if (x.year == 2016) {
-                            dieciseis.innerHTML += "◾ ";
+                            dieciseis.innerHTML += picto;
                         } else if (x.year == 2017) {
-                            diecisiete.innerHTML += "◾ ";
+                            diecisiete.innerHTML += picto;
                         } else if (x.year == 2018) {
-                            dieciocho.innerHTML += "◾ ";
+                            dieciocho.innerHTML += picto;
                         } else if (x.year == 2019) {
-                            diecinueve.innerHTML += "◾ ";
+                            diecinueve.innerHTML += picto;
                         } else if (x.year == 2020) {
-                            veinte.innerHTML += "◾ ";
+                            veinte.innerHTML += picto;
                         } else if (x.year == 2021) {
-                            veintiuno.innerHTML += "◾ ";
+                            veintiuno.innerHTML += picto;
                         } else {
-                            veintidos.innerHTML += "◾ ";
+                            veintidos.innerHTML += picto;
                         }
+
+                        //puedo aprovecharme del mismo ciclo
+
+                        profes.push(x.tutor);
+
                     });
+
+                    //y agrego algunas cosas
+
+                    console.log(profes);
+
+                    profesOK = [...new Set(profes)];
+
+                    profesOK.sort()
+
+                    console.log(profesOK);
+
+                    olimpo.innerHTML = "Acá irían los profes… ";
+
                 },
             });
         </script>
     </body>
 </html>
+
 ```
+Una vez muestren los datos de los profes en el index.html: Dejen constancia, durante el día, de su resultado ya publicado en GitHub mediante una entrada en este foro de discusión: https://cursos.canvas.uc.cl/courses/73175/discussion_topics/758800
+
+
 
 - - - - - - - 
 
