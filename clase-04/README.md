@@ -176,15 +176,19 @@ Estamos partiendo con esto:
                         </tr>
                     </table>
 
-                    <h2>Total por Profes.</h2>
+                    <h2 class="my-5">Total por Profes</h2>
 
                     <address></address>
-
                 </div>
             </div>
         </div>
 
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js" integrity="sha512-dfX5uYVXzyU8+KHqj8bjo7UkOdg18PaOtpa48djpNbZHwExddghZ+ZmzWT06R5v6NSk3ZUfsH6FNEDepLx9hPQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        <script
+            src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"
+            integrity="sha512-dfX5uYVXzyU8+KHqj8bjo7UkOdg18PaOtpa48djpNbZHwExddghZ+ZmzWT06R5v6NSk3ZUfsH6FNEDepLx9hPQ=="
+            crossorigin="anonymous"
+            referrerpolicy="no-referrer"
+        ></script>
         <script>
             // todas las celdas
             const diez = document.querySelector("#diez");
@@ -254,7 +258,6 @@ Estamos partiendo con esto:
                         //puedo aprovecharme del mismo ciclo
 
                         profes.push(x.tutor);
-
                     });
 
                     //y agrego algunas cosas
@@ -263,19 +266,18 @@ Estamos partiendo con esto:
 
                     profesOK = [...new Set(profes)];
 
-                    profesOK.sort()
+                    profesOK.sort();
 
                     console.log(profesOK);
 
                     olimpo.innerHTML = "Acá irían los profes… ";
-
                 },
             });
         </script>
     </body>
 </html>
-
 ```
+
 Una vez muestren los datos de los profes en el index.html: Dejen constancia, durante el día, de su resultado ya publicado en GitHub mediante una entrada en este foro de discusión: https://cursos.canvas.uc.cl/courses/73175/discussion_topics/758800
 
 
