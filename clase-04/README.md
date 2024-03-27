@@ -53,6 +53,7 @@ Para usar el atajo, podríamos partir con algo como lo que sigue:
 Papa.parse("https://raw.githubusercontent.com/profesorfaco/dno097-2024/main/clase-04/sietes.csv", {
 	download: true,
 	header: true,
+	dynamicTyping: true,
 	complete: function(results) {
 		console.log(results);
 	}
