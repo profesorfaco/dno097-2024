@@ -60,7 +60,7 @@ Papa.parse("https://raw.githubusercontent.com/profesorfaco/dno097-2024/main/clas
 </script>
 ```
 
-Noten cómo vamos por un recurso en línea, y luego, en nuestro código, usamos una estructura bastante particular: Eso nos revela que este atajo es una librería de JavaScript.
+Noten cómo vamos por un recurso en línea, y luego el *script* muestra una estructura bastante particular: Eso nos revela que este atajo es una bibliteca de JavaScript.
 
 - - - - - - - - - - - - - - 
 
