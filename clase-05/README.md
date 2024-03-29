@@ -52,7 +52,9 @@ Si los mismos datos fueran intercambiados mediante un `ejemplo.json`, sería:
 ]
 ```
 
-Pendiente
+Pueden copiar el código del ejemplo y revisarlo con servios tales como https://jsonlint.com/ o https://jsonformatter.curiousconcept.com/
+
+PENDIENTE.
 
 - - - - - - - - - - - - - - 
 
