@@ -54,7 +54,19 @@ Si los mismos datos fueran intercambiados mediante un `ejemplo.json`, sería:
 
 Pueden copiar el código del ejemplo y revisarlo con servios tales como https://jsonlint.com/ o https://jsonformatter.curiousconcept.com/
 
-PENDIENTE.
+El parecido entre lo que es, originalmente, una *JavaScript Object Notation* y el formato JSON, hace que no necesitemos simplicar *fetch* ni *parsing* con alguna biblioteca de Javascript. Nos basta con: 
+
+```
+async function dale() {
+  const consulta = await fetch("…");
+  const data = await consulta();
+  console.log(data);
+}
+dale().catch((error) => console.error(error));
+```
+PENDIENTE
+
+
 
 - - - - - - - - - - - - - - 
 
