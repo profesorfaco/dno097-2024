@@ -52,7 +52,7 @@ Si los mismos datos fueran intercambiados mediante un `ejemplo.json`, sería:
 ]
 ```
 
-Pueden copiar el código del ejemplo y revisarlo con servios tales como https://jsonlint.com/ o https://jsonformatter.curiousconcept.com/
+Pueden copiar el código del ejemplo y revisarlo con servios tales como https://webformatter.com/json, https://jsonlint.com/ o https://jsonformatter.curiousconcept.com/
 
 El parecido entre lo que es, originalmente, una *JavaScript Object Notation* y el formato JSON, hace que no necesitemos simplicar *fetch* ni *parsing* con alguna biblioteca de Javascript. Nos basta con: 
 
