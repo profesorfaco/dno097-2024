@@ -67,8 +67,7 @@ datos().catch((error) => console.error(error));
 </script>
 ```
 
-PENDIENTE.
-
+Si es la primera vez que se enfrentan a un código como el que se muestra arriba, covendría dedicar 16 minutos y 21 segundos a ver https://www.youtube.com/watch?v=uxf0--uiX0I
 
 - - - - - - - - - - - - - - 
 
