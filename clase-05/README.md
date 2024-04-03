@@ -73,7 +73,36 @@ Si es la primera vez que se enfrentan a un código como el que se muestra arriba
 
 ### Práctica (para la clase)
 
-Pendiente.
+Partamos con el código que sigue, pegándolo en un index.html y revisando el resultado en la consola de JavaScript:
+
+```
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>Partiendo la quinta clase</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous" />
+    </head>
+    <body>
+        <script>
+            async function datos() {
+                const consulta = await fetch("https://raw.githubusercontent.com/profesorfaco/dno097-2024/main/clase-05/datos.json");
+                const data = await consulta.json();
+                console.log(data);
+                data.forEach(d => {
+                    if(d.sietes.length > 3){
+                        console.log(d.tutor + " - Lleva " + d.sietes.length)
+                    }
+                });
+            }
+            datos().catch((error) => console.error(error));
+        </script>
+    </body>
+</html>
+```
+
+En la partida usamos un [`String.length`](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/String/length) para contar número de elementos de arreglos con el índice `sietes`. Y lo usamos dos veces, primero en una condición [`if…else`](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/if...else) y después en la construcción del [mensaje del `console.log()`](https://developer.mozilla.org/es/docs/Web/API/console/log_static)
 
 - - - - - - - 
 
