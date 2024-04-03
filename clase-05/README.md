@@ -92,7 +92,7 @@ Partamos con el código que sigue, pegándolo en un index.html y revisando el re
                 console.log(data);
                 data.forEach(d => {
                     if(d.sietes.length > 3){
-                        console.log(d.tutor + " - Lleva " + d.sietes.length)
+                        console.log(d.tutor + " - Lleva " + d.sietes.length + ", o un " + Math.round((100*d.sietes.length)/13) + " de 100")
                     }
                 });
             }
@@ -103,6 +103,8 @@ Partamos con el código que sigue, pegándolo en un index.html y revisando el re
 ```
 
 En la partida usamos un [`String.length`](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/String/length) para contar número de elementos de arreglos con el índice `sietes`. Y lo usamos dos veces, primero en una condición [`if…else`](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/if...else) y después en la construcción del [mensaje del `console.log()`](https://developer.mozilla.org/es/docs/Web/API/console/log_static)
+
+Ojo que en la construcción del mensaje también interviene un [`Math.round`](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Math/round).
 
 - - - - - - - 
 
