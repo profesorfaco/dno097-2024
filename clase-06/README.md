@@ -41,8 +41,14 @@ Partamos con un código, que se pega en un `index.html`:
                 const consulta = await fetch("https://raw.githubusercontent.com/profesorfaco/dno097-2024/main/clase-06/data.json");
                 const data = await consulta.json();
                 console.log(data);
+                //acortemos los datos con ámbito y pdf
                 data.forEach(d => {
-                    if(d.ambito == "Educación" && d.pdf_ok !== "0"){
+                    d.nota_titulo = parseFloat(d.nota_titulo.replace(",", "."));
+                    d.nota_pga = parseFloat(d.nota_pga.replace(",", "."));
+                    d.nota_seminario = parseFloat(d.nota_seminario.replace(",", "."));
+                    d.year = Number(d.year);
+                    d.pdf_ok = Number(d.pdf_ok);
+                    if(d.ambito == "Educación" && d.pdf_ok == 1){
                         seleccion.push(d)
                     }
                 });
@@ -54,7 +60,9 @@ Partamos con un código, que se pega en un `index.html`:
 </html>
 ```
 
-Nótese que hay un `if()` que tiene un `&&` que significa "y", de esto y esto también.
+Pueden notar que que hay un `if()` que tiene un `&&` que significa "y", de esto y esto también.
+
+Previamente pudieron notar el `parseFloat()` y el `Number()`, además del `replace(",", ".")`. Estos nos ayudan a preparar los datos para su tratamiento.
 
 - - - - - - - 
 
