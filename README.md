@@ -50,17 +50,17 @@ Cada estudiante en este OPR debe disponer de:
 
 Según [Calendario de Actividades Académicas y Estudiantiles 2024](https://registrosacademicos.uc.cl/wp-content/uploads/2023/11/Calendario-Academico-2024.pdf), las clases del primer semestre comienzan el día lunes 6 de marzo y finalizan el viernes 15 de julio.
 
-[Clase 01](https://github.com/profesorfaco/dno097-2024/tree/main/clase-01) → 06/03/2023 → Datos e información
+[Clase 01](https://github.com/profesorfaco/dno097-2024/tree/main/clase-01) → 06/03/2023 → Datos e información ✓
 
-[Clase 02](https://github.com/profesorfaco/dno097-2024/tree/main/clase-02) → 13/03/2023 → Datos e información en gráficas (primera parte)
+[Clase 02](https://github.com/profesorfaco/dno097-2024/tree/main/clase-02) → 13/03/2023 → Datos e información en gráficas (primera parte) ✓
 
-[Clase 03](https://github.com/profesorfaco/dno097-2024/tree/main/clase-03) → 20/03/2023 → Datos e información en gráficas (segunda parte)
+[Clase 03](https://github.com/profesorfaco/dno097-2024/tree/main/clase-03) → 20/03/2023 → Datos e información en gráficas (segunda parte) ✓
 
-[Clase 04](https://github.com/profesorfaco/dno097-2024/tree/main/clase-04) → 27/03/2023 → Formatos ligeros de intercambios de datos en la creación de gráficas: CSV
+[Clase 04](https://github.com/profesorfaco/dno097-2024/tree/main/clase-04) → 27/03/2023 → Formatos ligeros de intercambios de datos en la creación de gráficas: CSV ✓
 
-[Clase 05](https://github.com/profesorfaco/dno097-2024/tree/main/clase-05) → 03/04/2023 → Formatos ligeros de intercambios de datos en la creación de gráficas: JSON (primera parte)
+[Clase 05](https://github.com/profesorfaco/dno097-2024/tree/main/clase-05) → 03/04/2023 → Formatos ligeros de intercambios de datos en la creación de gráficas: JSON (primera parte) ✓
 
-[Clase 06](https://github.com/profesorfaco/dno097-2024/tree/main/clase-06) → 10/04/2023 → Formatos ligeros de intercambios de datos en la creación de gráficas: JSON (segunda parte)
+[Clase 06](https://github.com/profesorfaco/dno097-2024/tree/main/clase-06) → 10/04/2023 → Formatos ligeros de intercambios de datos en la creación de gráficas: JSON (segunda parte) ✓
 
 [Clase 07](https://github.com/profesorfaco/dno097-2024/tree/main/clase-07) → 17/04/2023 → Gráficas y datos en diseño web responsive: SVG
 
