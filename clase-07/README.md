@@ -180,11 +180,11 @@ Se recomienda que peguen y copien el código fuente en un `index.html`, lo guard
 Después de ver los resultados, vuelvan al código fuente e intenten leerlo de principio a fin, diferenciando:
 
 - HTML
-- CSS
 - SVG
+- CSS
 - JavaScript
 
-Basta diferenciar tales lenguajes para notar que lo más extenso del código fuente es lo escrito en JavaScript; porque fueron necesarias muchas instrucciones después del [`fetch()`](https://developer.mozilla.org/es/docs/Web/API/Fetch_API/Using_Fetch) de un único [JSON](https://www.json.org/json-es.html) con demasiados "datos duros" que acotamos con ciertos criterios, para luego llenar nuevas variables, limpiar redundancias, sacar promedios, etc.
+Basta diferenciarlos para notar que lo más extenso del código fuente es lo escrito en JavaScript; porque fueron necesarias muchas instrucciones después del [`fetch()`](https://developer.mozilla.org/es/docs/Web/API/Fetch_API/Using_Fetch) de un único [JSON](https://www.json.org/json-es.html) con demasiados "datos duros" que acotamos con ciertos criterios, para luego llenar nuevas variables, limpiar redundancias, sacar promedios, etc.
 
 Pero no siempre serán necesarias tantas instrucciones. Pueden ser muchas menos si preparamos conjuntos de datos acotados, para luego intercambiar mediante formatos tales como JSON o CSV. 
 
@@ -194,7 +194,7 @@ La manera de acotar los conjuntos de datos puede estar en función de las visual
 
 - Tableros de información (dashboards), como los de https://themes.getbootstrap.com/product-category/admin-dashboard/ 
 
-Un trabajo de infografía digital sobre las memorias clasificadas en un ámbito podría verse muy distinto de un tablero de información para la elección de Prof. Guía.
+Un trabajo de infografía digital sobre las memorias clasificadas en un determinado ámbito podría verse muy distinto de un tablero de información para la elección de Prof. Guía. Pero los lenguajes, dialectos y formatos utilizados en el desarrollo de ambas pueden ser los mismos.
 
 - - - - - - - - - - - - - - 
 
