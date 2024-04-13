@@ -177,14 +177,24 @@ Un código largo para repasar lo visto en clases previas:
 
 Se recomienda que peguen y copien el código fuente en un `index.html`, lo guarden y revisen el resultado, con atención a lo que se imprime en la consola de JavaScript.
 
-Después de ver los resultados, vuelvan al código fuente e intenten leerlo, sabiendo que estarían leyendo:
+Después de ver los resultados, vuelvan al código fuente e intenten leerlo de principio a fin, diferenciando:
 
 - HTML
 - CSS
 - SVG
 - JavaScript
 
-Lo más extenso en el código fuente es lo escrito en JavaScript, porque damos muchas instrucciones después del [`fetch()`](https://developer.mozilla.org/es/docs/Web/API/Fetch_API/Using_Fetch) de un [JSON](https://www.json.org/json-es.html) que nos ofrece "datos duros": Acotamos con ciertos criterios, llenamos nuevas variables, limpiamos redundancias, sacamos promedios, etc. 
+Basta diferenciar tales lenguajes para notar que lo más extenso del código fuente es lo escrito en JavaScript; porque fueron necesarias muchas instrucciones después del [`fetch()`](https://developer.mozilla.org/es/docs/Web/API/Fetch_API/Using_Fetch) de un único [JSON](https://www.json.org/json-es.html) con demasiados "datos duros" que acotamos con ciertos criterios, para luego llenar nuevas variables, limpiar redundancias, sacar promedios, etc.
+
+Pero no siempre serán necesarias tantas instrucciones. Pueden ser muchas menos si preparamos conjuntos de datos acotados, para luego intercambiar mediante formatos tales como JSON o CSV. 
+
+La manera de acotar los conjuntos de datos puede estar en función de las visualizaciones por generar y modo de uso como conjunto, hasta tomar dos vías distintas que podríamos caracterizar como:
+
+- Infografías digitales, interactivas y dinámicas, como las de https://www.reuters.com/graphics/; o
+
+- Tableros de información (dashboards), como los de https://themes.getbootstrap.com/product-category/admin-dashboard/ 
+
+Un trabajo de infografía digital sobre las memorias clasificadas en un ámbito podría verse muy distinto de un tablero de información para la elección de Prof. Guía.
 
 - - - - - - - - - - - - - - 
 
