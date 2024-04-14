@@ -151,7 +151,7 @@ Partamos con un código largo para repasar lo visto en clases previas:
                 seleccion.forEach(s => words = words + " " + s.para_que);
                 var palabras = words.split(" ");
                 palabras = palabras.sort();
-                const nopalabras = ["","a","al","como","con","de","del","desde","e","el","en","entre","esta","este","esto","hacia","la","las","lo","los","más","no","para","por","que","se","sobre","su","sus","través","un","una","unas","unos","y"];
+                const nopalabras = ["","a","al","como","con","de","del","desde","e","el","en","entre","esta","este","esto","hacia","la","las","lo","los","más","mediante","no","o","para","por","que","se","sobre","su","sus","tanto","través","un","una","unas","unos","y"];
                 const sacaPalabras = (arreglo, sacar) => {
                     return arreglo.filter((palabra) => {
                         return !sacar.includes(palabra);
