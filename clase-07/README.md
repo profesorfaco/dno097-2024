@@ -5,7 +5,7 @@
 
 ### Teoría (para la casa)
 
-Partamos con un código largo para repasar lo visto en clases previas:
+Partamos con un código largo, para repasar lo visto en clases previas:
 
 ```
 <!DOCTYPE html>
