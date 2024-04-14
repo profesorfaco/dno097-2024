@@ -210,7 +210,9 @@ La manera de acotar los conjuntos de datos puede estar en función de las visual
 
 - Tableros de información (dashboards), como los de https://themes.getbootstrap.com/product-category/admin-dashboard/
 
-Las primeras ofrecen títulos, subtítulos y párrafos, que se intercalan con visualizaciones figurativas o no figurativas, para desplegar un asunto en la medida que se hace *scroll down*. La segundas reducen al mínimo el uso de títulos, subtítulos y párrafos, para ofrecer visualizaciones que tienen a ser no figurativas, desplegando las variables necesarias para evaluar el estado de cierto asunto *at a glance* y sin *scroll*.
+Las primeras ofrecen títulos, subtítulos y párrafos, que se intercalan con visualizaciones figurativas o no figurativas, para desplegar un asunto en la medida que se hace *scroll down*. 
+
+Las segundas reducen al mínimo el uso de títulos, subtítulos y párrafos, para ofrecer visualizaciones que tienen a ser no figurativas, desplegando las variables necesarias para evaluar el estado de cierto asunto *at a glance* y sin *scroll*.
 
 Un trabajo de infografía digital sobre las memorias clasificadas en un determinado ámbito podría verse distinto de un tablero de información para la elección de Prof. Guía. Pero los lenguajes, dialectos y formatos utilizados en el desarrollo de ambas pueden ser los mismos: HTML, CSS y JavaScript serían los lenguajes; SVG el dialecto; CSS y JSON los formatos.
 
