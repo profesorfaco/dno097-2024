@@ -198,7 +198,9 @@ Después de ver el resultado, vuelvan al código fuente e intenten leerlo de pri
 - CSS
 - JavaScript
 
-Basta diferenciarlos para notar que lo más extenso del código fuente es lo escrito en JavaScript; porque fueron necesarias muchas instrucciones después del [`fetch()`](https://developer.mozilla.org/es/docs/Web/API/Fetch_API/Using_Fetch) de un único [JSON](https://www.json.org/json-es.html) con demasiados "datos duros" que acotamos con ciertos criterios, para luego llenar nuevas variables, limpiar redundancias, sacar promedios, etc.
+Haciendo esa diferencia no habría problemas con la siguiente instrucción: En la primera línea del script, cambie el contenido de la variable-constante de nombre `criterio` por la cadena de caracteres que utilizó en el ejercicio de la clase recién pasada.
+
+Aprovechando la diferencia hecha, y manteniéndonos en el script, resulta evidente de que la parte más extensa del código está escrita en JavaScript, el único lenguaje de programación entre los que diferenciamos en la página; porque fueron necesarias muchas instrucciones después del [`fetch()`](https://developer.mozilla.org/es/docs/Web/API/Fetch_API/Using_Fetch) de un único [JSON](https://www.json.org/json-es.html) con demasiados "datos duros" que acotamos con ciertos criterios, para luego llenar nuevas variables, limpiar redundancias, sacar promedios, etc.
 
 Pero no siempre serán necesarias tantas instrucciones. Pueden ser muchas menos si preparamos conjuntos de datos acotados, para luego intercambiar mediante formatos tales como JSON o CSV. 
 
@@ -208,7 +210,7 @@ La manera de acotar los conjuntos de datos puede estar en función de las visual
 
 - Tableros de información (dashboards), como los de https://themes.getbootstrap.com/product-category/admin-dashboard/ 
 
-Un trabajo de infografía digital sobre las memorias clasificadas en un determinado ámbito podría verse muy distinto de un tablero de información para la elección de Prof. Guía. Pero los lenguajes, dialectos y formatos utilizados en el desarrollo de ambas pueden ser los mismos.
+Un trabajo de infografía digital –con *scroll* largo– sobre las memorias clasificadas en un determinado ámbito podría verse distinto de un tablero de información –sin *scroll*– para la elección de Prof. Guía. Pero los lenguajes, dialectos y formatos utilizados en el desarrollo de ambas pueden ser los mismos.
 
 - - - - - - - - - - - - - - 
 
