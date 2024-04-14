@@ -58,7 +58,7 @@ Partamos con un código largo para repasar lo visto en clases previas:
                     <p class="ms-2">Se toman los datos de la tabla de arriba para calcular una nota promedio para los títulos guiados por cada Profesor(a) Guía. A continuación sólo se muestran las notas promedios que están en o por sobre el promedio general de <span id="corte"></span></p>
                     <svg id="aqui"></svg>
                     <h2 class="fs-4 mt-5 ms-2 mb-3">Palabras</h2>
-                    <p class="ms-2">Ahora se toman los "para qué" de los proyectos en las tablas y se buscan palabras más repetidas (descartando artículos, adverbios, preposiciones y conjunciones).</p>
+                    <p class="ms-2">Ahora se reúnen todos los "para qué" de los proyectos en la tabla y se buscan en lo reunido las palabras más repetidas (descartando artículos, adverbios, preposiciones y conjunciones).</p>
                     <ul id="palabreo"></ul>
                 </div>
             </div>
