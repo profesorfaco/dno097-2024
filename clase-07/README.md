@@ -189,7 +189,7 @@ Partamos con un código largo, para repasar lo visto en clases previas:
 </html>
 ```
 
-Se recomienda que peguen y copien el código fuente en un `index.html`, lo guarden y revisen el resultado, con atención a lo que se imprime en la consola de JavaScript.
+Se recomienda que peguen y copien el código fuente en un `index.html`, lo guarden y revisen el resultado en su navegador web, con atención a lo que se imprime en la consola de JavaScript.
 
 Después de ver el resultado, vuelvan al código fuente e intenten leerlo de principio a fin, diferenciando:
 
