@@ -5,7 +5,7 @@
 
 ### Teoría (para la casa)
 
-Un código largo para repasar lo visto en clases previas:
+Partamos con un código largo para repasar lo visto en clases previas:
 
 ```
 <!DOCTYPE html>
@@ -16,9 +16,9 @@ Un código largo para repasar lo visto en clases previas:
         <title>Partiendo la sexta clase</title>
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous" />
         <style>
-            body{color:#06122c; }
-            em{font-style: normal; font-weight: bold; text-decoration: underline;}
-            span{font-weight: bold;}
+            body {color: #06122c;}
+            em {font-style: normal; font-weight: bold; text-decoration: underline;}
+            span {font-weight: bold;}
         </style>
     </head>
     <body>
@@ -29,146 +29,160 @@ Un código largo para repasar lo visto en clases previas:
         </svg>
         <div class="container">
             <div class="row">
-                <div class="col-md-10 my-5 mx-auto">
+                <div class="col-md-10 col-lg-9 col-xl-8 my-5 mx-auto">
                     <h1 class="ms-2">DISEÑO UC</h1>
-                    <p class="ms-2">Considerando sólo <em>memorias de Proyecto de Título</em>:</p> 
+                    <p class="ms-2">Considerando sólo <em>memorias de Proyecto de Título</em>:</p>
                     <ul class="mb-5 ms-2">
                         <li>clasificada en ámbitos que incluyan los caracteres "<span id="criterio"></span>";</li>
                         <li>con PDF disponible; y</li>
-                        <li>con nota de título que sea igual o mayor a 6.</li> 
+                        <li>con nota de título que sea igual o mayor a 6.</li>
                     </ul>
                     <h2 class="fs-4 ms-2 mb-3"><a href="https://www.visual-literacy.org/periodic_table/periodic_table.html" title="Data Visualization → Structure Visualization → Detail AND Overview → Convergente thinking" target="_blank" class="link-dark">Tabla</a></h2>
                     <div class="table-responsive">
                         <table class="table table-light table-hover small">
-                          <thead class="table-primary">
-                            <tr>
-                              <th scope="col" class="text-center">#</th>
-                              <th scope="col" style="width: 20%">Autor(a)</th>
-                              <th scope="col">Año</th>
-                              <th scope="col" style="width: 40%">Título</th>
-                              <th scope="col">Ámbito</th>
-                              <th scope="col">Prof. Guía</th>
-                              <th scope="col" class="text-center">Nota</th>
-                            </tr>
-                          </thead>
-                          <tbody></tbody>
+                            <thead class="table-primary">
+                                <tr>
+                                    <th scope="col" class="text-center">#</th>
+                                    <th scope="col" style="width: 20%;">Autor(a)</th>
+                                    <th scope="col">Año</th>
+                                    <th scope="col" style="width: 40%;">Título</th>
+                                    <th scope="col">Ámbito</th>
+                                    <th scope="col">Prof. Guía</th>
+                                    <th scope="col" class="text-center">Nota</th>
+                                </tr>
+                            </thead>
+                            <tbody></tbody>
                         </table>
                     </div>
                     <h2 class="fs-4 mt-5 ms-2 mb-3"><a href="https://www.visual-literacy.org/periodic_table/periodic_table.html" title="Data Visualization → Structure Visualization → Overview → Convergent thinking" target="_blank" class="link-dark">Barras</a></h2>
                     <p class="ms-2">Se toman los datos de la tabla de arriba para calcular una nota promedio para los títulos guiados por cada Profesor(a) Guía. A continuación sólo se muestran las notas promedios que están en o por sobre el promedio general de <span id="corte"></span></p>
                     <svg id="aqui"></svg>
+                    <h2 class="fs-4 mt-5 ms-2 mb-3">Palabras</h2>
+                    <p class="ms-2">Ahora se toman los "para qué" de los proyectos en las tablas y se buscan palabras más repetidas (descartando artículos, adverbios, preposiciones y conjunciones).</p>
+                    <ul id="palabreo"></ul>
                 </div>
             </div>
         </div>
         <script>
-            //puede cambiar el criterio
+            //Puede cambiar el criterio
             const criterio = "Bienestar";
             document.querySelector("#criterio").innerHTML = criterio;
-            //para tomar el tbody
+            //Para tomar el tbody
             const aqui = document.querySelector("tbody");
-            //para tomar el svg
+            //Para tomar el svg
             const visualizacion = document.querySelector("#aqui");
-            //para jugar un poco con los datos
+            //Para jugar un poco con los datos
             var seleccion = [];
             var profes = [];
             var nombres = [];
             var barras = [];
-
+            //Todo lo que sigue es una función
             async function datos() {
                 const consulta = await fetch("https://raw.githubusercontent.com/profesorfaco/dno097-2024/main/clase-06/data.json");
                 const data = await consulta.json();
-
                 console.log("Lo que sigue son todos los datos:");
                 console.log(data);
-
-                //trabajando con 1400 elementos en el arreglo
-
-                data.forEach(d => {
+                //Trabajando con 1400 elementos en el arreglo
+                data.forEach((d) => {
                     d.nota_titulo = parseFloat(d.nota_titulo.replace(",", "."));
                     d.nota_pga = parseFloat(d.nota_pga.replace(",", "."));
                     d.nota_seminario = parseFloat(d.nota_seminario.replace(",", "."));
                     d.year = Number(d.year);
                     d.pdf_ok = Number(d.pdf_ok);
-                    if(d.ambito.includes(criterio) && d.pdf_ok == 1 && d.nota_titulo >= 6){
-                        seleccion.push(d)
+                    if (d.ambito.includes(criterio) && d.pdf_ok == 1 && d.nota_titulo >= 6) {
+                        seleccion.push(d);
                     }
                 });
-
                 console.log("Lo que sigue es una selección de los datos:");
                 console.log(seleccion);
-                
-                //trabajando con una selección
-
-                seleccion.forEach((s,i) => {
-                    aqui.innerHTML += `<tr><td class="text-center">${i+1}</td><td>${s.nombre_paterno} ${s.nombre_materno}, ${s.nombre_pila[0]}.</td><td>${s.year}</td><td><a href="https://diseno.uc.cl/memorias/pdf/${s.nombre_pdf}" class="link-dark">${s.nombre_proyecto}</a> <svg width="1em" height="1em"><use href="#pdf"></use></svg></td><td>${s.ambito}</td><td>${s.nombre_guia}</td><td class="text-center">${s.nota_titulo.toFixed(1)}</td></tr>`;
+                //Trabajando con una selección
+                seleccion.forEach((s, i) => {
+                    aqui.innerHTML += `<tr><td class="text-center">${i + 1}</td><td>${s.nombre_paterno} ${s.nombre_materno}, ${s.nombre_pila[0]}.</td><td>${s.year}</td><td><a href="https://diseno.uc.cl/memorias/pdf/${s.nombre_pdf}" class="link-dark">${s.nombre_proyecto}</a> <svg width="1em" height="1em"><use href="#pdf"></use></svg></td><td>${s.ambito}</td><td>${s.nombre_guia}</td><td class="text-center">${s.nota_titulo.toFixed(1)}</td></tr>`;
                     let obj = {};
                     obj["prof"] = `${s.nombre_guia}`;
                     obj["nota"] = `${s.nota_titulo.toFixed(1)}`;
                     profes.push(obj);
                     nombres.push(s.nombre_guia);
-                })
-
+                });
                 /*
                     En el seleccion.forEach hago 3 cosas
                     1ra. lleno el tbody
                     2da. empujo objetos a la variable profes
                     3ra. empujo strings a la variable nombres
                 */
-
                 console.log("Lo que sigue son nombres de profes y notas asociadas en la selección:");
                 console.log(profes);
-
-                nombres = ([...new Set(nombres)]).sort();
-
-
+                nombres = [...new Set(nombres)].sort();
                 console.log("Lo que sigue son sólo los nombres, sin repetir, de los profes:");
                 console.log(nombres);
-
-                nombres.forEach(x => {
-                    //un profe a la vez
-                    let unProfe = profes.filter(p => p.prof === x);
-                    //promedio de notas de cada profe
-                    let average = (unProfe.reduce((total, siguiente) => total + Number(siguiente.nota), 0) / unProfe.length);
+                //Basándome en nombres, trabajo con profes 
+                nombres.forEach((x) => {
+                    //prof sin repetir
+                    let unProf = profes.filter((p) => p.prof === x);
+                    //promedio de notas de cada prof
+                    let average = unProf.reduce((a, b) => a + Number(b.nota), 0) / unProf.length;
                     let obj = {};
                     obj["prof"] = x;
                     obj["promedio"] = Number(average);
                     barras.push(obj);
                 });
-
                 console.log("Lo que sigue son promedios para cada nombre:");
-                console.log(barras);                
-
-                //sacando un promedio de manera vieja
-
-                var i = 0; var total = 0;
-                barras.forEach(b => {
-                    total += b.promedio;
-                    i++
-                })
-
-                var corte = total/i;
-
+                console.log(barras);
+                //Forma más "clásica" de sacar promedio
+                var i = 0;
+                var total = 0;
+                barras.forEach(barra => {total += barra.promedio; i++;});
+                var corte = total / i;
                 document.querySelector("#corte").innerHTML = corte.toFixed(2);
-
                 var ajuste = 0;
-
                 let mayor = 0;
-
-                barras.forEach(x=>{
+                barras.forEach((x) => {
                     mayor = Math.max(mayor, x.promedio);
-                    if(x.promedio >= corte){
-                        visualizacion.innerHTML += `<g transform="translate(0 ${ajuste*3})"><rect x="0" y="0" height="2" width="70" fill="#eee"></rect><rect x="0" y="0" height="2" width="${(x.promedio.toFixed(1))*10}" fill="#3274d7"></rect><text fill="white" font-size="0.9" x="0.5" y="1.3">${x.prof}</text><text fill="#06122c" font-size="0.9" x="${((x.promedio.toFixed(1))*10)-2.25}" y="1.3">${x.promedio.toFixed(1)}</text></g>`
+                    if (x.promedio >= corte) {
+                        visualizacion.innerHTML += `<g transform="translate(0 ${ajuste * 3})"><rect x="0" y="0" height="2" width="70" fill="#eee"></rect><rect x="0" y="0" height="2" width="${x.promedio.toFixed(1) * 10}" fill="#3274d7"></rect><text fill="white" font-size="1.2" x="0.5" y="1.4">${x.prof}</text><text fill="#06122c" font-size="1.2" x="${x.promedio.toFixed(1) * 10 - 2.5}" y="1.4">${x.promedio.toFixed(1)}</text></g>`;
                         ajuste++;
                     }
                 });
-
-                visualizacion.innerHTML += `<line x1="${(mayor.toFixed(1))*10}" y1="0" x2="${(mayor.toFixed(1))*10}" y2="${ajuste*3}" stroke="white" stroke-width="0.1"/>`
-
-                var proporcion = "0 0 70 " + ajuste*3;
-
+                visualizacion.innerHTML += `<line x1="${mayor.toFixed(1) * 10}" y1="0" x2="${mayor.toFixed(1) * 10}" y2="${ajuste * 3}" stroke="white" stroke-width="0.1"/>`;
+                var proporcion = "0 0 70 " + ajuste * 3;
                 visualizacion.setAttribute("viewBox", proporcion);
-
+                //Buscando las palabras frecuentes del "para qué" en su selección 
+                var words = "";
+                seleccion.forEach(s => words = words + " " + s.para_que);
+                var palabras = words.split(" ");
+                palabras = palabras.sort();
+                const nopalabras = ["","a","al","como","con","de","del","desde","e","el","en","entre","esta","este","esto","hacia","la","las","lo","los","más","no","para","por","que","se","sobre","su","sus","través","un","una","unas","unos","y"];
+                const sacaPalabras = (arreglo, sacar) => {
+                    return arreglo.filter((palabra) => {
+                        return !sacar.includes(palabra);
+                    });
+                };
+                var palabrasAcotadas = sacaPalabras(palabras, nopalabras);
+                const cuentaRepeticiones = (arreglo = []) => {
+                    const resultado = [];
+                    arreglo.forEach((el) => {
+                        const index = resultado.findIndex((obj) => {
+                            return obj["name"] === el;
+                        });
+                        if (index === -1) {
+                            resultado.push({
+                                name: el,
+                                count: 1,
+                            });
+                        } else {
+                            resultado[index]["count"]++;
+                        }
+                    });
+                    return resultado;
+                };
+                var total = cuentaRepeticiones(palabrasAcotadas);
+                total.forEach((x) => {
+                    if (x.count > 2) {
+                        document.querySelector("#palabreo").innerHTML += `<li>${x.name} (${x.count})</li>`;
+                    }
+                });
             }
+            //Acá se echa a correr la función
             datos().catch((error) => console.error(error));
         </script>
     </body>
@@ -177,7 +191,7 @@ Un código largo para repasar lo visto en clases previas:
 
 Se recomienda que peguen y copien el código fuente en un `index.html`, lo guarden y revisen el resultado, con atención a lo que se imprime en la consola de JavaScript.
 
-Después de ver los resultados, vuelvan al código fuente e intenten leerlo de principio a fin, diferenciando:
+Después de ver el resultado, vuelvan al código fuente e intenten leerlo de principio a fin, diferenciando:
 
 - HTML
 - SVG
