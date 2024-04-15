@@ -151,6 +151,24 @@ En la partida usamos un [`String.length`](https://developer.mozilla.org/es/docs/
 
 Ojo que en la construcción del mensaje también interviene un [`Math.round()`](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Math/round).
 
+
+
+| N° | Nombre | Quinto ejercicio |
+|:-----------:|:----------------------------------|:---------------------------|
+| 1 | ISIDORA ARRIAGADA | https://isidjan.github.io/dnoweb097_05/ |
+| 2 | TRINIDAD FORSTER | — |
+| 3 | TAHIS FUENTES | — |
+| 4 | SARA GOLDZVEIG | https://saragoldzveig.github.io/clase-05/ |
+| 5 | IMSCHENETZKY | https://jimschenetzky.github.io/DNOWEB_05/ |
+| 6 | JOSEFINA MOLIN | https://javimolin-uc.github.io/C5/ |
+| 7 | ISIDORA MUÑOZ | https://isidoramunoz.github.io/dnoweb-05/ |
+| 8 | VALENTINA NAVARRETE | https://valenavarrete.github.io/Clase-5/ |
+| 9 | TRINIDAD RODRÍGUEZ | https://trinirodriguez.github.io/dno-05/ |
+| 10 | CATALINA SEGUEL | https://cataseguel.github.io/Clase-05/ |
+| 11 | FRANCISCA SOTO | https://fsoti.github.io/Clase-5/ |
+| 12 | MA. ANGÉLICA VALDÉS | — |
+| 13 | CAMILA VALLEJO | https://camivallejo.github.io/Clase_5_Web/ |
+
 - - - - - - - 
 
 ###### [← CLASE PREVIA](https://github.com/profesorfaco/dno097-2024/tree/main/clase-04) • [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno097-2024/tree/main/clase-06)
