@@ -300,7 +300,7 @@ Lo segundo podría ser la prueba de los cambios de proporciones del gráfico con
 - ct-major-twelfth
 - ct-double-octave
 
-Y si con esos cambios pasan a explorar los elementos de la página, podrán encontrarse con un SVG que esta librería de JavaScript construyó por ustedes con lo ingresado en `new Chartist.Bar`.
+Y si con esos cambios pasan a explorar los elementos de la página, podrán encontrarse con un SVG que esta librería de JavaScript junto con su estilo CSS acaban de construir con unos pocos datos.
 
 - - - - - - - 
 
