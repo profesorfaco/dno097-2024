@@ -16,9 +16,9 @@ Partamos con un código largo, para repasar lo visto en clases previas:
         <title>Partiendo la sexta clase</title>
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous" />
         <style>
-            body {color: #06122c;}
-            em {font-style: normal; font-weight: bold; text-decoration: underline;}
-            span {font-weight: bold;}
+            body { color: #06122c; }
+            em { font-style: normal; font-weight: bold; text-decoration: underline; }
+            span { font-weight: bolder; }
         </style>
     </head>
     <body>
@@ -30,14 +30,34 @@ Partamos con un código largo, para repasar lo visto en clases previas:
         <div class="container">
             <div class="row">
                 <div class="col-md-10 col-lg-9 col-xl-8 my-5 mx-auto">
-                    <h1 class="ms-2">DISEÑO UC</h1>
-                    <p class="ms-2">Considerando sólo <em>memorias de Proyecto de Título</em>:</p>
-                    <ul class="mb-5 ms-2">
-                        <li>clasificada en ámbitos que incluyan los caracteres "<span id="criterio"></span>";</li>
-                        <li>con PDF disponible; y</li>
-                        <li>con nota de título que sea igual o mayor a 6.</li>
-                    </ul>
-                    <h2 class="fs-4 ms-2 mb-3"><a href="https://www.visual-literacy.org/periodic_table/periodic_table.html" title="Data Visualization → Structure Visualization → Detail AND Overview → Convergente thinking" target="_blank" class="link-dark">Tabla</a></h2>
+                    <h1 class="ms-2 fs-2"><span>diseño</span>uc</h1>
+                    <p class="ms-2 fw-bold">Memorias de Proyecto de Título con PDF disponible y en el ámbito de
+                        <select class="ms-1">
+                            <option value="Alimentación">Alimentación</option>
+                            <option value="plicadas">Artesanía</option>
+                            <option value="Bienestar">Bienestar</option>
+                            <option value="Ciencia">Ciencia</option>
+                            <option value="Ciudad">Ciudad</option>
+                            <option value="Comunicación">Comunicación</option>
+                            <option value="Cultura">Cultura</option>
+                            <option value="Deporte">Deporte</option>
+                            <option value="Educación">Educación</option>
+                            <option value="Empresa">Empresa</option>
+                            <option value="Entretenimiento">Entretenimiento</option>
+                            <option value="Género">Género</option>
+                            <option value="Inclusión">Inclusión</option>
+                            <option value="Moda">Moda</option>
+                            <option value="Salud">Salud</option>
+                            <option value="Silvo-agropecuario">Silvo-agropecuario</option>
+                            <option value="Sustentabilidad">Sustentabilidad</option>
+                            <option value="Transporte">Transporte</option>
+                            <option value="Turismo">Turismo</option>
+                        </select>
+                    </p>
+                    <h2 class="fs-4 ms-2 mb-4 mt-4"><a href="https://www.visual-literacy.org/periodic_table/periodic_table.html" title="Data Visualization → Structure Visualization → Overview → Convergent thinking" target="_blank" class="link-dark">Barras</a></h2>
+                    <p class="ms-2">Se toman los datos de la tabla de abajo para calcular una nota promedio para los títulos guiados por cada Profesor(a) Guía. A continuación sólo se muestran las notas promedios que están en o por sobre el promedio general de <span id="corte"></span></p>
+                    <svg id="aqui"></svg>
+                    <h2 class="fs-4 ms-2 mb-3 mt-5"><a href="https://www.visual-literacy.org/periodic_table/periodic_table.html" title="Data Visualization → Structure Visualization → Detail AND Overview → Convergente thinking" target="_blank" class="link-dark">Tabla</a></h2>
                     <div class="table-responsive">
                         <table class="table table-light table-hover small">
                             <thead class="table-primary">
@@ -54,30 +74,24 @@ Partamos con un código largo, para repasar lo visto en clases previas:
                             <tbody></tbody>
                         </table>
                     </div>
-                    <h2 class="fs-4 mt-5 ms-2 mb-3"><a href="https://www.visual-literacy.org/periodic_table/periodic_table.html" title="Data Visualization → Structure Visualization → Overview → Convergent thinking" target="_blank" class="link-dark">Barras</a></h2>
-                    <p class="ms-2">Se toman los datos de la tabla de arriba para calcular una nota promedio para los títulos guiados por cada Profesor(a) Guía. A continuación sólo se muestran las notas promedios que están en o por sobre el promedio general de <span id="corte"></span></p>
-                    <svg id="aqui"></svg>
+                    <div class="ct-chart ct-square"></div>
                     <h2 class="fs-4 mt-5 ms-2 mb-3">Palabras</h2>
-                    <p class="ms-2">Ahora se reúnen todos los "para qué" de los proyectos en la tabla y se buscan en lo reunido las palabras más repetidas (descartando artículos, adverbios, preposiciones y conjunciones).</p>
+                    <p class="ms-2">Ahora se reúnen todos los "para qué" de los proyectos en la tabla y se buscan en lo reunido las palabras repetidas tres o más veces (descartando artículos, adverbios, preposiciones y conjunciones).</p>
                     <ul id="palabreo"></ul>
                 </div>
             </div>
         </div>
         <script>
-            //Puede cambiar el criterio
-            const criterio = "Bienestar";
-            document.querySelector("#criterio").innerHTML = criterio;
-            //Para tomar el tbody
             const aqui = document.querySelector("tbody");
-            //Para tomar el svg
             const visualizacion = document.querySelector("#aqui");
-            //Para jugar un poco con los datos
-            var seleccion = [];
-            var profes = [];
-            var nombres = [];
-            var barras = [];
-            //Todo lo que sigue es una función
-            async function datos() {
+            const palabreo = document.querySelector("#palabreo");
+
+            async function datos(criterio) {
+                var seleccion = [];
+                var profes = [];
+                var nombres = [];
+                var barras = [];
+                var ambitos = [];
                 const consulta = await fetch("https://raw.githubusercontent.com/profesorfaco/dno097-2024/main/clase-06/data.json");
                 const data = await consulta.json();
                 console.log("Lo que sigue son todos los datos:");
@@ -89,7 +103,8 @@ Partamos con un código largo, para repasar lo visto en clases previas:
                     d.nota_seminario = parseFloat(d.nota_seminario.replace(",", "."));
                     d.year = Number(d.year);
                     d.pdf_ok = Number(d.pdf_ok);
-                    if (d.ambito.includes(criterio) && d.pdf_ok == 1 && d.nota_titulo >= 6) {
+                    d.ambito = d.ambito.replace("Entrenimiento", "Entretenimiento");
+                    if (d.ambito.includes(criterio) && d.pdf_ok == 1) {
                         seleccion.push(d);
                     }
                 });
@@ -105,17 +120,15 @@ Partamos con un código largo, para repasar lo visto en clases previas:
                     nombres.push(s.nombre_guia);
                 });
                 /*
-                    En el seleccion.forEach hago 3 cosas
-                    1ra. lleno el tbody
-                    2da. empujo objetos a la variable profes
-                    3ra. empujo strings a la variable nombres
+                    En el seleccion.forEach hice 3 cosas
+                    1ra. llenar el tbody
+                    2da. empujar objetos a la variable profes
+                    3ra. empujar strings a la variable nombres
                 */
-                console.log("Lo que sigue son nombres de profes y notas asociadas en la selección:");
-                console.log(profes);
+                console.log("Lo que sigue son sólo los nombres, sin repetir:");
                 nombres = [...new Set(nombres)].sort();
-                console.log("Lo que sigue son sólo los nombres, sin repetir, de los profes:");
                 console.log(nombres);
-                //Basándome en nombres, trabajo con profes 
+                //Basándome en nombres, trabajo con profes
                 nombres.forEach((x) => {
                     //prof sin repetir
                     let unProf = profes.filter((p) => p.prof === x);
@@ -131,7 +144,10 @@ Partamos con un código largo, para repasar lo visto en clases previas:
                 //Forma más "clásica" de sacar promedio
                 var i = 0;
                 var total = 0;
-                barras.forEach(barra => {total += barra.promedio; i++;});
+                barras.forEach((barra) => {
+                    total += barra.promedio;
+                    i++;
+                });
                 var corte = total / i;
                 document.querySelector("#corte").innerHTML = corte.toFixed(2);
                 var ajuste = 0;
@@ -139,19 +155,21 @@ Partamos con un código largo, para repasar lo visto en clases previas:
                 barras.forEach((x) => {
                     mayor = Math.max(mayor, x.promedio);
                     if (x.promedio >= corte) {
-                        visualizacion.innerHTML += `<g transform="translate(0 ${ajuste * 3})"><rect x="0" y="0" height="2" width="70" fill="#eee"></rect><rect x="0" y="0" height="2" width="${x.promedio.toFixed(1) * 10}" fill="#3274d7"></rect><text fill="white" font-size="1.2" x="0.5" y="1.4">${x.prof}</text><text fill="#06122c" font-size="1.2" x="${x.promedio.toFixed(1) * 10 - 2.5}" y="1.4">${x.promedio.toFixed(1)}</text></g>`;
+                        visualizacion.innerHTML += `<g transform="translate(0 ${ajuste * 3})"><rect x="0" y="0" height="2" width="70" fill="#eee"></rect><rect x="0" y="0" height="2" width="${
+                            x.promedio.toFixed(1) * 10
+                        }" fill="#3274d7"></rect><text fill="white" font-size="1.2" x="0.5" y="1.4">${x.prof}</text><text fill="#06122c" font-size="1.2" x="${x.promedio.toFixed(1) * 10 - 2.5}" y="1.4">${x.promedio.toFixed(1)}</text></g>`;
                         ajuste++;
                     }
                 });
                 visualizacion.innerHTML += `<line x1="${mayor.toFixed(1) * 10}" y1="0" x2="${mayor.toFixed(1) * 10}" y2="${ajuste * 3}" stroke="white" stroke-width="0.1"/>`;
                 var proporcion = "0 0 70 " + ajuste * 3;
                 visualizacion.setAttribute("viewBox", proporcion);
-                //Buscando las palabras frecuentes del "para qué" en su selección 
+                //Buscando las palabras frecuentes del "para qué" en su selección
                 var words = "";
-                seleccion.forEach(s => words = words + " " + s.para_que);
+                seleccion.forEach((s) => (words = words + " " + s.para_que));
                 var palabras = words.split(" ");
                 palabras = palabras.sort();
-                const nopalabras = ["","a","al","como","con","de","del","desde","e","el","en","entre","esta","este","esto","hacia","la","las","lo","los","más","mediante","no","o","para","por","que","se","sobre","su","sus","tanto","través","un","una","unas","unos","y"];
+                const nopalabras = ["","a","al","así","como","con","de","De","del","dentro","desde","e","el","El","en","entre","esta","este","esto","estos","fin","hacia","la","las","le","les","lo","los","más","mediante","no","o","para","por","que","qué","se","sin","sobre","son","su","sus","tanto","través","un","una","unas","unos","vez","y"];
                 const sacaPalabras = (arreglo, sacar) => {
                     return arreglo.filter((palabra) => {
                         return !sacar.includes(palabra);
@@ -177,13 +195,26 @@ Partamos con un código largo, para repasar lo visto en clases previas:
                 };
                 var total = cuentaRepeticiones(palabrasAcotadas);
                 total.forEach((x) => {
-                    if (x.count > 2) {
-                        document.querySelector("#palabreo").innerHTML += `<li>${x.name} (${x.count})</li>`;
+                    if (x.count >= 3) {
+                        palabreo.innerHTML += `<li>${x.name} (${x.count})</li>`;
                     }
                 });
             }
-            //Acá se echa a correr la función
-            datos().catch((error) => console.error(error));
+
+            datos("Alimentación").catch((error) => console.error(error));
+
+            document.querySelector("select").addEventListener("change", (event) => {
+                aqui.innerHTML = " ";
+                visualizacion.innerHTML = " ";
+                palabreo.innerHTML = " ";
+                console.clear();
+                var seleccion = [];
+                var profes = [];
+                var nombres = [];
+                var barras = [];
+                var ambitos = [];
+                datos(event.target.value).catch((error) => console.error(error));
+            });
         </script>
     </body>
 </html>
@@ -249,13 +280,13 @@ Dentro del `<style></style>`, agregar:
 .ct-series-a .ct-bar {stroke: #3274d7;}
 ```
 
-Justo debajo del `<svg></svg>` de identidad `aqui`, agregar:
+Justo debajo de `<ul id="palabreo"></ul>`, agregar:
 
 ```
 <div class="ct-chart"></div>
 ```
 
-Y después del cierre del largo `<script></script>`, agreguemos lo siguiente:
+Y después del cierre del largo `<script></script>`, agreguemos otro:
 
 ```
 <script>
