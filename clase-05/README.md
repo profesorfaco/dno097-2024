@@ -151,7 +151,9 @@ En la partida usamos un [`String.length`](https://developer.mozilla.org/es/docs/
 
 Ojo que en la construcción del mensaje también interviene un [`Math.round()`](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Math/round).
 
+Como en cada clase, corresponde dejar constancia, durante el día, de su resultado ya publicado en GitHub mediante una entrada en este foro de discusión: https://cursos.canvas.uc.cl/courses/73175/discussion_topics/762271
 
+Con lo ingresado en el foro se rellena la siguiente tabla:
 
 | N° | Nombre | Quinto ejercicio |
 |:-----------:|:----------------------------------|:---------------------------|
