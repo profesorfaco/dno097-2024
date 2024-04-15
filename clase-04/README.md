@@ -280,6 +280,23 @@ Estamos partiendo con esto:
 
 Una vez muestren los datos de los profes en el index.html: Dejen constancia, durante el día, de su resultado ya publicado en GitHub mediante una entrada en este foro de discusión: https://cursos.canvas.uc.cl/courses/73175/discussion_topics/758800
 
+Con lo ingresado, se rellena la siguiente tabla:
+
+|	N°	|	Nombre	|	Cuarto ejercicio	|
+|:-------:|:-------------------------|:---------------------|
+|	1	|	ISIDORA ARRIAGADA	|	—	|
+|	2	|	TRINIDAD FORSTER	|	https://trinidad-forster.github.io/C4_27-03/	|
+|	3	|	TAHIS FUENTES	|	—	|
+|	4	|	SARA GOLDZVEIG	|	https://saragoldzveig.github.io/clase-04/	|
+|	5	|	IMSCHENETZKY	|	https://jimschenetzky.github.io/DNOWEB_04/	|
+|	6	|	JOSEFINA MOLIN	|	https://javimolin-uc.github.io/C4/	|
+|	7	|	ISIDORA MUÑOZ	|	https://isidoramunoz.github.io/dnoweb-04/	|
+|	8	|	VALENTINA NAVARRETE	|	https://valenavarrete.github.io/Clase-4/	|
+|	9	|	TRINIDAD RODRÍGUEZ	|	https://trinirodriguez.github.io/dno-04/	|
+|	10	|	CATALINA SEGUEL	|	https://cataseguel.github.io/Clase-04/	|
+|	11	|	FRANCISCA SOTO	|	https://fsoti.github.io/Clase-4/	|
+|	12	|	MA. ANGÉLICA VALDÉS	|	—	|
+|	13	|	CAMILA VALLEJO	|	https://camivallejo.github.io/Clase_04_web/	|
 
 
 - - - - - - - 
