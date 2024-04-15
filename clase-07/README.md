@@ -234,6 +234,51 @@ Y cambiemos el path contenido en tal tal símbolo por uno distinto, que pueden t
 
 Al hacer el cambio, pongan mucha atención a la diferencia que podría haber entre el `viewBox` del SVG que toman y el `viewBox` del `<symbol></symbol>`.
 
+**Una vez hecho el cambio, demos un salto con atención a las siguientes instrucciones**:
+
+Dentro del `<head></head>`, agregar:
+
+```
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/chartist/0.11.4/chartist.min.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/chartist/0.11.4/chartist.min.js"></script>
+```
+        
+Dentro del `<style></style>`, que está dentro de `<head></head>`, agregar:
+
+```
+.ct-series-a .ct-bar {stroke: #3274d7;}
+```
+
+Justo debajo del `<svg></svg>` de identidad `aqui`, agregar:
+
+```
+<div class="ct-chart"></div>
+```
+
+Y después del cierre del largo `<script></script>`, agregar un segundo, mucho más breve:
+
+```
+<script>
+    new Chartist.Bar(
+        ".ct-chart",
+        {
+            labels: ["Cancino", "Duran", "Ulibarri", "Villela"],
+            series: [[7.0, 6.7, 6.6, 6.8]],
+        },
+        {
+            reverseData: true,
+            horizontalBars: true,
+            axisY: {
+                offset: 75,
+            },
+        }
+    );
+</script>
+```
+
+**El resultado debería mostrarles un gráfico de barras construido con [Chartist.js](https://gionkunz.github.io/chartist-js/index.html)**
+
+
 - - - - - - - 
 
 ###### [← CLASE PREVIA](https://github.com/profesorfaco/dno097-2024/tree/main/clase-06) • [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno097-2024/tree/main/clase-08)
