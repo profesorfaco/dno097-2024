@@ -236,7 +236,7 @@ Al hacer el cambio, pongan mucha atención a la diferencia que podría haber ent
 
 **Una vez hecho el cambio, demos un salto con atención a las siguientes instrucciones**:
 
-Dentro del `<head></head>`, entre el `<link />` y el `<style></style>, agregar:
+Dentro del `<head></head>`, entre el `<link />` y el `<style></style>`, agregar:
 
 ```
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/chartist/0.11.4/chartist.min.css" />
