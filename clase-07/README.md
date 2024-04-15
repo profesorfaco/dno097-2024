@@ -236,14 +236,14 @@ Al hacer el cambio, pongan mucha atención a la diferencia que podría haber ent
 
 **Una vez hecho el cambio, demos un salto con atención a las siguientes instrucciones**:
 
-Dentro del `<head></head>`, agregar:
+Dentro del `<head></head>`, entre el `<link />` y el `<style></style>, agregar:
 
 ```
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/chartist/0.11.4/chartist.min.css" />
 <script src="https://cdnjs.cloudflare.com/ajax/libs/chartist/0.11.4/chartist.min.js"></script>
 ```
         
-Dentro del `<style></style>`, que está dentro de `<head></head>`, agregar:
+Dentro del `<style></style>`, agregar:
 
 ```
 .ct-series-a .ct-bar {stroke: #3274d7;}
@@ -255,7 +255,7 @@ Justo debajo del `<svg></svg>` de identidad `aqui`, agregar:
 <div class="ct-chart"></div>
 ```
 
-Y después del cierre del largo `<script></script>`, agregar un segundo, mucho más breve:
+Y después del cierre del largo `<script></script>`, agreguemos lo siguiente:
 
 ```
 <script>
@@ -276,8 +276,31 @@ Y después del cierre del largo `<script></script>`, agregar un segundo, mucho m
 </script>
 ```
 
-**El resultado debería mostrarles un gráfico de barras construido con [Chartist.js](https://gionkunz.github.io/chartist-js/index.html)**
+**Si todo está en orden, en la página se sumará un gráfico de barras construido con [Chartist.js](https://gionkunz.github.io/chartist-js/index.html)**
 
+Lo primero que podríamos hacer para explorar tal gráfico es cambiar, a mano, el arreglo de `labels` y el primer arreglo en `series`.
+
+Lo segundo podría ser la prueba de los cambios de proporciones del gráfico con el uso de cualquiera de las siguientes clases junto a `ct-chart`:
+
+- ct-square
+- ct-minor-second
+- ct-major-second
+- ct-minor-third
+- ct-major-third
+- ct-perfect-fourth
+- ct-perfect-fifth
+- ct-minor-sixth
+- ct-golden-section
+- ct-major-sixth
+- ct-minor-seventh
+- ct-major-seventh
+- ct-octave
+- ct-major-tenth
+- ct-major-eleventh
+- ct-major-twelfth
+- ct-double-octave
+
+Y si con esos cambios pasan a explorar los elementos de la página, podrán encontrarse con un SVG que esta librería de JavaScript construyó por ustedes con lo ingresado en `new Chartist.Bar`.
 
 - - - - - - - 
 
