@@ -76,6 +76,10 @@ Pueden notar que que hay un `if()` que tiene un `&&` que significa "y", de esto 
 
 Previamente pudieron notar el `parseFloat()` y el `Number()`, además del `replace(",", ".")`. Estos nos ayudan a preparar los datos para su tratamiento.
 
+Como en cada clase, corresponde dejar constancia, durante el día, de su resultado ya publicado en GitHub mediante una entrada en este foro de discusión: https://cursos.canvas.uc.cl/courses/73175/discussion_topics/767357
+
+Con lo ingresado en el foro se rellena la siguiente tabla:
+
 | N° | Nombre | Sexto ejercicio |
 |:---------:|:------------------------------|:---------------------------|
 | 1 | ISIDORA ARRIAGADA | https://isidjan.github.io/dnoweb097_06/ |
