@@ -112,6 +112,23 @@ Partamos con el siguiente código en un `index.html`:
 
 Una vez hagan las modificaciones al index.html, no olviden dejar constancia, durante el día, de su publicación en GitHub mediante una entrada en este foro de discusión: https://cursos.canvas.uc.cl/courses/73175/discussion_topics/754473
 
+Con lo ingresado, se rellena la siguiente tabla:
+
+|	N°	|	Nombre	|	Tercer ejercicio	|
+|:-----:|:---------------|:----------------------|
+|	1	|	ISIDORA ARRIAGADA	|	https://isidjan.github.io/dnoweb097_03	|
+|	2	|	TRINIDAD FORSTER	|	https://trinidad-forster.github.io/C3_20-03/	|
+|	3	|	TAHIS FUENTES	|	—	|
+|	4	|	SARA GOLDZVEIG	|	https://saragoldzveig.github.io/clase-03/	|
+|	5	|	IMSCHENETZKY	|	https://jimschenetzky.github.io/DNOWEB_03/	|
+|	6	|	JOSEFINA MOLIN	|	https://javimolin-uc.github.io/C3/	|
+|	7	|	ISIDORA MUÑOZ	|	https://isidoramunoz.github.io/dnoweb-03/	|
+|	8	|	VALENTINA NAVARRETE	|	https://valenavarrete.github.io/Clase-3/	|
+|	9	|	TRINIDAD RODRÍGUEZ	|	—	|
+|	10	|	CATALINA SEGUEL	|	https://cataseguel.github.io/Clase-03---DNO097/	|
+|	11	|	FRANCISCA SOTO	|	—	|
+|	12	|	MA. ANGÉLICA VALDÉS	|	—	|
+|	13	|	CAMILA VALLEJO	|	https://camivallejo.github.io/clase_03_web/	|
 
 
 - - - - - - - 
