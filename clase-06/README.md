@@ -76,6 +76,22 @@ Pueden notar que que hay un `if()` que tiene un `&&` que significa "y", de esto 
 
 Previamente pudieron notar el `parseFloat()` y el `Number()`, además del `replace(",", ".")`. Estos nos ayudan a preparar los datos para su tratamiento.
 
+| N° | Nombre | Sexto ejercicio |
+|:---------:|:------------------------------|:---------------------------|
+| 1 | ISIDORA ARRIAGADA | https://isidjan.github.io/dnoweb097_06/ |
+| 2 | TRINIDAD FORSTER | https://trinidad-forster.github.io/C6_10-04/ |
+| 3 | TAHIS FUENTES | — |
+| 4 | SARA GOLDZVEIG | https://saragoldzveig.github.io/Clase-06/ |
+| 5 | IMSCHENETZKY | https://jimschenetzky.github.io/DNOWEB_06/ |
+| 6 | JOSEFINA MOLIN | https://javimolin-uc.github.io/C6/ |
+| 7 | ISIDORA MUÑOZ | https://isidoramunoz.github.io/dnoweb-06/ |
+| 8 | VALENTINA NAVARRETE | https://valenavarrete.github.io/Clase-6/ |
+| 9 | TRINIDAD RODRÍGUEZ | https://trinirodriguez.github.io/dno-06/ |
+| 10 | CATALINA SEGUEL | https://cataseguel.github.io/Clase-6/ |
+| 11 | FRANCISCA SOTO | https://fsoti.github.io/Clase-6/ |
+| 12 | MA. ANGÉLICA VALDÉS | — |
+| 13 | CAMILA VALLEJO | https://camivallejo.github.io/clase_06_web/ |
+
 - - - - - - - 
 
 ###### [← CLASE PREVIA](https://github.com/profesorfaco/dno097-2024/tree/main/clase-05) • [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno097-2024/tree/main/clase-07)
