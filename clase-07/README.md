@@ -74,7 +74,6 @@ Partamos con un código largo, para repasar lo visto en clases previas:
                             <tbody></tbody>
                         </table>
                     </div>
-                    <div class="ct-chart ct-square"></div>
                     <h2 class="fs-4 mt-5 ms-2 mb-3">Palabras</h2>
                     <p class="ms-2">Ahora se reúnen todos los "para qué" de los proyectos en la tabla y se buscan en lo reunido las palabras repetidas tres o más veces (descartando artículos, adverbios, preposiciones y conjunciones).</p>
                     <ul id="palabreo"></ul>
@@ -277,12 +276,13 @@ Dentro del `<head></head>`, entre el `<link />` y el `<style></style>`, agregar:
 Dentro del `<style></style>`, agregar:
 
 ```
-.ct-series-a .ct-bar {stroke: #3274d7;}
+.ct-series-a .ct-line,.ct-series-a .ct-point {stroke: #3274d7;}
 ```
 
 Justo debajo de `<ul id="palabreo"></ul>`, agregar:
 
 ```
+<h2 class="fs-4 mt-5 ms-2 mb-3">Línea</h2>
 <div class="ct-chart"></div>
 ```
 
@@ -290,17 +290,14 @@ Y después del cierre del largo `<script></script>`, agreguemos otro:
 
 ```
 <script>
-    new Chartist.Bar(
-        ".ct-chart",
+    new Chartist.Line(".ct-chart",
         {
-            labels: [2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022],
-            series: [[6.24,6.09,5.86,5.90,5.95,6.00,6.04,6.08,6.13,6.07,6.11,6.15,6.15]],
+            labels: [2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022],
+            series: [[6.24, 6.09, 5.86, 5.9, 5.95, 6.0, 6.04, 6.08, 6.13, 6.07, 6.11, 6.15, 6.15]],
         },
         {
-            reverseData: true,
-            horizontalBars: true,
             axisY: {
-                offset: 75,
+                offset: 30,
             },
         }
     );
@@ -309,9 +306,7 @@ Y después del cierre del largo `<script></script>`, agreguemos otro:
 
 **Si todo está en orden, en la página se sumará un gráfico de barras construido con [Chartist.js](https://gionkunz.github.io/chartist-js/index.html)**
 
-Lo primero que podríamos hacer para explorar tal gráfico es cambiar, a mano, el arreglo de `labels` y el primer arreglo en `series`.
-
-Lo segundo podría ser la prueba de los cambios de proporciones del gráfico con el uso de cualquiera de las siguientes clases junto a `ct-chart`:
+Lo primero que podríamos hacer es hacer cambios de proporciones del contenedor del gráfico con el uso de cualquiera de las siguientes clases junto a `ct-chart`:
 
 - ct-square
 - ct-minor-second
