@@ -293,8 +293,8 @@ Y después del cierre del largo `<script></script>`, agreguemos otro:
     new Chartist.Bar(
         ".ct-chart",
         {
-            labels: ["Cancino", "Duran", "Ulibarri", "Villela"],
-            series: [[7.0, 6.7, 6.6, 6.8]],
+            labels: [2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022],
+            series: [[6.24,6.09,5.86,5.90,5.95,6.00,6.04,6.08,6.13,6.07,6.11,6.15,6.15]],
         },
         {
             reverseData: true,
