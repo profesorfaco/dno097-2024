@@ -328,6 +328,10 @@ Lo primero que podríamos hacer es hacer cambios de proporciones del contenedor 
 
 Y si con esos cambios pasan a explorar los elementos de la página, podrán encontrarse con un SVG que esta librería de JavaScript junto con su estilo CSS acaban de construir con unos pocos datos.
 
+Como en cada clase, corresponde dejar constancia, durante el día, de su resultado ya publicado en GitHub mediante una entrada en este foro de discusión: https://cursos.canvas.uc.cl/courses/73175/discussion_topics/772536
+
+Con lo ingresado en el foro se rellena la siguiente tabla:
+
 - - - - - - - 
 
 ###### [← CLASE PREVIA](https://github.com/profesorfaco/dno097-2024/tree/main/clase-06) • [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno097-2024/tree/main/clase-08)
