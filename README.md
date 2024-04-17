@@ -62,7 +62,7 @@ Según [Calendario de Actividades Académicas y Estudiantiles 2024](https://regi
 
 [Clase 06](https://github.com/profesorfaco/dno097-2024/tree/main/clase-06) → 10/04/2023 → Formatos ligeros de intercambios de datos en la creación de gráficas: JSON (segunda parte) ✓
 
-[Clase 07](https://github.com/profesorfaco/dno097-2024/tree/main/clase-07) → 17/04/2023 → Gráficas y datos en diseño web responsive: SVG
+[Clase 07](https://github.com/profesorfaco/dno097-2024/tree/main/clase-07) → 17/04/2023 → Gráficas y datos en diseño web responsive: SVG ✓
 
 [Clase 08](https://github.com/profesorfaco/dno097-2024/tree/main/clase-08)  → 24/04/2023 → Gráficas y datos en diseño web responsive: SVG y HTML
 
