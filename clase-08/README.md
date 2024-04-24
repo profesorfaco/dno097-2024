@@ -4,13 +4,15 @@
 
 ### Teoría (para la casa)
 
-Pendiente.
+Última clase antes del receso:
+
+![d28dcb2f7ccecddccb458a31296dbf5f290f4915347d845ecec513b55d27e8118eb4706dcd2430bcf702251bb2afa4e1f78ae41359a56c01d2b30559679d9a8b](https://github.com/profesorfaco/dno097-2024/assets/7999767/d3b91d8a-70b3-4383-b72a-cdc26d58720e)
 
 - - - - - - - - - - - - - - 
 
 ### Práctica (para la clase)
 
-Pendiente.
+Transformemos el *dashboard* de la clase recién pasada en una infografía digital referida a un ámbito de su interés.
 
 - - - - - - - 
 
