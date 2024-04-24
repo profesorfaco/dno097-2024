@@ -64,7 +64,7 @@ Según [Calendario de Actividades Académicas y Estudiantiles 2024](https://regi
 
 [Clase 07](https://github.com/profesorfaco/dno097-2024/tree/main/clase-07) → 17/04/2023 → Gráficas y datos en diseño web responsive: SVG ✓
 
-[Clase 08](https://github.com/profesorfaco/dno097-2024/tree/main/clase-08)  → 24/04/2023 → Gráficas y datos en diseño web responsive: SVG y HTML
+[Clase 08](https://github.com/profesorfaco/dno097-2024/tree/main/clase-08)  → 24/04/2023 → Gráficas y datos en diseño web responsive: SVG y HTML ✓
 
 Clase 09  → 01/05/2023 → FERIADO / RECESO DOCENCIA BIMESTRAL (Se suspenden las clases, las evaluaciones quedarán suspendidas entre el lunes 29 de abril y el lunes 6 de mayo inclusive)
 
