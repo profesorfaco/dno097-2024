@@ -24,13 +24,13 @@ Con lo ingresado en el foro se rellena la siguiente tabla:
 | Nombre | Ámbito o temática | URL           |
 |:-------|:-------------------|:-------------|
 | ISIDORA ARRIAGADA	| Comunicación | Pendiente |
-| TRINIDAD FORSTER | Inclusión | Pendiente |
+| TRINIDAD FORSTER | Inclusión, Migración, Discapacidad	 | Pendiente |
 | TAHIS FUENTES | — | Pendiente | 
 | SARA GOLDZVEIG | Moda | Pendiente |
 | JOSEFINA IMSCHENETZKY | Deporte | Pendiente | 
-| PAULA MIRANDA | Pendiente | Pendiente | 
-| JAVIERA MOLIN | Inclusión | Pendiente | 		
-| ISIDORA MUÑOZ	 | Artesanía | Pendiente | 
+| PAULA MIRANDA | — | Pendiente | 
+| JAVIERA MOLIN | Inclusión, Migración, Discapacidad	 | Pendiente | 		
+| ISIDORA MUÑOZ	 | Artesanía, Artes aplicadas | Pendiente | 
 | VALENTINA NAVARRETE | Transporte | Pendiente | 
 | TRINIDAD RODRÍGUEZ | Ciencia y Tecnología | Pendiente | 
 | CATALINA SEGUEL | — | Pendiente | 
