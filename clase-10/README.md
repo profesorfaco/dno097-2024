@@ -13,7 +13,9 @@ Y con esa base re-diseñemos los trabajos de la [clase 08](https://github.com/pr
 
 ### Práctica (para la clase)
 
-Pendiente.
+Se parte desde un ámbito: https://profesorfaco.github.io/dno097-2024/clase-07/
+
+O se puede "inventar" otro, tal como diseño para la resiliencia: https://d4rs.info/
 
 - - - - - - - 
 
