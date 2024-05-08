@@ -17,6 +17,13 @@ Se parte desde un ámbito: https://profesorfaco.github.io/dno097-2024/clase-07/
 
 O se puede "inventar" otro, tal como diseño para la resiliencia: https://d4rs.info/
 
+Al momento de crear gráficos no figurativos (*charts*), pueden aprovecharse de herramientas tales como:
+
+- https://app.rawgraphs.io/ (donde armar un `svg` para descargar y agregar a la página)
+- https://gionkunz.github.io/chartist-js/ (que crea gráficos dentro de un `svg` mediante programación en JS)
+- https://canvasjs.com/ (que crea gráficos dentro de un `canvas` mediante programación en JS) 
+- https://www.chartjs.org/ (que crea gráficos dentro de un `canvas` mediante programación en JS)
+
 Como en cada clase, corresponde dejar constancia, durante el día, de su resultado ya publicado en GitHub mediante una entrada en este foro de discusión: https://cursos.canvas.uc.cl/courses/73175/discussion_topics/783657
 
 Con lo ingresado en el foro se rellena la siguiente tabla:
