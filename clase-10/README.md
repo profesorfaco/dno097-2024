@@ -5,7 +5,9 @@
 
 ### Teoría (para la casa)
 
-Pendiente.
+Aprovechemos esta clase: https://profesorfaco.github.io/mid/clase-1/
+
+Y con esa base re-diseñemos los trabajos de la [clase 08](https://github.com/profesorfaco/dno097-2024/tree/main/clase-08), considerando un arco narrativo que se despliegue con el *scroll*. 
 
 - - - - - - - - - - - - - - 
 
