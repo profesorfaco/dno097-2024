@@ -36,8 +36,8 @@ Con lo ingresado en el foro se rellena la siguiente tabla:
 | SARA GOLDZVEIG | Moda | Pendiente |
 | JOSEFINA IMSCHENETZKY | Deporte | Pendiente | 
 | PAULA MIRANDA | — | Pendiente | 
-| JAVIERA MOLIN | Inclusión, Migración, Discapacidad	 | Pendiente | 		
-| ISIDORA MUÑOZ	 | Artesanía, Artes aplicadas | Pendiente | 
+| JAVIERA MOLIN | Inclusión, Migración, Discapacidad	 | https://javimolin-uc.github.io/C10/ | 		
+| ISIDORA MUÑOZ	 | Artesanía, Artes aplicadas | https://isidoramunoz.github.io/dnoweb-10/ | 
 | VALENTINA NAVARRETE | Transporte | Pendiente | 
 | TRINIDAD RODRÍGUEZ | Ciencia y Tecnología | Pendiente | 
 | CATALINA SEGUEL | — | Pendiente | 
