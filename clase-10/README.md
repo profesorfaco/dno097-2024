@@ -21,21 +21,21 @@ Como en cada clase, corresponde dejar constancia, durante el día, de su resulta
 
 Con lo ingresado en el foro se rellena la siguiente tabla:
 
-| Nombre | Ámbito o temática | Entrega      |
+| Nombre | Ámbito o temática | URL           |
 |:-------|:-------------------|:-------------|
-| ISIDORA ARRIAGADA	| Pendiente | Pendiente |
-| TRINIDAD FORSTER | Pendiente | Pendiente |
-| TAHIS FUENTES | Pendiente | Pendiente | 
-| SARA GOLDZVEIG | Pendiente | Pendiente |
-| JOSEFINA IMSCHENETZKY | Pendiente | Pendiente | 
+| ISIDORA ARRIAGADA	| Comunicación | Pendiente |
+| TRINIDAD FORSTER | Inclusión | Pendiente |
+| TAHIS FUENTES | — | Pendiente | 
+| SARA GOLDZVEIG | Moda | Pendiente |
+| JOSEFINA IMSCHENETZKY | Deporte | Pendiente | 
 | PAULA MIRANDA | Pendiente | Pendiente | 
-| JAVIERA MOLIN | Pendiente | Pendiente | 		
-| ISIDORA MUÑOZ	 | Pendiente | Pendiente | 
-| VALENTINA NAVARRETE | Pendiente | Pendiente | 
-| TRINIDAD RODRÍGUEZ | Pendiente | Pendiente | 
-| CATALINA SEGUEL | Pendiente | Pendiente | 
-| FRANCISCA SOTO | Pendiente | Pendiente | 
-| CAMILA VALLEJO | Pendiente | Pendiente | 
+| JAVIERA MOLIN | Inclusión | Pendiente | 		
+| ISIDORA MUÑOZ	 | Artesanía | Pendiente | 
+| VALENTINA NAVARRETE | Transporte | Pendiente | 
+| TRINIDAD RODRÍGUEZ | Ciencia y Tecnología | Pendiente | 
+| CATALINA SEGUEL | — | Pendiente | 
+| FRANCISCA SOTO | Sustentabilidad | Pendiente | 
+| CAMILA VALLEJO | Alimentación y gastronomía | Pendiente | 
 
 - - - - - - - 
 
