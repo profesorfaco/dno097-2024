@@ -30,7 +30,13 @@ Con tales contradicciones pierde todo sentido la infografía que, según Isabel 
 
  Y sobre ilustraciones, símbolos, diagramas, además de convenciones y traducciones fue que trataron las primeras clases ([01](https://github.com/profesorfaco/dno097-2024/tree/main/clase-01), [02](https://github.com/profesorfaco/dno097-2024/tree/main/clase-02) y [03](https://github.com/profesorfaco/dno097-2024/tree/main/clase-03)).
 
-Lo que nos queda en las próximas clases es tomar la decisión de qué y con qué visualizar, existiendo la posibilidad de quedarse en los datos de los Proyectos de Título de Diseño UC o trabajar con otros tema a condición de apoyarse en fuentes con respaldo de alguna organización profesional o académica.
+Lo que nos queda en las próximas clases es tomar la decisión de *qué* información visualizar y *con qué* visualizarla.
+
+Para responder al *qué*, corresponde considerar la posibilidad de quedarse con los Proyectos de Título de Diseño UC, para trabajar con apoyo de la [Profesora Patricia Manns](https://diseno.uc.cl/persona/manns-patricia/), o ir por otro tema a condición de apoyarse en fuentes de datos con respaldo de alguna organización profesional o académica.
+
+Para responder al *con qué*, corresponde restringuir las alternativas de respuesta a las dos ya referidas varias veces: un *dashboard* (de administradores) o una infografía digital (de periodistas).
+
+Dependiendo del *con qué*, se decidirá si acaso correspode considerar el uso de datos estátidos, para gráficas ídem, o datos que puedan modificarse, para programar gráficas dinámicas.
 
 - - - - - - - - - - - - - - 
 
