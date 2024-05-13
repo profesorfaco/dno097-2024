@@ -70,12 +70,7 @@ Luego, al colocarlos en un HTML que ya esté trabajando con el estilo CSS de Boo
 </html>
 ```
 
-
-
- 
- 
- 
-  
+La misma lógica se puede utilizar para una gráfica figurativa, en donde sea necesario el intercambio de imágenes para ajustar proporciones y/o resoluciones.
 
 - - - - - - - 
 
