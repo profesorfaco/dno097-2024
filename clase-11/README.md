@@ -72,6 +72,12 @@ Luego, al colocarlos en un HTML que ya esté trabajando con el estilo CSS de Boo
 
 La misma lógica se puede utilizar para una gráfica figurativa, en donde sea necesario el intercambio de imágenes para ajustar proporciones y/o resoluciones.
 
+Como en cada clase, corresponde dejar constancia, durante el día, de su resultado ya publicado en GitHub mediante una entrada en este foro de discusión: https://cursos.canvas.uc.cl/courses/73175/discussion_topics/788743
+
+Con lo ingresado en el foro se rellena la siguiente tabla:
+
+PENDIENTE
+
 - - - - - - - 
 
 ###### [← CLASE PREVIA](https://github.com/profesorfaco/dno097-2024/tree/main/clase-10) • [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno097-2024/tree/main/clase-12)
