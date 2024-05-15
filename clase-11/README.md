@@ -76,7 +76,21 @@ Como en cada clase, corresponde dejar constancia, durante el día, de su resulta
 
 Con lo ingresado en el foro se rellena la siguiente tabla:
 
-PENDIENTE
+| N° | Nombre | Sexto ejercicio |
+|:---------:|:------------------------------|:---------------------------|
+| 1 | ISIDORA ARRIAGADA | Pendiente |
+| 2 | TRINIDAD FORSTER | Pendiente |
+| 3 | TAHIS FUENTES | Pendiente |
+| 4 | SARA GOLDZVEIG | Pendiente |
+| 5 | IMSCHENETZKY | Pendiente |
+| 6 | JOSEFINA MOLIN | Pendiente |
+| 7 | ISIDORA MUÑOZ | Pendiente |
+| 8 | VALENTINA NAVARRETE | Pendiente |
+| 9 | TRINIDAD RODRÍGUEZ | Pendiente |
+| 10 | CATALINA SEGUEL | Pendiente |
+| 11 | FRANCISCA SOTO | Pendiente |
+| 12 | MA. ANGÉLICA VALDÉS | Pendiente |
+| 13 | CAMILA VALLEJO | Pendiente |
 
 - - - - - - - 
 
