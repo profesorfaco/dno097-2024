@@ -207,7 +207,7 @@ Pendiente.
         <div class="container py-3">
             <div class="row">
                 <div class="col-10 mx-auto text-center fw-lighter">
-                    <p>Camila Vallejo Calizaya | Pontificia Universidad Católica de Chile.</p>
+                    <p>Cambie su nombre | Pontificia Universidad Católica de Chile.</p>
                 </div>
             </div>
         </div>
