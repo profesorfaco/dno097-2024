@@ -4,7 +4,7 @@
 
 ### Teoría (para la casa)
 
-Pendiente.
+CSS es mi amigo.
 
 - - - - - - - - - - - - - - 
 
