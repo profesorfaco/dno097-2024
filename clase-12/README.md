@@ -10,6 +10,8 @@ Pendiente.
 
 ### Práctica (para la clase)
 
+Para ordenar lo que llevamos:
+
 ```
 <!DOCTYPE html>
 <html lang="es">
@@ -18,7 +20,13 @@ Pendiente.
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <title>Clase 12</title>
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous" />
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/chartist/0.11.4/chartist.min.css" integrity="sha512-V0+DPzYyLzIiMiWCg3nNdY+NyIiK9bED/T1xNBj08CaIUyK3sXRpB26OUCIzujMevxY9TRJFHQIxTwgzb0jVLg==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
+        <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/chartist/0.11.4/chartist.min.css"
+            integrity="sha512-V0+DPzYyLzIiMiWCg3nNdY+NyIiK9bED/T1xNBj08CaIUyK3sXRpB26OUCIzujMevxY9TRJFHQIxTwgzb0jVLg=="
+            crossorigin="anonymous"
+            referrerpolicy="no-referrer"
+        />
         <style>
             .ct-series-a .ct-bar,
             .ct-series-a .ct-line,
@@ -121,33 +129,49 @@ Pendiente.
                 fill: rgb(94, 79, 162);
             }
         </style>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/chartist/0.11.4/chartist.min.js" integrity="sha512-9rxMbTkN9JcgG5euudGbdIbhFZ7KGyAuVomdQDI9qXfPply9BJh0iqA7E/moLCatH2JD4xBGHwV6ezBkCpnjRQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        <script
+            src="https://cdnjs.cloudflare.com/ajax/libs/chartist/0.11.4/chartist.min.js"
+            integrity="sha512-9rxMbTkN9JcgG5euudGbdIbhFZ7KGyAuVomdQDI9qXfPply9BJh0iqA7E/moLCatH2JD4xBGHwV6ezBkCpnjRQ=="
+            crossorigin="anonymous"
+            referrerpolicy="no-referrer"
+        ></script>
     </head>
     <body>
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-8 pe-5">
-                    <h2>Highest grossing movies in history</h2>
-                    <img src="viz.svg" class="w-100" />
-                </div>
-                <div class="col-lg-4">
-                    <div class="row ps-5">
-                        <div class="col-12 col-sm-6 col-lg-12 py-3">
-                            <h2 class="text-center fs-5">ROI</h2>
-                            <div class="ct-chart1 ct-minor-second"></div>
-                        </div>
-                        <div class="col-12 col-sm-6 col-lg-12 py-3">
-                            <h2 class="text-center fs-5">BOX OFFICE</h2>
-                            <div class="ct-chart2 ct-minor-second"></div>
-                        </div>
+        <header class="bg-light fixed-top">
+            <div class="container py-3">
+                <div class="row">
+                    <div class="col-10 mx-auto text-center fw-lighter">
+                        <p class="my-0">Cambie su nombre | Diseño UC</p>
                     </div>
                 </div>
-                <div class="col-12">
-                    <h2>Comparación promedios</h2>
-                    <div class="ct-chart3"></div>
+            </div>
+        </header>
+        <main class="mt-5 pt-5">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-8 pe-5">
+                        <h2>Highest grossing movies in history</h2>
+                        <img src="viz.svg" class="w-100" />
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="row ps-5">
+                            <div class="col-12 col-sm-6 col-lg-12 py-3">
+                                <h2 class="text-center fs-5">ROI</h2>
+                                <div class="ct-chart1 ct-minor-second"></div>
+                            </div>
+                            <div class="col-12 col-sm-6 col-lg-12 py-3">
+                                <h2 class="text-center fs-5">BOX OFFICE</h2>
+                                <div class="ct-chart2 ct-minor-second"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12">
+                        <h2>Comparación promedios</h2>
+                        <div class="ct-chart3"></div>
+                    </div>
                 </div>
             </div>
-        </div>
+        </main>
         <script>
             new Chartist.Pie(
                 ".ct-chart1",
@@ -203,15 +227,6 @@ Pendiente.
             );
         </script>
     </body>
-    <footer class="bg-light">
-        <div class="container py-3">
-            <div class="row">
-                <div class="col-10 mx-auto text-center fw-lighter">
-                    <p>Cambie su nombre | Pontificia Universidad Católica de Chile.</p>
-                </div>
-            </div>
-        </div>
-    </footer>
 </html>
 ```
 - - - - - - - 
