@@ -20,14 +20,17 @@ Para ordenar lo que llevamos:
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <title>Clase 12</title>
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous" />
-        <link
-            rel="stylesheet"
-            href="https://cdnjs.cloudflare.com/ajax/libs/chartist/0.11.4/chartist.min.css"
-            integrity="sha512-V0+DPzYyLzIiMiWCg3nNdY+NyIiK9bED/T1xNBj08CaIUyK3sXRpB26OUCIzujMevxY9TRJFHQIxTwgzb0jVLg=="
-            crossorigin="anonymous"
-            referrerpolicy="no-referrer"
-        />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/chartist/0.11.4/chartist.min.css" integrity="sha512-V0+DPzYyLzIiMiWCg3nNdY+NyIiK9bED/T1xNBj08CaIUyK3sXRpB26OUCIzujMevxY9TRJFHQIxTwgzb0jVLg==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
+
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link href="https://fonts.googleapis.com/css2?family=Jacquard+12&family=Reddit+Sans&display=swap" rel="stylesheet" />
         <style>
+            :root {
+                --bs-font-sans-serif: "Reddit Sans", sans-serif;
+                --bs-light-rgb: 200, 230, 250;
+            }
+
             .ct-series-a .ct-bar,
             .ct-series-a .ct-line,
             .ct-series-a .ct-point,
@@ -137,24 +140,26 @@ Para ordenar lo que llevamos:
         ></script>
     </head>
     <body>
-        <header class="bg-light fixed-top">
+        <header class="bg-light fixed-top shadow-sm">
             <div class="container py-3">
                 <div class="row">
                     <div class="col-10 mx-auto text-center fw-lighter">
-                        <p class="my-0">Cambie su nombre | Diseño UC</p>
+                        <p class="my-0 d-flex justify-content-between align-items-center"><span>Cambie su nombre</span> <span class="d-sm-none">|</span> <span>Diseño UC</span></p>
                     </div>
                 </div>
             </div>
         </header>
-        <main class="mt-5 pt-5">
+        <main class="mt-5 py-5">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-8 pe-5">
-                        <h2>Highest grossing movies in history</h2>
-                        <img src="viz.svg" class="w-100" />
+                        <h2 class="text-center">Highest grossing movies in history</h2>
+                        <object data="viz.svg" type="image/svg+xml" class="w-100">
+                            <img src="alt.png" />
+                        </object>
                     </div>
                     <div class="col-lg-4">
-                        <div class="row ps-5">
+                        <div class="row ps-lg-5">
                             <div class="col-12 col-sm-6 col-lg-12 py-3">
                                 <h2 class="text-center fs-5">ROI</h2>
                                 <div class="ct-chart1 ct-minor-second"></div>
@@ -165,45 +170,55 @@ Para ordenar lo que llevamos:
                             </div>
                         </div>
                     </div>
-                    <div class="col-12">
-                        <h2>Comparación promedios</h2>
-                        <div class="ct-chart3"></div>
+                    <div class="col-12 pt-5">
+                        <h2 class="text-center">Comparación promedios</h2>
+                        <div class="ct-chart3 ct-major-twelfth"></div>
                     </div>
                 </div>
             </div>
         </main>
+
         <script>
-            new Chartist.Pie(
-                ".ct-chart1",
-                {
-                    labels: ["Acción", "Aventura", "Animación", "Biogrfía", "Crimen", "Drama", "Familia", "Horror", "Musical"],
-                    series: [13.681, 147.625, 81.77, 34.9, 42.8, 37.525, 75.5, 36.8, 66.2],
+            //los datos
+            var roi = {
+                labels: ["Acción", "Aventura", "Animación", "Biografía", "Crimen", "Drama", "Familia", "Horror", "Musical"],
+                series: [13.53, 63.46, 64.05, 34.9, 42.8, 56.95, 75.5, 51.5, 66.2],
+            };
+            var box = {
+                labels: ["Acción", "Aventura", "Animación", "Biografía", "Crimen", "Drama", "Familia", "Horror", "Musical"],
+                series: [1268.59, 694.75, 751.45, 286, 246, 957.5, 793, 441, 397],
+            };
+            //las opciones
+            var options = {
+                labelInterpolationFnc: function (value) {
+                    return value[0];
                 },
-                {
-                    donut: true,
-                    donutWidth: 60,
-                    donutSolid: true,
-                    startAngle: 270,
-                    showLabel: true,
-                }
-            );
+            };
+            var responsiveOptions = [
+                [
+                    "screen and (min-width: 640px)",
+                    {
+                        chartPadding: 30,
+                        labelOffset: 100,
+                        labelDirection: "explode",
+                        labelInterpolationFnc: function (value) {
+                            return value;
+                        },
+                    },
+                ],
+                [
+                    "screen and (min-width: 1024px)",
+                    {
+                        labelOffset: 80,
+                        chartPadding: 20,
+                    },
+                ],
+            ];
+            //la creación
+            new Chartist.Pie(".ct-chart1", roi, options, responsiveOptions);
+            new Chartist.Pie(".ct-chart2", box, options, responsiveOptions);
         </script>
-        <script>
-            new Chartist.Pie(
-                ".ct-chart2",
-                {
-                    labels: ["Acción", "Aventura", "Animación", "Biogrfía", "Crimen", "Drama", "Familia", "Horror", "Musical"],
-                    series: [1284.43, 754.125, 834.27, 286, 246, 879.75, 793, 441, 397],
-                },
-                {
-                    donut: true,
-                    donutWidth: 60,
-                    donutSolid: true,
-                    startAngle: 270,
-                    showLabel: true,
-                }
-            );
-        </script>
+
         <script>
             new Chartist.Bar(
                 ".ct-chart3",
