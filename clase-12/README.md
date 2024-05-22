@@ -12,8 +12,7 @@ Pendiente.
 
 Para ordenar lo que llevamos:
 
-```
-<!DOCTYPE html>
+```<!DOCTYPE html>
 <html lang="es">
     <head>
         <meta charset="utf-8" />
@@ -188,35 +187,14 @@ Para ordenar lo que llevamos:
                 labels: ["Acción", "Aventura", "Animación", "Biografía", "Crimen", "Drama", "Familia", "Horror", "Musical"],
                 series: [1268.59, 694.75, 751.45, 286, 246, 957.5, 793, 441, 397],
             };
-            //las opciones
             var options = {
-                labelInterpolationFnc: function (value) {
-                    return value[0];
-                },
+                showLabel: true,
+                donut: true,
+                donutWidth: 60,
             };
-            var responsiveOptions = [
-                [
-                    "screen and (min-width: 640px)",
-                    {
-                        chartPadding: 30,
-                        labelOffset: 100,
-                        labelDirection: "explode",
-                        labelInterpolationFnc: function (value) {
-                            return value;
-                        },
-                    },
-                ],
-                [
-                    "screen and (min-width: 1024px)",
-                    {
-                        labelOffset: 80,
-                        chartPadding: 20,
-                    },
-                ],
-            ];
             //la creación
-            new Chartist.Pie(".ct-chart1", roi, options, responsiveOptions);
-            new Chartist.Pie(".ct-chart2", box, options, responsiveOptions);
+            new Chartist.Pie(".ct-chart1", roi, options);
+            new Chartist.Pie(".ct-chart2", box, options);
         </script>
 
         <script>
