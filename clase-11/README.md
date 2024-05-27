@@ -76,21 +76,21 @@ Como en cada clase, corresponde dejar constancia, durante el día, de su resulta
 
 Con lo ingresado en el foro se rellena la siguiente tabla:
 
-| N° | Nombre | Sexto ejercicio |
+| N° | Nombre | Ejercicio |
 |:---------:|:------------------------------|:---------------------------|
-| 1 | ISIDORA ARRIAGADA | Pendiente |
-| 2 | TRINIDAD FORSTER | Pendiente |
-| 3 | TAHIS FUENTES | Pendiente |
-| 4 | SARA GOLDZVEIG | Pendiente |
-| 5 | IMSCHENETZKY | Pendiente |
-| 6 | JOSEFINA MOLIN | Pendiente |
-| 7 | ISIDORA MUÑOZ | Pendiente |
-| 8 | VALENTINA NAVARRETE | Pendiente |
-| 9 | TRINIDAD RODRÍGUEZ | Pendiente |
-| 10 | CATALINA SEGUEL | Pendiente |
-| 11 | FRANCISCA SOTO | Pendiente |
-| 12 | MA. ANGÉLICA VALDÉS | Pendiente |
-| 13 | CAMILA VALLEJO | Pendiente |
+| 1 | ISIDORA ARRIAGADA | https://isidjan.github.io/dnoweb097_11/ |
+| 2 | TRINIDAD FORSTER | https://trinidad-forster.github.io/C11_15-05/ |
+| 3 | TAHIS FUENTES | No entrega |
+| 4 | SARA GOLDZVEIG | https://saragoldzveig.github.io/Clase-011/ |
+| 5 | JOSEFINA IMSCHENETZKY | Pendiente |
+| 6 | PAULA MIRANDA | No entrega |
+| 7 | JAVIERA MOLIN | https://javimolin-uc.github.io/C11/ |
+| 8 | ISIDORA MUÑOZ | https://isidoramunoz.github.io/dnoweb-11/ |
+| 9 | VALENTINA NAVARRETE | https://valenavarrete.github.io/Clase-11/ |
+| 10 | TRINIDAD RODRÍGUEZ | Pendiente |
+| 11 | CATALINA SEGUEL | https://cataseguel.github.io/Clase-11/ |
+| 12 | FRANCISCA SOTO | https://fsoti.github.io/Clase-11/ |
+| 13 | CAMILA VALLEJO | https://camivallejo.github.io/Clase_11_Web/ |
 
 - - - - - - - 
 
