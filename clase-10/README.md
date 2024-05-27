@@ -32,7 +32,7 @@ Con lo ingresado en el foro se rellena la siguiente tabla:
 |:-------|:-------------------|:-------------|
 | ISIDORA ARRIAGADA	| Comunicación | Pendiente |
 | TRINIDAD FORSTER | Inclusión, Migración, Discapacidad	 | Pendiente |
-| TAHIS FUENTES | — | Pendiente | 
+| TAHIS FUENTES | — | — | 
 | SARA GOLDZVEIG | Moda | https://saragoldzveig.github.io/clase-10/ |
 | JOSEFINA IMSCHENETZKY | Deporte | Pendiente | 
 | PAULA MIRANDA | — | Pendiente | 
