@@ -34,13 +34,13 @@ Con lo ingresado en el foro se rellena la siguiente tabla:
 | TRINIDAD FORSTER | Inclusión, Migración, Discapacidad	 | Pendiente |
 | TAHIS FUENTES | — | — | 
 | SARA GOLDZVEIG | Moda | https://saragoldzveig.github.io/clase-10/ |
-| JOSEFINA IMSCHENETZKY | Deporte | Pendiente | 
-| PAULA MIRANDA | — | Pendiente | 
+| JOSEFINA IMSCHENETZKY | Deporte | https://jimschenetzky.github.io/DNOWEB_10/ | 
+| PAULA MIRANDA | — | — | 
 | JAVIERA MOLIN | Inclusión, Migración, Discapacidad	 | https://javimolin-uc.github.io/C10/ | 		
 | ISIDORA MUÑOZ	 | Artesanía, Artes aplicadas | https://isidoramunoz.github.io/dnoweb-10/ | 
 | VALENTINA NAVARRETE | Transporte | https://valenavarrete.github.io/Clase-9/ | 
 | TRINIDAD RODRÍGUEZ | Ciencia y Tecnología | https://trinirodriguez.github.io/dno-10/ | 
-| CATALINA SEGUEL | — | Pendiente | 
+| CATALINA SEGUEL | — | — | 
 | FRANCISCA SOTO | Sustentabilidad | https://fsoti.github.io/Clase-10/ | 
 | CAMILA VALLEJO | Alimentación y gastronomía | https://camivallejo.github.io/clase_10_Web/ | 
 
