@@ -76,18 +76,18 @@ Como en cada clase, corresponde dejar constancia, durante el día, de su resulta
 
 Con lo ingresado en el foro se rellena la siguiente tabla:
 
-| N° | Nombre | Ejercicio |
+| N° | Nombre | URL |
 |:---------:|:------------------------------|:---------------------------|
 | 1 | ISIDORA ARRIAGADA | https://isidjan.github.io/dnoweb097_11/ |
 | 2 | TRINIDAD FORSTER | https://trinidad-forster.github.io/C11_15-05/ |
-| 3 | TAHIS FUENTES | No entrega |
+| 3 | TAHIS FUENTES | — |
 | 4 | SARA GOLDZVEIG | https://saragoldzveig.github.io/Clase-011/ |
-| 5 | JOSEFINA IMSCHENETZKY | Pendiente |
-| 6 | PAULA MIRANDA | No entrega |
+| 5 | JOSEFINA IMSCHENETZKY | — |
+| 6 | PAULA MIRANDA | — |
 | 7 | JAVIERA MOLIN | https://javimolin-uc.github.io/C11/ |
 | 8 | ISIDORA MUÑOZ | https://isidoramunoz.github.io/dnoweb-11/ |
 | 9 | VALENTINA NAVARRETE | https://valenavarrete.github.io/Clase-11/ |
-| 10 | TRINIDAD RODRÍGUEZ | Pendiente |
+| 10 | TRINIDAD RODRÍGUEZ | https://trinirodriguez.github.io/dno-11/ |
 | 11 | CATALINA SEGUEL | https://cataseguel.github.io/Clase-11/ |
 | 12 | FRANCISCA SOTO | https://fsoti.github.io/Clase-11/ |
 | 13 | CAMILA VALLEJO | https://camivallejo.github.io/Clase_11_Web/ |
