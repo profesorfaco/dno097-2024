@@ -12,6 +12,8 @@ Volvamos con JavaScript.
 
 Partamos desde acá: https://valenavarrete.github.io/Clase-12/
 
+Y lleguemos a: https://cursos.canvas.uc.cl/courses/73175/discussion_topics/798504
+
 - - - - - - - 
 
 ###### [← CLASE PREVIA](https://github.com/profesorfaco/dno097-2024/tree/main/clase-12) • [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno097-2024/tree/main/clase-14)
