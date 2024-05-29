@@ -4,13 +4,13 @@
 
 ### Teoría (para la casa)
 
-Pendiente.
+Volvamos con JavaScript.
 
 - - - - - - - - - - - - - - 
 
 ### Práctica (para la clase)
 
-Pendiente.
+Partamos desde acá: https://valenavarrete.github.io/Clase-12/
 
 - - - - - - - 
 
