@@ -12,7 +12,7 @@ Volvamos con JavaScript.
 
 Partamos desde acá: https://valenavarrete.github.io/Clase-12/
 
-Desde un copiar/pegar código fuente, como en cada clase, corresponde dejar constancia, durante el día, de su resultado ya publicado en GitHub mediante una entrada en este foro de discusión: https://cursos.canvas.uc.cl/courses/73175/discussion_topics/798504
+Desde copiar/pegar el código fuente generado por valenavarrete, como en cada clase, corresponde dejar constancia, durante el día, de su resultado ya publicado en GitHub mediante una entrada en este foro de discusión: https://cursos.canvas.uc.cl/courses/73175/discussion_topics/798504
 
 Con lo ingresado en el foro se rellena la siguiente tabla:
 
