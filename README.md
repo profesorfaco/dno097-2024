@@ -74,7 +74,7 @@ Clase 09  → 01/05/2023 → FERIADO / RECESO DOCENCIA BIMESTRAL (Se suspenden l
 
 [Clase 12](https://github.com/profesorfaco/dno097-2024/tree/main/clase-12) → 22/05/2023 → Gráficas y datos en diseño web responsive SVG, HTML, CSS y JavaScript (primera parte) ✓
 
-[Clase 13](https://github.com/profesorfaco/dno097-2024/tree/main/clase-13)  → 29/05/2023 → Gráficas y datos en diseño web responsive SVG, HTML, CSS y JavaScript (segunda parte)
+[Clase 13](https://github.com/profesorfaco/dno097-2024/tree/main/clase-13)  → 29/05/2023 → Gráficas y datos en diseño web responsive SVG, HTML, CSS y JavaScript (segunda parte) ✓
 
 [Clase 14](https://github.com/profesorfaco/dno097-2024/tree/main/clase-14)  → 05/06/2023 → Diseño y programación: Propuesta de tablero de información (*dashboard*) o infografía digital, interactiva y dinámica
 
