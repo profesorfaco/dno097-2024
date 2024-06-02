@@ -6,7 +6,7 @@
 
 Volvamos con JavaScript.
 
-JavaScript nos ofrece el método de oyentes para eventos determinados (gracias a Javiera por la traducción más adecuada de *Listener*). Para explorarlos, partimos por un oyente que está pendiente del [Scroll](https://developer.mozilla.org/en-US/docs/Web/API/Element/scroll_event), y avanzamos a otro pendiente del [Scrolled](https://developer.mozilla.org/en-US/docs/Web/API/Document/scrollend_event)
+JavaScript nos ofrece el método de oyentes para eventos determinados (gracias a Javiera por la traducción más adecuada de *Listener*). Para explorarlos, partimos por un oyente que está pendiente del [Scroll](https://developer.mozilla.org/en-US/docs/Web/API/Element/scroll_event), y avanzamos a otro que puede estar pendiente del [Scrolled](https://developer.mozilla.org/en-US/docs/Web/API/Document/scrollend_event)
 
 Se puede seguir explorando el método con: 
 
