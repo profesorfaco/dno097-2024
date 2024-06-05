@@ -30,7 +30,7 @@ Sólo estamos editando el README, con:
 
 - **Título del trabajo**: Sólo será utilizado como referencia, por lo que peude ser por conciso y resultar algo genérico (hasta poco serio).
   
-- **Tema a visualizar**: Debe ser claro, específico y, en lo posible, referir expresamente a las variables o dimensiones involucradas en su visualización. Conviene que se acompañe de una bajada tipo definición.
+- **Tema a visualizar**: Debe ser claro, específico y, en lo posible, referir expresamente a las variables o dimensiones involucradas en su visualización. Conviene que se acompañe de una bajada tipo definición (de un párrafo).
 
 - **Dimensiones del tema a visualizar**: Recuerden el ejemplo de la CASEN, en que la medición de pobreza toma en cuenta un conjunto de 5 dimensiones y 15 indicadores (3 indicadores en cada dimensión) que buscan identificar si los hogares alcanzan o no un determinado umbral de bienestar. Los indicadores en este caso son: (1) Educación; (2) Salud; (3) Trabajo y Seguridad Social; (4) Vivienda y entorno; (5) Redes y cohesión social.
 
