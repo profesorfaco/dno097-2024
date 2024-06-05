@@ -10,7 +10,7 @@ Vamos a trabajar la operacionalización de un concepto, para poder medirlo (o ha
 
 El ejemplo de CASEN lo tomo [desde acá](https://observatorio.ministeriodesarrollosocial.gob.cl/preguntas-frecuentes), donde se responde a la pregunta: **¿Qué dimensiones e indicadores mide la pobreza multidimensional?**
 
-Este es el truquito para marcar el texto: `#:~:text=`
+Este es el truquito para marcar el texto: `#:~:text=` en una página web.
 
 > hacer una cita de alguien muy inteligente
 
