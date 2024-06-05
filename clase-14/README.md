@@ -36,6 +36,26 @@ Sólo estamos editando el README, con:
 
 - **Indicadores de cada dimensión**: El indicador es lo más concreto, es lo que podría transformarse en una gráfica, sea figurativa (fotografía, ilustración, planimetría, etc.) o no figurativa (*chart* con alguna [función determinada](https://datavizcatalogue.com/ES/buscar.html)).
 
+Como en cada clase, les dejo foro de discusión: https://cursos.canvas.uc.cl/courses/73175/discussion_topics/803177
+
+Con lo ingresado en el foro se rellena la siguiente tabla:
+
+| N° | Nombre | URL |
+|:---------:|:------------------------------|:---------------------------|
+| 1 | ISIDORA ARRIAGADA | — |
+| 2 | TRINIDAD FORSTER | https://github.com/Trinidad-Forster/Clases_finales?tab=readme-ov-file#sims-4 |
+| 3 | TAHIS FUENTES | — |
+| 4 | SARA GOLDZVEIG | https://github.com/saragoldzveig/dno-final?tab=readme-ov-file#consumo-de-pan-en-chile |
+| 5 | JOSEFINA IMSCHENETZKY | https://github.com/jimschenetzky/DNOWEB_PROYECTO?tab=readme-ov-file#consumo-de-redes-sociales-en-chile |
+| 6 | PAULA MIRANDA | — |
+| 7 | JAVIERA MOLIN | https://github.com/javimolin-uc/C-FINALES?tab=readme-ov-file#clases-finales |
+| 8 | ISIDORA MUÑOZ | https://github.com/Isidoramunoz/dnoweb-fin?tab=readme-ov-file#t%C3%ADtulo |
+| 9 | VALENTINA NAVARRETE | https://github.com/valenavarrete/Clases-Finales?tab=readme-ov-file#clases-finales |
+| 10 | TRINIDAD RODRÍGUEZ | https://github.com/trinirodriguez/dno-fin?tab=readme-ov-file#t%C3%ADtulo |
+| 11 | CATALINA SEGUEL | — |
+| 12 | FRANCISCA SOTO | https://github.com/fsoti/Clases-finales?tab=readme-ov-file#clases-finales |
+| 13 | CAMILA VALLEJO | https://github.com/Camivallejo/Clase_Final?tab=readme-ov-file#clase_final--05062023 |
+
 - - - - - - - 
 
 ###### [← CLASE PREVIA](https://github.com/profesorfaco/dno097-2024/tree/main/clase-13) • [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno097-2024/tree/main/clase-15)
