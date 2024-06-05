@@ -24,7 +24,7 @@ oqsoudfoidwaqoru e
 
 ### Práctica (para la clase)
 
-Pendiente.
+Para ingresar al foro: https://cursos.canvas.uc.cl/courses/73175/discussion_topics/803177
 
 - - - - - - - 
 
