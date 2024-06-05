@@ -4,7 +4,7 @@
 
 ### Teoría (para la casa)
 
-Vamos a trabajar la operacionalización de un concepto, para poder medirlo (o hacerlo mediable):
+Vamos a trabajar la operacionalización de un concepto, para poder medirlo (o hacerlo medible):
 
 ![opera](https://github.com/profesorfaco/dno097-2024/assets/7999767/96f5bceb-5e9a-4603-8370-731071342139)
 
