@@ -28,7 +28,7 @@ Para ingresar al foro: https://cursos.canvas.uc.cl/courses/73175/discussion_topi
 
 Sólo estamos editando el README, con: 
 
-- **Título del trabajo**: Sólo será utilizado como referencia, por lo que peude ser por conciso y resultar algo genérico (hasta poco serio).
+- **Título del trabajo**: Sólo será utilizado como referencia, por lo que pueder ser muy conciso y algo genérico (hasta poco serio).
   
 - **Tema a visualizar**: Debe ser claro, específico y, en lo posible, referir expresamente a las variables o dimensiones involucradas en su visualización. Conviene que se acompañe de una bajada tipo definición (de un párrafo).
 
