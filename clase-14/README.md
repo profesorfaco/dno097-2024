@@ -10,15 +10,15 @@ Vamos a trabajar la operacionalización de un concepto, para poder medirlo (o ha
 
 El ejemplo de CASEN lo tomo [desde acá](https://observatorio.ministeriodesarrollosocial.gob.cl/preguntas-frecuentes), donde se responde a la pregunta: **¿Qué dimensiones e indicadores mide la pobreza multidimensional?**
 
+Para aprender más de MarkDown (.md), pueden consultar: 
+
+- https://images.datacamp.com/image/upload/v1697797990/Marketing/Blog/Markdown_Cheat_Sheet.pdf
+
+- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+- - - - - - - 
+
 Este es el truquito para marcar el texto: `#:~:text=` en una página web.
-
-> hacer una cita de alguien muy inteligente
-
-oqsoudfoidwaqoru e
-- asdfadsfdas
-- asdfasdfdsa
-- asdfadsfads
-- asdfadsfasd
 
 - - - - - - - - - - - - - - 
 
