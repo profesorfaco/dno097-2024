@@ -4,7 +4,21 @@
 
 ### Teoría (para la casa)
 
-Pendiente.
+Vamos a trabajar la operacionalización de un concepto, para poder medirlo (o hacerlo mediable):
+
+![opera](https://github.com/profesorfaco/dno097-2024/assets/7999767/96f5bceb-5e9a-4603-8370-731071342139)
+
+El ejemplo de CASEN lo tomo [desde acá](https://observatorio.ministeriodesarrollosocial.gob.cl/preguntas-frecuentes), donde se responde a la pregunta: **¿Qué dimensiones e indicadores mide la pobreza multidimensional?**
+
+Este es el truquito para marcar el texto: `#:~:text=`
+
+> hacer una cita de alguien muy inteligente
+
+oqsoudfoidwaqoru e
+- asdfadsfdas
+- asdfasdfdsa
+- asdfadsfads
+- asdfadsfasd
 
 - - - - - - - - - - - - - - 
 
