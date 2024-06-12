@@ -14,7 +14,21 @@ Aprovechemos las siguientes definiciones tomadas de la guía [creando valor a tr
 
 Hasta las 12.30 hrs. - En el mismo README de la clase recién pasada, agregar 5 antecedentes:
 
-
+| N° | Nombre | URL |
+|:---------:|:------------------------------|:---------------------------|
+| 1 | ISIDORA ARRIAGADA | — |
+| 2 | TRINIDAD FORSTER | https://github.com/Trinidad-Forster/Clases_finales |
+| 3 | TAHIS FUENTES | — |
+| 4 | SARA GOLDZVEIG | https://github.com/saragoldzveig/dno-final |
+| 5 | JOSEFINA IMSCHENETZKY | https://github.com/jimschenetzky/DNOWEB_PROYECTO |
+| 6 | PAULA MIRANDA | — |
+| 7 | JAVIERA MOLIN | https://github.com/javimolin-uc/C-FINALES |
+| 8 | ISIDORA MUÑOZ | https://github.com/Isidoramunoz/dnoweb-fin |
+| 9 | VALENTINA NAVARRETE | https://github.com/valenavarrete/Clases-Finales |
+| 10 | TRINIDAD RODRÍGUEZ | https://github.com/trinirodriguez/dno-fin |
+| 11 | CATALINA SEGUEL | https://github.com/cataseguel/final |
+| 12 | FRANCISCA SOTO | https://github.com/fsoti/Clases-finales |
+| 13 | CAMILA VALLEJO | https://github.com/Camivallejo/Clase_Final |
 
 - - - - - - - 
 
