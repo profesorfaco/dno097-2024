@@ -16,7 +16,7 @@ Hasta las 12.30 hrs. - En el mismo README de la clase recién pasada, agregar 5 
 
 | N° | Nombre | URL |
 |:---------:|:------------------------------|:---------------------------|
-| 1 | ISIDORA ARRIAGADA | — |
+| 1 | ISIDORA ARRIAGADA | https://github.com/isidjan/dnoweb097_end |
 | 2 | TRINIDAD FORSTER | https://github.com/Trinidad-Forster/Clases_finales |
 | 3 | TAHIS FUENTES | — |
 | 4 | SARA GOLDZVEIG | https://github.com/saragoldzveig/dno-final |
