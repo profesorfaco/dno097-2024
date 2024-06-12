@@ -8,11 +8,15 @@ Aprovechemos las siguientes definiciones tomadas de la guía [creando valor a tr
 
 > Los **antecedentes** se refieren a aquellos **proyectos del mismo tipo o pertenecientes al mismo ámbito de lo que se desea desarrollar**. Su estudio permite estar al tanto de los avances en el campo de trabajo, es decir, conocer lo que ya se ha hecho. Desde una perspectiva de negocio, los antecedentes podrían referirse, además, a la competencia para la propuesta de valor que se está generando. Por su parte, los **referentes** se refieren a **aquellos proyectos de otro tipo o ámbito, pero que tienen elementos interesantes, inspiradores o innovadores que pueden ser considerados para el desarrollo de las nuevas propuestas**.
 
+Los antecedentes de infografías digitales, serían otras infografías digitales; para encontrarlas, pueden aprovechar lo publicado en https://www.reuters.com/graphics/ y https://www.scmp.com/infographic/
+
+Los antecedentes de "dashboards", serían otros "dashboards"; para encontrarlos, pueden aprovechar [temas de Bootstrap](https://themes.getbootstrap.com/).
+
 - - - - - - - - - - - - - - 
 
 ### Práctica (para la clase)
 
-Hasta las 12.30 hrs. - En el mismo README de la clase recién pasada, agregar 5 antecedentes:
+Hasta las 12.30 hrs. - En el mismo README de la clase recién pasada, agregar 5 antecedentes comentando sus aspectos positivos y negativos:
 
 | N° | Nombre | URL |
 |:---------:|:------------------------------|:---------------------------|
