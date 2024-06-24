@@ -18,6 +18,22 @@ Desafío completo será el que se encuentre en línea hasta las 23.59 hrs. del d
 
 Los puntos por **Asistencia y avance hasta Clase 15 → 12/06/2023** son los siguientes:
 
+| N° | Nombre | URL | 
+|:---------:|:------------------------------|:---------------------------|
+| 1 | ISIDORA ARRIAGADA | 0.5 |
+| 2 | TRINIDAD FORSTER | 0.5 |
+| 3 | TAHIS FUENTES | 0 |
+| 4 | SARA GOLDZVEIG | 1|
+| 5 | JOSEFINA IMSCHENETZKY | 1 |
+| 6 | PAULA MIRANDA | 0 |
+| 7 | JAVIERA MOLIN | 0.75 |
+| 8 | ISIDORA MUÑOZ | 0.5 |
+| 9 | VALENTINA NAVARRETE | 0.5 |
+| 10 | TRINIDAD RODRÍGUEZ | 0.5 |
+| 11 | CATALINA SEGUEL | 0.75 |
+| 12 | FRANCISCA SOTO | 1 |
+| 13 | CAMILA VALLEJO | 0.5 |
+
 - - - - - - - 
 
 ###### [← CLASE PREVIA](https://github.com/profesorfaco/dno097-2024/tree/main/clase-16) &bull; [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno097-2024/tree/main/clase-18)
