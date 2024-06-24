@@ -20,19 +20,21 @@ Los puntos por **Avance hasta Clase 15 → 12/06/2023** son los siguientes:
 
 | N° | Nombre | URL | 
 |:---------:|:--------------|:--------------:|
-| 1 | ISIDORA ARRIAGADA | 0.5 |
-| 2 | TRINIDAD FORSTER | 0.5 |
+| 1 | ISIDORA ARRIAGADA | 0.25 |
+| 2 | TRINIDAD FORSTER | 0.25 |
 | 3 | TAHIS FUENTES | 0 |
-| 4 | SARA GOLDZVEIG | 1|
-| 5 | JOSEFINA IMSCHENETZKY | 1 |
+| 4 | SARA GOLDZVEIG | [0.75](https://github.com/saragoldzveig/dno-final) |
+| 5 | JOSEFINA IMSCHENETZKY | [0.75](https://github.com/jimschenetzky/DNOWEB_PROYECTO) |
 | 6 | PAULA MIRANDA | 0 |
-| 7 | JAVIERA MOLIN | 0.75 |
-| 8 | ISIDORA MUÑOZ | 0.5 |
-| 9 | VALENTINA NAVARRETE | 0.5 |
-| 10 | TRINIDAD RODRÍGUEZ | 0.5 |
-| 11 | CATALINA SEGUEL | 0.5 |
-| 12 | FRANCISCA SOTO | 1 |
-| 13 | CAMILA VALLEJO | 0.5 |
+| 7 | JAVIERA MOLIN | 0.5 |
+| 8 | ISIDORA MUÑOZ | 0.25 |
+| 9 | VALENTINA NAVARRETE | 0.25 |
+| 10 | TRINIDAD RODRÍGUEZ | 0.25 |
+| 11 | CATALINA SEGUEL | 0.25 |
+| 12 | FRANCISCA SOTO | [1](https://github.com/fsoti/Clases-finales) |
+| 13 | CAMILA VALLEJO | 0.25 |
+
+El punto completo (1) lo obtiene quien describe los datos por visualizar desde sus dimensiones e indicadores, presenta –con pantallazos– los antecedentes y referente, y propone una versión esquemática de la distribución de contenidos en una página mediante *wireframes*. Le siguen de cerca quienes sólo olvidaron el *wireframe*.
 
 - - - - - - - 
 
