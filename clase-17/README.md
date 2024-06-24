@@ -19,7 +19,7 @@ Desafío completo será el que se encuentre en línea hasta las 23.59 hrs. del d
 Los puntos por **Asistencia y avance hasta Clase 15 → 12/06/2023** son los siguientes:
 
 | N° | Nombre | URL | 
-|:---------:|:------------------------------|:---------------------------|
+|:---------:|:--------------|:--------------:|
 | 1 | ISIDORA ARRIAGADA | 0.5 |
 | 2 | TRINIDAD FORSTER | 0.5 |
 | 3 | TAHIS FUENTES | 0 |
