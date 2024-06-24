@@ -11,12 +11,12 @@ Para la clase de hoy corresponde completar el desafío final de desarrollo web y
 | Calidad y cantidad de trabajo en la organización de los datos | 0 a 2 |
 | Pertinencia de la alternativa de visualización de los datos organizados (dashboard o infografía digital) | 0 a 1 |
 | Desarrollo, considerando: consultas a bases de datos (JS o CSV), cantidad y pertinencia de decisiones info-gráficas implementadas, y decisiones generales de estilo (CSS) | 0 a 3 | 
-| Asistencia y avance hasta Clase 15 → 12/06/2023 | 0 a 1 | 
+| Avance hasta Clase 15 → 12/06/2023 | 0 a 1 | 
 | TOTAL | 7.0 |
 
 Desafío completo será el que se encuentre en línea hasta las 23.59 hrs. del día. 
 
-Los puntos por **Asistencia y avance hasta Clase 15 → 12/06/2023** son los siguientes:
+Los puntos por **Avance hasta Clase 15 → 12/06/2023** son los siguientes:
 
 | N° | Nombre | URL | 
 |:---------:|:--------------|:--------------:|
@@ -30,7 +30,7 @@ Los puntos por **Asistencia y avance hasta Clase 15 → 12/06/2023** son los sig
 | 8 | ISIDORA MUÑOZ | 0.5 |
 | 9 | VALENTINA NAVARRETE | 0.5 |
 | 10 | TRINIDAD RODRÍGUEZ | 0.5 |
-| 11 | CATALINA SEGUEL | 0.75 |
+| 11 | CATALINA SEGUEL | 0.5 |
 | 12 | FRANCISCA SOTO | 1 |
 | 13 | CAMILA VALLEJO | 0.5 |
 
