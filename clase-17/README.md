@@ -8,9 +8,9 @@ Para la clase de hoy corresponde completar el desafío final de desarrollo web y
 
 | Ítem  | Puntaje |
 |:-------|:-------:|
-| Calidad y cantidad de trabajo en la organización de los datos | 0 a 2.5 |
+| Calidad y cantidad de trabajo en la organización de los datos | 0 a 2 |
 | Pertinencia de la alternativa de visualización de los datos organizados (dashboard o infografía digital) | 0 a 1 |
-| Desarrollo, considerando: consultas a bases de datos (JS o CSV), cantidad y pertinencia de gráficas implementadas, textos complementarios y decisiones generales de estilo (CSS) | 0 a 2.5 | 
+| Desarrollo, considerando: consultas a bases de datos (JS o CSV), cantidad y pertinencia de decisiones info-gráficas implementadas, y decisiones generales de estilo (CSS) | 0 a 3 | 
 | Asistencia y avance hasta Clase 15 → 12/06/2023 | 0 a 1 | 
 | TOTAL | 7.0 |
 
