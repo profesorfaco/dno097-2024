@@ -10,7 +10,7 @@ Para la clase de hoy corresponde completar el desafío final de desarrollo web y
 |:-------|:-------:|
 | Calidad y cantidad de trabajo en la organización de los datos | 0 a 2 |
 | Pertinencia de la alternativa de visualización de los datos organizados (dashboard o infografía digital) | 0 a 1 |
-| Desarrollo, considerando: consultas a bases de datos (JS o CSV), cantidad y pertinencia de gráficas junto a textos (presentando información que no podría presentarse de otra manera), y decisiones generales de estilo (CSS) | 0 a 3 | 
+| Desarrollo, considerando: consultas a bases de datos (JS o CSV), gráficas junto a textos (presentando información que no podría presentarse de otra manera), y decisiones generales de estilo (CSS) | 0 a 3 | 
 | Avance hasta Clase 15 → 12/06/2023 | 0 a 1 | 
 | TOTAL | 7.0 |
 
