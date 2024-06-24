@@ -2,15 +2,9 @@
 
 # Diseño y programación: Desarollo de la propuesta
 
-### Teoría (para la casa)
+### No pasó nada
 
-Pendiente.
-
-- - - - - - - - - - - - - - 
-
-### Práctica (para la clase)
-
-Pendiente.
+Desde un curso optativo se entiende que, de vez en cuando, corresponde priorizar los cursos mínimos.
 
 - - - - - - - 
 
