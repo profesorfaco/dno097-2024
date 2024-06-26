@@ -78,9 +78,9 @@ Clase 09  → 01/05/2023 → FERIADO / RECESO DOCENCIA BIMESTRAL (Se suspenden l
 
 [Clase 14](https://github.com/profesorfaco/dno097-2024/tree/main/clase-14)  → 05/06/2023 → Diseño y programación: Propuesta de tablero de información (*dashboard*) o infografía digital, interactiva y dinámica ✓
 
-[Clase 15](https://github.com/profesorfaco/dno097-2024/tree/main/clase-15)  → 12/06/2023 → Diseño y programación: Datos para la propuesta
+[Clase 15](https://github.com/profesorfaco/dno097-2024/tree/main/clase-15)  → 12/06/2023 → Diseño y programación: Datos para la propuesta ✓
 
-[Clase 16](https://github.com/profesorfaco/dno097-2024/tree/main/clase-16)  → 19/06/2023 → Diseño y programación: Desarollo de la propuesta
+[Clase 16](https://github.com/profesorfaco/dno097-2024/tree/main/clase-16)  → 19/06/2023 → Diseño y programación: Desarollo de la propuesta ✓
 
 [Clase 17](https://github.com/profesorfaco/dno097-2024/tree/main/clase-17)  → 26/06/2023 → Diseño y programación: Evaluación de la propuesta
 
