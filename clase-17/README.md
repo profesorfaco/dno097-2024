@@ -32,7 +32,7 @@ Los puntos por **Avance hasta Clase 15 → 12/06/2023** son los siguientes:
 | 10 | TRINIDAD RODRÍGUEZ | 0.25 |
 | 11 | CATALINA SEGUEL | 0.25 |
 | 12 | FRANCISCA SOTO | [1](https://github.com/fsoti/Clases-finales) |
-| 13 | CAMILA VALLEJO | 0.25 |
+| 13 | CAMILA VALLEJO | 0.5 |
 
 El punto completo (1) lo obtiene quien describe los datos por visualizar desde sus dimensiones e indicadores, presenta –con pantallazos– los antecedentes y referente, y propone una versión esquemática de la distribución de contenidos en una página mediante *wireframes*. Le siguen de cerca quienes sólo olvidaron el *wireframe*.
 
