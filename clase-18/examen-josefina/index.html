@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Social media en chileno</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous" />
+        <link rel="icon" type="image/x-icon" href="img/favicon.png?raw=true" />
+        <!-- Link to Chart.js library -->
+        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+        <style>
+            /* Global styles */
+            body {
+                background-color: #bc4f62; /* Light blue */
+                color: rgba(255, 255, 255, 0.8);
+            }
+
+            header {
+                min-height: 80vh;
+                background: linear-gradient(rgba(188, 79, 98, 0.1), rgba(188, 79, 98, 1)), url("img/realistic-phone-studio-social-media-concept.jpg");
+                background-repeat: no-repeat;
+                background-attachment: scroll;
+                background-position: center bottom;
+                background-size: cover;
+            }
+
+            header > div.container {
+                min-height: 100%;
+                text-shadow: 0px 0px 5px rgba(158, 59, 78, 0.75);
+            }
+
+            h2,
+            h3,
+            h4,
+            h5,
+            h6 {
+                color: rgba(255, 255, 255, 0.6);
+            }
+
+            figure {
+                border-radius: 0.5rem;
+                box-shadow: inset 1px 1px 3px rgba(158, 59, 78, 0.75);
+                margin: 1rem -0.5rem;
+            }
+
+            figure.oscuro {
+                background: #a63c4f;
+            }
+
+            figure.claro {
+                background: #fafafa;
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <div class="container">
+                <div class="row">
+                    <div class="col-11 col-md-7 mx-auto">
+                        <div class="row">
+                            <div class="col-11 col-md-8 me-auto" style="margin-top: 15vw;">
+                                <h1 class="text-left"><em>Social Media</em> en chileno</h1>
+                                <p class="lead text-left">
+                                    Las y los chilenos, desde su extremo occidente global, también han visto afectada la forma en que se comunican, trabajan y se entretienen por las plataformas donde los contenidos son creado por los
+                                    propios usuarios.
+                                </p>
+                                <p>A continuación revisemos algunos datos sobre las <em>social media</em>, avanzando hasta los efectos de la sobreexposición a las pantallas.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <main class="container">
+            <div class="row">
+                <div class="col-11 col-md-7 mx-auto">
+                    <h2 class="mt-5 mb-2"><em>Influencers</em> con más seguidores en Chile</h2>
+                    <p>
+                        Dos de las plataformas de <em>social media</em> más utilizadas en Chile son TikTok e Instagram. Entre los creadores de contenido para tales plataformas podemos encontrar a famosos por ser famosos, además de cantantes
+                        y futbolistas. Estos fomosos devienen en <em>influencers</em>, que son promotores de los más diversos diversos tipos de productos y servicios entre sus <em>followers</em>.
+                    </p>
+                    <h3 class="h4 mt-5 mb-2"><em>Influencers</em> con más seguidores en Instagram</h3>
+                    <figure class="oscuro p-2">
+                        <img src="img/snapshot-1719288874430-02.png?raw=true" class="img-fluid" />
+                    </figure>
+                    <h3 class="h4 mt-5 mb-2"><em>TikTokers</em> con más seguidores en Chile</h3>
+                    <figure class="oscuro p-2">
+                        <img src="img/snapshot-1719288874430-01.png?raw=true" class="img-fluid" alt="Palabras habituales" />
+                    </figure>
+                    <h2 class="mt-5 mb-2">Usuarios de <em>Social Media</em> en Chile</h2>
+                    <p>Como vimos, hay influencers de dos plataformas que cuentan con millones de seguidores. Estos seguidores representan una parte importante, pero no completa de usuarios de Internet en el país.</p>
+                    <figure class="claro p-4">
+                        <canvas id="rrss" width="400" height="200"></canvas>
+                    </figure>
+                    <p>
+                        En promedio, hay 16,55 millones de usuarios de las redes sociales en Chile, lo que equivale al 93,5% de la cantidad de personas en total que utilizan internet (que es de 17,69 millones), y a su vez equivale al 84,4%
+                        de la población total del país (19,62 millones).
+                    </p>
+                    <h3 class="h4 mt-5 mb-2">Las <em>Social Media</em> más allá de Instagram y TikTok</h3>
+                    <p>
+                        Cuando se habla en términos absolutos de consumos de contenidos, sin la necesidad de contar <em>followers</em>, los usos del 84,4% de la población total del país cambian, instalando a Youtube y Facebook en lo más
+                        alto.
+                        <figure class="claro p-4">
+                            <canvas id="popularidad" width="400" height="200"></canvas>
+                        </figure>
+                    </p>
+
+                    <h3 class="h4 mt-5 mb-2">Segmentación del uso de <em>Social media</em> por edad en Chile</h3>
+                    <p>No es un hecho desconocido que las distintas plataformas de internet tienen distintos tipos de usuarios, aquí comparamos 2 de las más populares:</p>
+                    <h4 class="h5 mt-5 mb-2">Instagram</h4>
+                    <p>Conocida por ser la favorita para compartir <em>memes</em>, instagram es más popular entre los adultos jóvenes, de 18 a 44 años, son los usuario que más utilizan la aplicación enChile.</p>
+                    <h4 class="h5 mt-5 mb-2">Facebook</h4>
+                    <p>
+                        Aunque se pensaba que Facebook había sido olvidada por los jóvenes tras la popularidad de Instagram, el 28.8% de sus usuarios tienen entre 25 y 34 años, y cuenta con más usuarios mayores de 45 años en comparación a
+                        Instagram.
+                    </p>
+                    <figure class="claro p-2">
+                        <canvas id="edades" width="400" height="400"></canvas>
+                        <figcaption>
+                            <small class="text-white">0-17 años S/I</small>
+                        </figcaption>
+                    </figure>
+                    <p>Este uso intensivo se puede conectar con un uso también intesivo de dispositivos que permiten a las personas estar pendientes o hacerse dependientes de las actualizaciones en plataformas de <em>social media</em>.</p>
+                    <h3 class="h4 mt-5 mb-2">Más allá de Chile: El uso de dispositivos a nivel de Global</h3>
+                    <p>
+                        Chile se encuentra posicionado en el 6° lugar entre los 10 países que más tiempo dedica al día a las pantallas. Ya sea el computador, celular o un tablet, somos uno de los países que más horas dedica de su tiempo
+                        despierto al consumo de esta tecnología con más de 8 horas y media de uso al día.
+                    </p>
+                    <figure class="claro p-2">
+                        <canvas id="pantalla" width="400" height="200"></canvas>
+                    </figure>
+                    <h4 class="h5 mt-5 mb-2">Uso de Celulares según País (% de horas despiertas dedicadas al celular)</h4>
+                    <p>
+                        Hoy en día, es difícil encontrar a alguien en la calle en cualquier parte del mundo sin un celular en la mano. Aquí estan los países donde los habitantes pasan la mayor parte del día pegados a esas pantallas
+                        portátiles, Chile se encuentra en el 5° lugar, con un 28,79% del día dedicado al celular.
+                    </p>
+                    <figure class="claro p-2">
+                        <canvas id="celular" width="400" height="200"></canvas>
+                    </figure>
+                    <h3 class="h4 mt-5 mb-2">Problemas que acarrea el uso excesito de dispositivos y <em>social media</em></h3>
+                    <p>Debido a la prolongada exposición a pantallas que vivimos, nuestra salud se ve afectada por diveros problemas, los más comunes son:</p>
+                </div>
+                <div class="col-md-9 mx-auto">
+                    <figure class="oscuro p-2">
+                        <img src="img/efectos_negativos_1%20(3).png?raw=true" class="img-fluid" />
+                    </figure>
+                </div>
+                <div class="col-11 col-md-7 mx-auto">
+                    <p>Así como el elemento tangible de la relación tiene efectos negativos al ser utilizado en efecto, las redes sociales también:</p>
+                </div>
+                <div class="col-md-9 mx-auto">
+                    <figure class="oscuro p-2">
+                        <img src="img/efectos_negativos_2%20(2).png?raw=true" class="img-fluid" alt="Palabras habituales" />
+                    </figure>
+                </div>
+                <div class="col-11 col-md-7 mx-auto">
+                    <h3 class="h4 mt-5 mb-2">¿Cómo podemos afrontar la sobreexposición a pantallas y redes sociales?</h3>
+                    <p>
+                        Para abordar la sobreexposición a pantallas y redes sociales de manera efectiva, es fundamental adoptar estrategias equilibradas y conscientes. Esto implica establecer límites claros en el tiempo de uso, fomentar
+                        actividades alternativas fuera de la pantalla y promover un uso consciente de la tecnología. Además, es crucial educar sobre los riesgos asociados, como impactos en la salud mental y social, y promover hábitos que
+                        apoyen un estilo de vida equilibrado y saludable.
+                    </p>
+                    <p class="lead">Establecer zonas libre de pantallas y redes sociales para delimitar zonas de descanso e interacción social</p>
+                    <img src="img/zona.gif?raw=true" class="w-100 my-2 rounded" />
+                    <p class="lead mt-4">Tomar descansos frecuentes y conscientes de las pantallas y redes sociales, moverse y descansar la vista</p>
+                    <img src="img/descanso.gif?raw=true" class="w-100 my-2 rounded" />
+                    <p class="lead mt-4">Ser selectivo con el contenido, evitar el FOMO y ver el contenido que realmente te interesa</p>
+                    <img src="img/borrar.gif?raw=true" class="w-100 my-2 rounded" />
+                    <p class="lead mt-4">Cuando hables con tus amigos, dejen de lado el celular y redes sociales</p>
+                    <img src="img/contacto.gif?raw=true" class="w-100 my-2 rounded" />
+                </div>
+            </div>
+        </main>
+
+        <footer class="pt-5 pb-2">
+            <div class="container">
+                <div class="row">
+                    <div class="col py-3 text-center">
+                        <p class="d-flex justify-content-between align-items-center small m-0 p-0">
+                            <a href="https://github.com/jimschenetzky" class="link-light link-underline-opacity-25 link-underline-opacity-75-hover">Josefina Imschenetzky</a>
+                            <a href="https://github.com/profesorfaco/dno097-2024" class="link-light link-underline-opacity-25 link-underline-opacity-75-hover">
+                                <span class="d-none d-md-inline">Desarrollo web y diseño visual de información</span><span class="d-md-none">DNO097</span>
+                            </a>
+                            <a href="https://diseno.uc.cl/" class="link-light link-underline-opacity-25 link-underline-opacity-75-hover">Diseño UC</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+        <script>
+            $(function () {
+                var scroll_pos = 0;
+                $("html, body").animate({ scrollTop: scroll_pos }, "2000");
+            });
+        </script>
+
+        <script>
+            // Promedio Pantallas
+            var ctx1 = document.getElementById("pantalla").getContext("2d");
+            var pantalla = new Chart(ctx1, {
+                type: "bar",
+                data: {
+                    labels: ["Sudáfrica", "Brasil", "Filipinas", "Colombia", "Argentina", "Chile", "Rusia", "Malasia", "EAU", "Tailandia"],
+                    datasets: [
+                        {
+                            label: "Horas de uso de pantalla al día",
+                            data: [9.24, 9.13, 8.52, 8.43, 8.41, 8.31, 8.21, 8.17, 8.11, 7.58],
+                            backgroundColor: "rgba(240, 3, 229, 1)",
+                            borderColor: "rgba(194, 217, 248, 1)",
+                            borderWidth: 3,
+                        },
+                    ],
+                },
+                options: {
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                        },
+                    },
+                },
+            });
+            // promedio celulares
+            var ctx1 = document.getElementById("celular").getContext("2d");
+            var celular = new Chart(ctx1, {
+                type: "bar",
+                data: {
+                    labels: ["Sudáfrica", "Brasil", "Filipinas", "Tailandia", "Chile"],
+                    datasets: [
+                        {
+                            label: "Horas de uso de celular al día",
+                            data: [31.72, 31.57, 31.45, 30.18, 28.79],
+                            backgroundColor: "rgba(8, 102, 255, 1)",
+                            borderColor: "rgba(194, 217, 248, 1)",
+                            borderWidth: 3,
+                        },
+                    ],
+                },
+                options: {
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                        },
+                    },
+                },
+            });
+
+            // cuantos usuarios de internet usan rrss
+            var ctx5 = document.getElementById("rrss").getContext("2d");
+            var rrss = new Chart(ctx5, {
+                type: "pie",
+                data: {
+                    labels: ["Usan RRSS", "No usan RRSS"],
+                    datasets: [
+                        {
+                            label: "Pie Chart",
+                            data: [84.4, 15.6],
+                            backgroundColor: ["#0866FF", "#F003E5"],
+                            borderColor: "rgba(194, 217, 248, 1)",
+                            borderWidth: 3,
+                        },
+                    ],
+                },
+            });
+
+            // Usuarios en redes sociales
+            var ctx6 = document.getElementById("popularidad").getContext("2d");
+            var popularidad = new Chart(ctx6, {
+                type: "polarArea",
+                data: {
+                    labels: ["Youtube", "Facebook", "Tiktok", "Instagram", "Linkedin", "X", "Pinterest", "Snapchat"],
+                    datasets: [
+                        {
+                            label: "Polar Area Chart",
+                            data: [15400000, 12150000, 11250000, 10950000, 6900000, 3650000, 3570000, 1050000],
+                            backgroundColor: ["#FF0000", "#0866FF", "#000000", "#F003E5", "#0A66C2", "#1B92E2", "#E60023", "#FFFC00"],
+                            borderColor: "rgba(194, 217, 248, 1)",
+                            borderWidth: 3,
+                        },
+                    ],
+                },
+            });
+
+            // Distribución etarea
+            var ctxPyramid = document.getElementById("edades").getContext("2d");
+            var edades = new Chart(ctxPyramid, {
+                type: "bar",
+                data: {
+                    labels: ["0-17", "18-24", "25-34", "35-44", "45-54", "55-64", "65 +"],
+                    datasets: [
+                        {
+                            label: "Instagram",
+                            data: [0, 24.5, 31.3, 20.6, 11.9, 7.2, 4.5],
+                            backgroundColor: "rgba(240, 3, 229, 1)",
+                            borderColor: "rgba(240, 3, 229, 1)",
+                            borderWidth: 0,
+                        },
+                        {
+                            label: "Facebook",
+                            data: [0, -20.2, -28.8, -19.7, -13.8, -10.3, -7.1],
+                            backgroundColor: "rgba(8, 102, 255, 1)",
+                            borderColor: "rgba(8, 102, 255, 1)",
+                            borderWidth: 0,
+                        },
+                    ],
+                },
+                options: {
+                    indexAxis: "y",
+                    scales: {
+                        x: {
+                            beginAtZero: true,
+                            ticks: {
+                                callback: function (value) {
+                                    return Math.abs(value);
+                                },
+                            },
+                        },
+                    },
+                    plugins: {
+                        tooltip: {
+                            callbacks: {
+                                label: function (context) {
+                                    return context.dataset.label + ": " + Math.abs(context.raw);
+                                },
+                            },
+                        },
+                    },
+                },
+            });
+        </script>
+    </body>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</html>
