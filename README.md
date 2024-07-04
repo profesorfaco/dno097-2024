@@ -82,9 +82,9 @@ Clase 09  → 01/05/2023 → FERIADO / RECESO DOCENCIA BIMESTRAL (Se suspenden l
 
 [Clase 16](https://github.com/profesorfaco/dno097-2024/tree/main/clase-16)  → 19/06/2023 → Diseño y programación: Desarollo de la propuesta ✓
 
-[Clase 17](https://github.com/profesorfaco/dno097-2024/tree/main/clase-17)  → 26/06/2023 → Diseño y programación: Evaluación de la propuesta
+[Clase 17](https://github.com/profesorfaco/dno097-2024/tree/main/clase-17)  → 26/06/2023 → Diseño y programación: Evaluación de la propuesta ✓
 
-[Clase 18](https://github.com/profesorfaco/dno097-2024/tree/main/clase-18) → 03/07/2023 → EXÁMENES DE CURSOS MÍNIMOS Y OPTATIVOS
+[Clase 18](https://github.com/profesorfaco/dno097-2024/tree/main/clase-18) → 03/07/2023 → EXÁMENES DE CURSOS MÍNIMOS Y OPTATIVOS ✓
 
 **Cada clase se basará en modalidad de “aula invertida”**; esto transfiere a cada estudiante la responsabilidad de adelantar la revisión de la "teoría" en el README.md de cada clase. Para que quede más claro, en los primeros README.md el título de **Teoría** es seguido por un paréntesis **(para la casa)**. Si cada estudiante revisa esta "teoría para la casa", las clases de los miércoles podrán basarse en una práctica que organizará su comprensión, atendiendo a dudas puntuales.
 
